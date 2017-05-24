@@ -1,35 +1,15 @@
-Our fork.
+Our fork of the [Jackal](https://clenemt.github.io/jackal/) theme.
 
-# Jackal ![](https://img.shields.io/npm/l/express.svg?maxAge=2592000?style=flat-square)
-Jackal is a very lightweight theme for Jekyll.  
-Feel free to fork, change, modify and re-use it.
+Github for the theme: https://clenemt.github.io/jackal/
+Demo of the theme:
+Creator: http://clenemt.com
 
-### Screenshots
-![](https://cloud.githubusercontent.com/assets/447956/17020916/9ed9ce1a-4f44-11e6-80d5-26df9d219dd2.PNG)
-![](https://cloud.githubusercontent.com/assets/447956/17020915/9ed939f0-4f44-11e6-9e8e-3a8e5562b0da.PNG)
+To run this locally:
+- clone this repo
+- run `bundle install` (you need ruby 2.1+ I _think_)
+- run `bundle execv jekyll serve` to view the website at localhost:4000
 
-# Usage
-Be sure to have both `jekyll` and `jekyll-paginate` gem installed.
-
-Than using your favorite terminal do:
-
-```
-$ git clone git@github.com:clenemt/jackal.git
-$ cd jackal
-$ jekyll serve
-```
-
-Jackal theme includes:
-
-* Intro page
-* About page
-* Articles, archives and pagination
-* Rss feed
-* Responsive & great typo
-* Code syntax highlighting
-* Google Analytics tracking code
-
-It can be seen in used at [clenemt.com](http://clenemt.com) or on [Github page](https://clenemt.github.io/jackal/).
+---
 
 ## Options
 See the global template options inside `config.yml` first thing.
@@ -46,9 +26,6 @@ for **posts**:
 * desc (for a manual excerpt and SEO description)
 
 See [Front Matter](https://jekyllrb.com/docs/frontmatter/) and [configuration](https://jekyllrb.com/docs/configuration/) for more information.
-
-# Thanks
-Thanks to [Kactus](https://github.com/nickbalestra/kactus) and [jaicab]( https://github.com/jaicab/jaicab.github.io).
 
 # License
 Copyright (c) 2016 Jackal Authors - Released under the MIT License.
