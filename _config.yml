@@ -10,11 +10,11 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
-github_username: clenemt
-github_source: jackal
+email: starconuw@googlegroups.com
+author: StarCon
+twitter_username: starconuw
+github_username: starcongithub
+github_source: starcongithub
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
@@ -30,18 +30,18 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
-  - title: Schedule
-    url: /schedule/
-    desc: See the conference schedule here
-  - title: Speakers
-    url: /speakers/
-    desc: See who's speaking
-  - title: Sponsors
-    url: /sponsors/
-    desc: Cha-ching
-  - title: Code of Conduct
-    url: /coc/
-    desc: Our code of conduct
+    #  - title: Schedule
+    #    url: /schedule/
+    #    desc: See the conference schedule here
+    #  - title: Speakers
+    #    url: /speakers/
+    #    desc: See who's speaking
+    #  - title: Sponsors
+    #    url: /sponsors/
+    #    desc: Cha-ching
+    #  - title: Code of Conduct
+    #    url: /coc/
+    #    desc: Our code of conduct
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
