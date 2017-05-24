@@ -1,8 +1,8 @@
 Our fork of the [Jackal](https://clenemt.github.io/jackal/) theme.
 
-Github for the theme: https://clenemt.github.io/jackal/
-Demo of the theme:
-Creator: http://clenemt.com
+- Github for the theme: https://clenemt.github.io/jackal/
+- Demo of the theme: https://clenemt.github.io/jackal/
+- Creator: http://clenemt.com
 
 To run this locally:
 - clone this repo
