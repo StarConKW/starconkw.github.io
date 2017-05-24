@@ -1,4 +1,4 @@
-Our fork of the [Jackal](https://clenemt.github.io/jackal/) theme.
+Our fork of the [Jackal](https://clenemt.github.io/jackal/) theme for Jekyll.
 
 Github for the theme: https://clenemt.github.io/jackal/
 Demo of the theme:
