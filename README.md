@@ -7,7 +7,7 @@ Our fork of the [Jackal](https://clenemt.github.io/jackal/) theme.
 To run this locally:
 - clone this repo
 - run `bundle install` (you need ruby 2.1+ I _think_)
-- run `bundle execv jekyll serve` to view the website at localhost:4000
+- run `bundle exec jekyll serve` to view the website at localhost:4000
 
 ---
 
