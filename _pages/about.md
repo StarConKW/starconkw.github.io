@@ -1,78 +1,31 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
-desc: About me.
+subtitle: About StarCon
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
-</div>
+<!-- <div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+</div>-->
 
-{::nomarkdown} 
-<figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.png">
-</figure>
-{:/}
+## Our mission is to:
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+- Make Computer Science and its related technologies accessible to everyone, taking in to consideration race, class, gender, ability, religion or sexual orientation and intersections thereof.
+- Create a culture that fosters learning and community building through knowledge sharing among people from diverse backgrounds.
 
 ---
 
-## Quem fata quamvis
+## Our inspiration
 
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
-
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
-
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
-
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
-
-## Si leti tegit undis quam
-
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
-gerentes videt.
-
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
-
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
-
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
+Anna, Arshia, and Evy attended [HelloCon](hellocon.net) in Toronto, which followed the same format as the wonderful [!!con]() which Arshia and Evy later attended. We loved the lightening talk format, and we loved the diversity and excitement of the talks. We're excited to organize StarCon and bring some of our favourite elements of these two conferences to Waterloo!
 
 ---
 
-## Abit inque et palato sibila telorum at
+## Our Name
 
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
+The star in StarCon was inspired by the star (asterisk) that is the [wildcard character](http://whatis.techtarget.com/definition/wildcard-character) used in many programming tools. This character represents one or more other characters of any type, and our hope is that StarCon can represent many different types of people and topics in technology.
 
 </div>
 

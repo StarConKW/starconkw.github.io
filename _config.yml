@@ -30,9 +30,6 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
-  - title: Schedule
-    url: /schedule/
-    desc: See the conference schedule here
   - title: Speakers
     url: /speakers/
     desc: See who's speaking

@@ -3,19 +3,11 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-StaCon is a two-day software engineering conference held at the **University of
-Waterloo**. Join us for two days of ten minute lighting
-talks about technology, computer science, programming, and the joy of learning
-about them!
-
-Our call for speakers is now **open**! Apply [here]() to be a speaker. We
-encourage you to apply, even if you've never given a technical talk before :)
+StarCon is a two-day software engineering conference held at the **University of Waterloo**. Join us for two days of ten minute lighting talks about technology, computer science, programming, and the joy of learning about them!
 
 ## Where and When
 
-StarCon will be held at University of Waterloo, Mathematics 3 Building at 200
-University Avenue West during January 6-7 2018. The conference will run from 9-5
-pm on both days. Read more about our venue's accessibility [here]().
+StarCon will be held at University of Waterloo in January 2018 (exact dates coming soon!) The conference will run from 9-5 pm on both days.
 
 ## Who Can Attend
 
@@ -23,16 +15,37 @@ This conference is open to everyone!
 
 ## What does it cost to attend? Where do I register?
 
-Registration is **free**! Registration hasn't opened up yet--we'll update this page
-when it does!
+Registration information is still being figured out - we'll post updates here!
 
 ## Where can I get updates?
 
-Follow us on [Twitter]() or [Facebook](). You can also sign up for our [mailing
-list]() for updates.
+Follow us on [Twitter](https://twitter.com/starconuw) or [Facebook](https://www.facebook.com/starconuw/). You can also sign up for our mailing list for updates:
+
+{::nomarkdown}
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{ clear:left; font:14px "Lato", serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&amp;id=d6a129f1a2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to our mailing list</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5577d37b5a332e0df8c232920_d6a129f1a2" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+{:/}
+<!--End mc_embed_signup-->
+
 
 ## Who's running this?
 
-Arshia, Anna, Evy.
+[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), and [Evy](evykassirer.com) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](wics.uwaterloo.ca).
 
 </div>
