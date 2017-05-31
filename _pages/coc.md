@@ -8,7 +8,7 @@ permalink: /coc/
 <div class="pretty-links">
 
 Our Code of Conduct is our commitment to the community to provide a welcoming,
-safe space for all its participants. All speakers, sponsors and volunteers at
+safe space for all its participants. All speakers, sponsors, and volunteers at
 StarCon are required to agree with the following code of conduct. Organizers
 will enforce this code throughout the event and social media spaces.
 
@@ -24,7 +24,7 @@ workshops, parties, and social media.
 
 **Unacceptable behaviors include:** intimidating, harassing, abusive,
 discriminatory, derogatory or demeaning speech or actions by any participant in
-our community online, at all related events and in one-on-one communications
+our community online, at all related events, and in one-on-one communications
 carried out in the context of community business. Community event venues may be
 shared; please be respectful to all patrons of these locations.
 
@@ -37,7 +37,7 @@ physical contact, and unwelcome sexual attention.
 
 ## Consequences of Unacceptable Behavior ##
 
-Unacceptable behavior from any community member, including sponsors and those
+Unacceptable behavior from any community member, including sponsors, and those
 with decision-making authority, will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
@@ -50,7 +50,9 @@ in the case of a paid event).
 ## Experiencing Unacceptable Behavior ##
 
 If you are subject to or witness unacceptable behavior, or have any other
-concerns, please [contact us](#contact-information).
+concerns, please [contact us](#contact-us), with a description of the incident,
+when and where it happened, and any other details you feel comfortable
+disclosing.
 
 Additionally, community organizers are available to help community members
 engage with local law enforcement or to otherwise help those experiencing
@@ -60,7 +62,7 @@ will also provide escorts as desired by the person experiencing distress.
 ## Addressing Grievances ##
 
 If you feel you have been falsely or unfairly accused of violating this Code of
-Conduct, [contact us](#contact-information) with a concise description of your
+Conduct, [contact us](#contact-us) with a description of your
 grievance.
 
 ## Scope ##
@@ -70,9 +72,16 @@ other guests) to abide by this Code of Conduct in all community
 venues&mdash;online and in-person&mdash;as well as in all one-on-one
 communications pertaining to community business.
 
-## Contact Information ##
+## Contact Us ##
 
-Email: [starconuw@googlegroups.com](mailto:starconuw@googlegroups.com)
+<form action="https://formspree.io/uwstarcon@gmail.com" method="POST">
+
+<textarea type="text" name="code of conduct violation" rows="5" cols="60"></textarea>
+<label for="_replyto">Your email (optional) </label>
+<input type="email" name="_replyto">
+
+<input type="submit" value="Send">
+</form>
 
 # License Information and Attribution #
 
@@ -83,6 +92,6 @@ Conduct](http://opensourcebridge.org/about/code-of-conduct/). The short version
 is taken from the [JSConf Code of
 Conduct](http://jsconf.com/codeofconduct.html).
 
-*Version 1.0, adopted by StarCon on May 30, 2017.*
+*Version 1.0, adopted by StarCon on June 1, 2017.*
 
 </div>
