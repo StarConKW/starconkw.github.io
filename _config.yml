@@ -39,6 +39,9 @@ navigation:
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
+  - title: Policies
+    url: /policies/
+    desc: Policies
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
