@@ -189,3 +189,41 @@
   &.right { margin-right: .3rem; }
   &.left { margin-left: .3rem; }
 }
+
+// CUSTOM CSS ================
+
+html, body, .site-header, .site-footer {
+  background: #3d4654;
+}
+
+.site-header, .site-footer {
+  color: white;
+  a, .site-source a {
+    color: white;
+  }
+  a:hover, .site-source a:hover {
+    color: #f8e145;
+    background-color: transparent;
+  }
+}
+
+.site-content {
+  padding: 2em;
+  background: $gray-lightest;
+  border-radius: 20px;
+}
+
+.site-logo {
+  width: auto;
+  height: auto;
+  margin-top: -12px;
+  margin-left: 0;
+}
+
+#contact-us + form {
+  display: grid;
+
+  textarea {
+    margin-bottom: 10px;
+  }
+}
