@@ -40,12 +40,25 @@ Follow us on [Twitter](https://twitter.com/starconuw) or [Facebook](https://www.
     </div>
 </form>
 </div>
+<br>
 {:/}
 <!--End mc_embed_signup-->
-
 
 ## Who's running this?
 
 [Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), and [Evy](evykassirer.com) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](wics.uwaterloo.ca).
+
+---
+
+## Territorial Acknowledgement ##
+
+StarCon would like to acknowledge that we are on the traditional territory of
+the Neutral, Anishnawbe and Haudenosaunee peoples. The University of Waterloo is
+situated on the Haldimand Tract, the land promised to the Six Nations that
+includes six miles on each side of the Grand River. It is important to remember
+that the land that we are using today for this event was stolen, and that there
+is lots of work to do to bring back the rights that indigenous and Native people
+deserve. We make this acknoledgement as part of our efforts to be inclusive and
+respectful of people from diverse backgrounds.
 
 </div>
