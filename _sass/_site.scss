@@ -227,3 +227,37 @@ html, body, .site-header, .site-footer {
     margin-bottom: 10px;
   }
 }
+
+@media (min-width: 768px) {
+  h2 { font-size: 1.7rem }
+.lead { font-size: 1rem }
+}
+
+@media (min-width: 768px) { .lead { font-size: 1.2rem } }
+
+.pretty-links a  {
+  background-image: none;
+}
+
+.pretty-links a:hover {
+  color: #3d4654;
+}
+
+/* these aren't working but ?? oh well */
+
+::-moz-selection {
+  background-color: transparent;
+  color: #3d4654;
+  text-shadow: none;
+}
+
+::selection {
+  background-color: transparent;
+  color: #3d4654;
+  text-shadow: none;
+}
+
+.site-nav a:focus, .site-nav a:active {
+  color: #3d4654;
+  backgroiund-image: none;
+}

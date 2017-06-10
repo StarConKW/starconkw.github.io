@@ -46,7 +46,7 @@ Follow us on [Twitter](https://twitter.com/starconuw) or [Facebook](https://www.
 
 ## Who's running this?
 
-[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), and [Evy](evykassirer.com) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](wics.uwaterloo.ca).
+[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), and [Evy](http://evykassirer.com) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](http://wics.uwaterloo.ca).
 
 ---
 
