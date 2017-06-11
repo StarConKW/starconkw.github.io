@@ -12,7 +12,7 @@ We're currently looking for sponsors!
 ## Why You Should Sponsor Us
 
 We decided to organize StarCon because we want to invite people excited about
-the work they do to share that excitement with others&mdash;because geniune
+the work they do to share that excitement with others&mdash;because genuine
 enthusiasm is inspiring! We want to organize an event in which anyone interested
 about technology, regardless of their experience level, feels motivated to
 pursue that interest. We want to keep this event free, encourage students to
