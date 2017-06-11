@@ -1,11 +1,11 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Jackal               # used for the html title of every page
+title: StarCon               # used for the html title of every page
 desc: >
   A software engineering conference taking place at the University of Waterloo January 15-16!
 
-url: http://jackal.com      # put your website hosting url here
+url: http://starcon.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
@@ -14,7 +14,6 @@ email: starconuw@googlegroups.com
 author: StarCon
 twitter_username: starconuw
 github_username: StarConUW
-github_source: starcongithub
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
@@ -30,18 +29,15 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
-    #  - title: Schedule
-    #    url: /schedule/
-    #    desc: See the conference schedule here
-    #  - title: Speakers
-    #    url: /speakers/
-    #    desc: See who's speaking
-    #  - title: Sponsors
-    #    url: /sponsors/
-    #    desc: Cha-ching
-    #  - title: Code of Conduct
-    #    url: /coc/
-    #    desc: Our code of conduct
+  - title: Speakers
+    url: /speakers/
+    desc: See who's speaking
+  - title: Sponsors
+    url: /sponsors/
+    desc: Cha-ching
+  - title: Code of Conduct
+    url: /coc/
+    desc: Our code of conduct
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
