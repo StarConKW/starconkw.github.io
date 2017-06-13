@@ -27,4 +27,10 @@ Anna, Arshia, and Evy attended [HelloCon](http://hellocon.net) in Toronto, which
 
 The star in StarCon was inspired by the star (asterisk) that is the [wildcard character](http://whatis.techtarget.com/definition/wildcard-character) used in many programming tools. This character represents one or more other characters of any type, and our hope is that StarCon can represent many different types of people and topics in technology.
 
+---
+
+## Our Logo
+
+Our logo was designed by the amazing and talented [Clare Ng](http://claricen.github.io)! It's a *light*bulb with a star in the middle (for StarCon) because we're a *light*ning talk conference.
+
 </div>
