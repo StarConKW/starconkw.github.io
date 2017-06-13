@@ -88,9 +88,8 @@ communications pertaining to community business.
 This Code of Conduct is distributed under a [Creative Commons
 Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/),
 derived from the [Open Source Bridge Code of
-Conduct](http://opensourcebridge.org/about/code-of-conduct/). The short version
-is taken from the [JSConf Code of
-Conduct](http://jsconf.com/codeofconduct.html).
+Conduct](http://opensourcebridge.org/about/code-of-conduct/) and the [JSConf
+Code of Conduct](http://jsconf.com/codeofconduct.html).
 
 *Version 1.0, adopted by StarCon on June 1, 2017.*
 
