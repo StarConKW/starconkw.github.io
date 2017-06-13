@@ -74,6 +74,8 @@ communications pertaining to community business.
 
 ## Contact Us ##
 
+We'll keep your message and contact information private.
+
 <form action="https://formspree.io/uwstarcon@gmail.com" method="POST">
 
 <textarea type="text" name="code of conduct violation" rows="5" cols="60"></textarea>
