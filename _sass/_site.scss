@@ -168,15 +168,19 @@
 // SITE SELECTION ====================================
 
 ::-moz-selection {
+/*
   background-color: $brand-color;
   color: #fff;
   text-shadow: none;
+  */
 }
 
 ::selection {
+  /*
   background-color: $brand-color;
   color: #fff;
   text-shadow: none;
+  */
 }
 
 // SITE EMOJI ====================================
@@ -244,18 +248,6 @@ html, body, .site-header, .site-footer {
 }
 
 /* these aren't working but ?? oh well */
-
-::-moz-selection {
-  background-color: transparent;
-  color: #3d4654;
-  text-shadow: none;
-}
-
-::selection {
-  background-color: transparent;
-  color: #3d4654;
-  text-shadow: none;
-}
 
 .site-nav a:focus, .site-nav a:active {
   color: #3d4654;
