@@ -12,7 +12,7 @@ permalink: /about/
 
 ## Our mission is to:
 
-- Make Computer Science and its related technologies accessible to everyone, taking in to consideration race, class, gender, ability, religion or sexual orientation and intersections thereof.
+- Make Computer Science and its related technologies accessible to everyone, taking into consideration race, class, gender, ability, religion or sexual orientation, and intersections thereof.
 - Create a culture that fosters learning and community building through knowledge sharing among people from diverse backgrounds.
 
 ---
