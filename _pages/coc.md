@@ -74,7 +74,7 @@ communications pertaining to community business.
 
 ## Contact Us ##
 
-We'll keep your message and contact information private.
+We won't share your contact information or the contents of your message with anyone other than conference executives.
 
 <form action="https://formspree.io/uwstarcon@gmail.com" method="POST">
 

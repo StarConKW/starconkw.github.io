@@ -224,7 +224,7 @@ html, body, .site-header, .site-footer {
   margin-left: 0;
 }
 
-#contact-us + form {
+#contact-us + p + form {
   display: grid;
 
   textarea {
