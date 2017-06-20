@@ -11,13 +11,9 @@ We're currently looking for sponsors!
 
 ## Why You Should Sponsor Us
 
-We decided to organize StarCon because we want to invite people excited about
-the work they do to share that excitement with others&mdash;because genuine
-enthusiasm is inspiring! We want to organize an event in which anyone interested
-about technology, regardless of their experience level, feels motivated to
-pursue that interest. We want to keep this event free, encourage students to
-speak and attend, provide an accessible venue, make sure our attendees are well
-fed, and give them some swag to remember us by!
+By sponsoring StarCon, you will empower diverse perspectives in technology and contribute towards creating a community grounded in learning. You will also have the opportunity to actively interact with a group of people keenly interested in technology. You can leverage this opportunity to market your brand and product, create awareness of your core values and philosophies, share what it’s like to be a part of your organization, talk about your plans for the future, and recruit candidates for open positions.
+
+In addition to this, you will be supporting our mission of providing people with a community in which they can share their excitement and ideas with others. You will help us meet our goals to keep this event affordable, encourage students to speak and attend, provide an accessible venue, make sure our attendees are well fed, and give them some swag to remember us by!
 
 If you're interested in sponsoring us, or have any questions about sponsorship,
 email us!
