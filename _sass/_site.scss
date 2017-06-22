@@ -168,15 +168,19 @@
 // SITE SELECTION ====================================
 
 ::-moz-selection {
+/*
   background-color: $brand-color;
   color: #fff;
   text-shadow: none;
+  */
 }
 
 ::selection {
+  /*
   background-color: $brand-color;
   color: #fff;
   text-shadow: none;
+  */
 }
 
 // SITE EMOJI ====================================
@@ -188,4 +192,64 @@
 
   &.right { margin-right: .3rem; }
   &.left { margin-left: .3rem; }
+}
+
+// CUSTOM CSS ================
+
+html, body, .site-header, .site-footer {
+  background: #3d4654;
+}
+
+.site-header, .site-footer {
+  color: white;
+  a, .site-source a {
+    color: white;
+  }
+  a:hover, .site-source a:hover {
+    color: #f8e145;
+    background-color: transparent;
+  }
+}
+
+.site-content {
+  padding: 2em;
+  background: $gray-lightest;
+  border-radius: 20px;
+}
+
+.site-logo {
+  width: auto;
+  height: auto;
+  margin-top: -12px;
+  margin-left: 0;
+}
+
+#contact-us + p + form {
+  display: grid;
+
+  textarea {
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  h2 { font-size: 1.7rem }
+.lead { font-size: 1rem }
+}
+
+@media (min-width: 768px) { .lead { font-size: 1.2rem } }
+
+.pretty-links a  {
+  background-image: none;
+}
+
+.pretty-links a:hover {
+  color: #3d4654;
+}
+
+/* these aren't working but ?? oh well */
+
+.site-nav a:focus, .site-nav a:active {
+  color: #3d4654;
+  background-image: none;
 }

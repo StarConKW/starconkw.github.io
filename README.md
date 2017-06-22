@@ -1,13 +1,13 @@
 Our fork of the [Jackal](https://clenemt.github.io/jackal/) theme for Jekyll.
 
-Github for the theme: https://clenemt.github.io/jackal/
-Demo of the theme:
-Creator: http://clenemt.com
+- Github for the theme: https://clenemt.github.io/jackal/
+- Demo of the theme: https://clenemt.github.io/jackal/
+- Creator: http://clenemt.com
 
 To run this locally:
 - clone this repo
 - run `bundle install` (you need ruby 2.1+ I _think_)
-- run `bundle execv jekyll serve` to view the website at localhost:4000
+- run `bundle exec jekyll serve` to view the website at localhost:4000
 
 ---
 
