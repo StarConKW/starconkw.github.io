@@ -33,4 +33,11 @@ The star in StarCon was inspired by the star (asterisk) that is the [wildcard ch
 
 Our logo was designed by the amazing and talented [Clare Ng](http://claricen.github.io)! It's a *light*bulb with a star in the middle (for StarCon) because we're a *light*ning talk conference.
 
+---
+
+## Prospectus
+
+To read more about StarCon, our mission, our organizers, and our sponsorship packages, check out our [prospectus](https://drive.google.com/file/d/0B3v6vCNeUsMhOHRLcnN0a2VIZThVaVhMQ1NOeEw2OXp6b3hn/view)!
+
+
 </div>
