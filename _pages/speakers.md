@@ -11,7 +11,7 @@ We'll be putting out a call for talk proposals in early fall, and will be puttin
 
 ## Contact
 
-If you have any questions, please email Anna Lorimer: [anna.lorimer@edu.uwaterloo.ca](mailto:anna.lorimer@edu.uwaterloo.ca)
+If you have any questions, please email Anna Lorimer: [a.lorimer49@gmail.com](mailto:a.lorimer49@gmail.com)
 
 </div>
 
