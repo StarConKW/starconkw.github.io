@@ -17,9 +17,9 @@ permalink: /about/
 
 ---
 
-## Our inspiration
+## Inspiration for StarCon
 
-Anna, Arshia, and Evy attended [HelloCon](http://hellocon.net) in Toronto, which followed the same format as the wonderful [!!con](http://bangbangcon.com) which Arshia and Evy later attended. We loved the lightning talk format, and we loved the diversity and excitement of the talks. We're excited to organize StarCon and bring some of our favourite elements of these two conferences to Waterloo!
+Anna, Arshia, and Evy attended [HelloCon](http://hellocon.net) in Toronto, which followed the same format as the wonderful [!!con](http://bangbangcon.com) which Arshia and Evy later attended. They loved the lightning talk format, and they loved the diversity and excitement of the talks. They're excited to organize StarCon and bring some of their favourite elements of these two conferences to Waterloo!
 
 ---
 
