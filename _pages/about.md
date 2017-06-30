@@ -37,7 +37,7 @@ Our logo was designed by the amazing and talented [Clare Ng](http://claricen.git
 
 ## Prospectus
 
-To read more about StarCon, our mission, our organizers, and our sponsorship packages, check out our [prospectus](https://drive.google.com/file/d/0B3v6vCNeUsMhOHRLcnN0a2VIZThVaVhMQ1NOeEw2OXp6b3hn/view)!
+To read more about StarCon, our mission, our organizers, and our sponsorship packages, check out our [prospectus](https://drive.google.com/file/d/0B3v6vCNeUsMhV0EtWUhaeVNtd3c/view)!
 
 
 </div>
