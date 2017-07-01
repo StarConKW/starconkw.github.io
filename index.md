@@ -7,7 +7,7 @@ StarCon is a two-day software engineering conference held at the **University of
 
 ## Who's speaking? Can I apply to speak?
 
-Check out our [invited speakers](speakers/#keynotes)! Talk proposal details will be posted in September.
+Check out our [invited keynotes and speakers](speakers/#keynotes)! Talk proposal details will be posted in September.
 
 ## Where and When
 
