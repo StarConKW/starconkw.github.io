@@ -27,7 +27,7 @@ Safia is the founder of Zarf, a platform for independent writers who produce pai
 
 ![](/assets/img/speakers/dinah.jpg)
 
-Dinah Davis is the Director of R&D at Arctic Wolf Networks, responsible for the development of the AWN CyberSOC product. Dinah holds an M. Math in cryptography from the University of Waterloo. She has over 16 years of experience in the tech industry with time spent as a Security Software Developer at the Communications Security Establishment Canada and BlackBerry, and as a manager at TrustWave and D2l. Dinah is also the founder of Code Like a Girl, a publication whose goal it is to change society's perceptions of how women are viewed in technology, which has over 24 000 subscribers and a vibrant online community.
+Dinah Davis is the Director of R&D at Arctic Wolf Networks, responsible for the development of the AWN CyberSOC product. Dinah holds an M. Math in cryptography from the University of Waterloo. She has over 16 years of experience in the tech industry with time spent as a Security Software Developer at the Communications Security Establishment Canada and BlackBerry, and as a manager at TrustWave and D2l. Dinah is also the founder of Code Like a Girl, a publication whose goal it is to change society's perceptions of how women are viewed in technology, which has over 25 000 subscribers and a vibrant online community.
 
 ### Josh Matthews
 
