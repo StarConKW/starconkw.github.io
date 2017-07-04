@@ -5,6 +5,10 @@ layout: default
 <div class="lead pretty-links">
 StarCon is a two-day software engineering conference held at the **University of Waterloo**. Join us for two days of ten minute lighting talks about technology, computer science, programming, and the joy of learning about them!
 
+## Who's speaking? Can I apply to speak?
+
+Check out our [invited keynotes and speakers](speakers/#keynotes)! Talk proposal details will be posted in September.
+
 ## Where and When
 
 StarCon will be held at University of Waterloo on January 6th and 7th, 2018.

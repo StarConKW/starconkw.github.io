@@ -253,3 +253,22 @@ html, body, .site-header, .site-footer {
   color: #3d4654;
   background-image: none;
 }
+
+// speakers page
+
+#keynotes {
+  border-bottom: 3px solid #fbdd5d;
+  border-bottom-style: double;
+
+  ~ h2 {
+    border-bottom: 3px solid #fbdd5d;
+    border-bottom-style: double;
+  }
+
+  ~ p img {
+    float: right;
+    width: 130px;
+    margin-top: -55px;
+    margin-left: 10px;
+  }
+}
