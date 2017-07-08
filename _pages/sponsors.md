@@ -15,7 +15,7 @@ By sponsoring StarCon, you will empower diverse perspectives in technology and c
 
 In addition to this, you will be supporting our mission of providing people with a community in which they can share their excitement and ideas with others. You will help us meet our goals to keep this event affordable, encourage students to speak and attend, provide an accessible venue, make sure our attendees are well fed, and give them some swag to remember us by!
 
-To read more about StarCon and our sponsorship packages, check out our [prospectus](https://drive.google.com/file/d/0B3v6vCNeUsMhV0EtWUhaeVNtd3c/view).
+To read more about StarCon and our sponsorship packages, check out our [prospectus](https://drive.google.com/file/d/0B3v6vCNeUsMheExabGVSTmtScGM/view).
 
 If you're interested in sponsoring us, or have any questions about sponsorship,
 email us!
