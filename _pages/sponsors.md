@@ -22,7 +22,7 @@ email us!
 
 ## Contact
 
-Arshia Mufti, Director of Finance:
+Arshia Mufti, Director of Sponsorship:
 [amufti16@gmail.com](mailto:amufti16@gmail.com)
 
 </div>
