@@ -35,6 +35,9 @@ navigation:
   - title: Sponsors
     url: /sponsors/
     desc: Cha-ching
+  - title: CFP
+    url: /cfp/
+    desc: Be one of our speakers
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
