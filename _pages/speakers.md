@@ -37,8 +37,7 @@ Josh Matthews builds web browsers and sustainable communities for a living. He g
 
 ## Call for proposals
 
-We'll be putting out a call for talk proposals in September, and all updates/details will be posted on this page!
-
+Information can be found [here](/cfp/).
 ## Contact
 
 If you have any questions, please email Anna Lorimer: [a.lorimer49@gmail.com](mailto:a.lorimer49@gmail.com)
