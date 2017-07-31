@@ -205,6 +205,14 @@ html, body, .site-header, .site-footer {
   a, .site-source a {
     color: white;
   }
+  .site-nav {
+    a:first-child {
+      margin-left: 1.0em;
+    }
+    a:last-child {
+      margin-right: 1.0em;
+    }
+  }
   a:hover, .site-source a:hover {
     color: #f8e145;
     background-color: transparent;
