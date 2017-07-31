@@ -5,7 +5,7 @@ subtitle: Call for Proposals
 permalink: /cfp/
 ---
 
-Our call for proposals (CFP) for 15 minute lightning talks will open on August 14 2017 and close on September 15 2017!
+Our call for proposals (CFP) for lightning talks will open on August 14 2017 and close on September 15 2017!
 
 All information about our CFP will be posted here.
 
