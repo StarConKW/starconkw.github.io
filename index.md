@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-StarCon is a two-day software engineering conference held at the **University of Waterloo**. Join us for two days of ten minute lighting talks about technology, computer science, programming, and the joy of learning about them!
+StarCon is a two-day software engineering conference held at the **University of Waterloo**. Join us for two days of ten minute lightning talks about technology, computer science, programming, and the joy of learning about them!
 
 ## Who's speaking? Can I apply to speak?
 
