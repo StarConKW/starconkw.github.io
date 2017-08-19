@@ -6,7 +6,7 @@ permalink: /cfp/
 ---
 
 
-We’re excited to announce that StarCon is having it’s first Call for Proposals (CFP)! We’re looking for folks who have a passion for technology, learning and sharing to submit talks about their favourite piece(s) of technology.
+We’re excited to announce that StarCon is having its first Call for Proposals (CFP)! We’re looking for folks who have a passion for technology, learning and sharing to submit talks about their favourite piece(s) of technology.
 
 We’ve named this conference StarCon (\*Con) for a reason. We want to represent many different people and topics in technology, just like how the regex asterisk symbol represents any character or symbol.
 
