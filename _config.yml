@@ -3,7 +3,7 @@
 # Site settings
 title: StarCon               # used for the html title of every page
 desc: >
-  A software engineering conference taking place at the University of Waterloo in January!
+  A software engineering conference taking place in Waterloo this January!
 
 url: http://starcon.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
