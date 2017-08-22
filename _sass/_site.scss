@@ -280,3 +280,13 @@ html, body, .site-header, .site-footer {
     margin-left: 10px;
   }
 }
+
+#sponsors {
+  ~ p img {
+    height: 100px;
+    margin-left: -15px;
+  }
+  ~ p a:hover {
+  background-image: none;
+  }
+}
