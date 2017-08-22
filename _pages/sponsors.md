@@ -9,11 +9,7 @@ permalink: /sponsors/
 
 <br>
 
-![](/assets/img/sponsors/MEF.png)
-
-The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about) (MEF) is an income-generating fund that finances projects for the academic betterment of mathematics undergraduate students at the University of Waterloo. Members of the StarCon organizing committee have used MEF funding for previous projects on the Women in CS committee and for attending conferences. We're very grateful for their support. If you are a Waterloo math student and not in town for StarCon, we recommend reaching out to them for travel funding!
-
-[![](/assets/img/sponsors/stripe.png)](test.com)
+[![](/assets/img/sponsors/stripe.png)](http://grnh.se/4cxbw61)
 
 [Stripe](https://stripe.com/) is a software platform for starting and running internet businesses. Hundreds of thousands of businesses—including Lyft, Kickstarter, Salesforce, Shopify, Facebook, Slack, and UNICEF—rely on Stripe’s software tools to accept payments, expand globally, and create new revenue streams. Stripe has been at the forefront of expanding internet commerce, powering new business models, and supporting the latest platforms, from marketplaces to mobile commerce sites.
 
@@ -23,6 +19,11 @@ We believe that growing the GDP of the internet is a problem rooted in code and 
 ![](/assets/img/sponsors/sortable.png)
 
 [Sortable](https://sortable.com/) helps publishers unify demand partners, data, and tools. Their ultimate goal is to simplify the complexities of publishing operations while generating more revenue for our publisher partners.
+
+
+![](/assets/img/sponsors/MEF.png)
+
+The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about) (MEF) is an income-generating fund that finances projects for the academic betterment of mathematics undergraduate students at the University of Waterloo. Members of the StarCon organizing committee have used MEF funding for previous projects on the Women in CS committee and for attending conferences. We're very grateful for their support. If you are a Waterloo math student and not in town for StarCon, we recommend reaching out to them for travel funding!
 
 <hr>
 
