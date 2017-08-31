@@ -50,7 +50,7 @@ Follow us on [Twitter](https://twitter.com/starconuw) or [Facebook](https://www.
 
 ## Who's running this?
 
-[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), [Evy](http://evykassirer.com), and [Erin](https://www.linkedin.com/in/erin-edward/) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](http://wics.uwaterloo.ca).
+[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), [Evy](http://evykassirer.com), [Erin](https://www.linkedin.com/in/erin-edward/), and [Fatima](https://www.linkedin.com/in/fatima-taj-37363a109/) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](http://wics.uwaterloo.ca).
 
 ---
 
