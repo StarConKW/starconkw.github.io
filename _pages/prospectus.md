@@ -4,4 +4,4 @@ title: Prospectus
 permalink: /prospectus/
 ---
 
-<iframe src="/prospectus.pdf" width="100%" height="600px">
+<iframe src="/prospectus-2.pdf" width="100%" height="600px">
