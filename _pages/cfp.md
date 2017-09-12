@@ -29,7 +29,7 @@ We really want to hear from you if:
 
 CFP Opens: August 14 2017, 10:00AM EST
 
-CFP Closes: September 15 2017, 12:00PM EST
+CFP Closes: September 15 2017, 11:59PM EST
 
 Acceptances/Rejections Sent: October 31 2017
 
