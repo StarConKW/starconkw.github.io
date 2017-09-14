@@ -5,6 +5,7 @@ subtitle: StarCon 2018 Call for Proposals
 permalink: /cfp/
 ---
 
+**The CFP has been extended to Sundary September 17 at 11:59PM EST**
 
 We’re excited to announce that StarCon is having its first Call for Proposals (CFP)! We’re looking for folks who have a passion for technology, learning and sharing to submit talks about their favourite piece(s) of technology.
 
