@@ -32,9 +32,6 @@ navigation:
   - title: Speakers
     url: /speakers/
     desc: See who's speaking
-  - title: CFP
-    url: /cfp/
-    desc: Be one of our speakers
   - title: Sponsors
     url: /sponsors/
     desc: Sponsor us!
