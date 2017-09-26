@@ -9,7 +9,7 @@ permalink: /cfp/
 
 Decisions will be sent out Tue Oct 31
 
-Conference registration opens	Mon Nov 13 @ 6pm EST
+Conference registration opens	in November
 
 ## Original call for proposals (for posterity)
 
