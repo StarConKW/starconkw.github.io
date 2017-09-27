@@ -5,11 +5,11 @@ subtitle: StarCon 2018 Call for Proposals
 permalink: /cfp/
 ---
 
-**The call for talk proposals for StarCon 2018 is now closed**
+**The call for talk proposals for StarCon 2018 is now closed.**
 
-Decisions will be sent out Tue Oct 31
+Decisions will be sent out Tue Oct 31.
 
-Conference registration opens	in November
+Conference registration opens in November.
 
 ## Original call for proposals (for posterity)
 
