@@ -9,7 +9,7 @@ All StarCon attendees, speakers, volunteers, and sponsors are asked to abide by 
 
 ## Photography Policy
 
-All StarCon attendees, volunteers, speakers, and sponsors will be provided with a lanyard. Three colors of badges are provided.
+All StarCon attendees, volunteers, speakers, and sponsors will be provided with a badge. Three colors of badges are provided.
 
 - Green means it is okay for photographers to take pictures of you.
 - Blue means photographers should ask permission.
