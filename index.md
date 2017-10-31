@@ -19,7 +19,13 @@ This conference is open to everyone!
 
 ## What does it cost to attend? Where do I register?
 
-Registration information is still being figured out - we'll post updates here!
+Registration opens Mon Nov 13 @ 6pm EST. Tickets are free and first come, first served. We will post the link here when registration opens! Information about all the speakers and talks will be posted by Nov 11.
+
+## The Venue
+
+StarCon will be held in the Mathematics 3 (M3) building. There will be a quiet room available for those that need a break from the conference at any time. There are unfortunately no gender neutral restrooms in M3 but there are [some nearby](https://uwaterloo.ca/equity/equity-initiatives/inclusive-washrooms/inclusive-washroom-list) (the closest are 4 restrooms in the Davis Center).
+
+M3 and the conference rooms are accessible by wheelchair. For more information about campus accessibility check out the "Finding Your Way" section of [Waterloo's "Campus Accessibility" page](https://uwaterloo.ca/human-resources/accessibility/campus-accessibility).
 
 ## Where can I get updates?
 
