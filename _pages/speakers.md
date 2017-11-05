@@ -35,6 +35,10 @@ Dinah Davis is the Director of R&D at Arctic Wolf Networks, responsible for the 
 
 Josh Bowman-Matthews builds web browsers and sustainable communities for a living. He gets excited about demolishing barriers to participating in open source projects. He also sings in a barbershop quartet.
 
+## Mentorship
+
+Would you like to mentor StarCon speakers as they prepare their talks? We are looking for both remote and in-person mentors. [Apply here!](https://goo.gl/forms/zRNUjkrAPmgiLMw22)
+
 ## Call for proposals
 
 Information can be found [here](/cfp/).
