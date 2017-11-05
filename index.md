@@ -17,7 +17,7 @@ StarCon will be held at University of Waterloo on January 6th and 7th, 2018.
 
 This conference is open to everyone!
 
-## What does it cost to attend? Where do I register?
+## Registration
 
 Registration opens Mon Nov 13 @ 6pm EST. Tickets are free and first come, first served. We will post the link here when registration opens! Information about all the speakers and talks will be posted by Nov 11.
 
