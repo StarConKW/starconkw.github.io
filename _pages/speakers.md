@@ -25,7 +25,7 @@ Julia Evans is a software engineer at Stripe. In her spare time, she runs a prog
 Safia is the founder of Zarf, a platform for independent writers who produce paid subscription content for their readers.
 </p>
 
-## Invited lightning talk speakers
+## Invited Speakers
 
 ### Dinah Davis
 
@@ -43,7 +43,7 @@ Dinah Davis is the Director of R&D at Arctic Wolf Networks, responsible for the 
 Josh Bowman-Matthews builds web browsers and sustainable communities for a living. He gets excited about demolishing barriers to participating in open source projects. He also sings in a barbershop quartet.
 </p>
 
-## Lightning talk speakers
+## Speakers
 
 ### Fatema Boxwala
 
@@ -62,7 +62,7 @@ Fatema Boxwala is a CS student at the University of Waterloo. At school she's in
 ![](/assets/img/speakers/keeferrourke.svg)
 
 <p class="bio">
-Keefer is a second year computer science student at the University of Guelph in Guelph, Ontario. He's been messing with computers since he was about 12 years old, and has since developed a passion for computing and has fully embraced the world of open-source. He's a total Unix nerd, and a strong advocate for Free Software which respects its users.
+Keefer is a second year computer science student at the University of Guelph. As a total Unix nerd, and a strong advocate for Free Software, he has a passion for computing and ethical, open-source software that respects its users. In 2015, Keefer founded [Tokumei.co](http://Tokumei.co), an alternative, self-host-able social media platform designed to combat anti-patterns of advertisers online.
 </p>
 
 ### Tina Fletcher
