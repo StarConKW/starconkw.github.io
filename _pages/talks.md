@@ -8,6 +8,8 @@ permalink: /talks/
 
 # StarCon Talk Lineup
 
+The schedule will be announced soon.
+
 ### Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving
 
 [Fatema Boxwala](/speakers#fatema-boxwala)
