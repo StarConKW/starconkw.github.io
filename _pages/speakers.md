@@ -45,34 +45,14 @@ Josh Bowman-Matthews builds web browsers and sustainable communities for a livin
 
 ## Speakers
 
-### Fatema Boxwala
+### Omayeli Arenyeka
 
-[Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving](/talks#notworking-with-a-whale-a-tale-of-dockers-networks-and-problem-solving)
+[I'm a scientist!](/talks#im-a-scientist)
 
-![](/assets/img/speakers/fatema.jpg)
-
-<p class="bio">
-Fatema Boxwala is a CS student at the University of Waterloo. At school she's involved with the Women in Computer Science Committee and the Computer Science Club, occasionally teaching people about Python, Git and Systems Administration. At work she's been an intern at Rackspace, Yelp and Facebook.
-</p>
-
-### Keefer Rourke
-
-[Gloom, Doom, and the Internet](/talks#gloom-doom-and-the-internet)
-
-![](/assets/img/speakers/keeferrourke.svg)
+![](/assets/img/speakers/omayeliarenyeka.jpg)
 
 <p class="bio">
-Keefer is a second year computer science student at the University of Guelph. As a total Unix nerd, and a strong advocate for Free Software, he has a passion for computing and ethical, open-source software that respects its users. In 2015, Keefer founded [Tokumei.co](http://Tokumei.co), an alternative, self-host-able social media platform designed to combat anti-patterns of advertisers online.
-</p>
-
-### Tina Fletcher
-
-[Why I Prefer Good Testing Over Excellent Testing](/talks#why-i-prefer-good-testing-over-excellent-testing)
-
-![](/assets/img/speakers/tina.jpeg)
-
-<p class="bio">
-Tina loves being challenged every day to solve new testing, communication, and leadership problems. You’re most likely to find her planning test approaches for new features, discovering ways to promote better collaboration between groups, or experimenting with techniques to help enable quality-focused development and decision making. Some of Tina’s favorite projects to date have been helping D2L to go “all-in” on AWS, building Analytics applications in D2L’s Brightspace learning platform, and leading the team responsible for testing BlackBerry Hub. Tina is currently a Senior Test Strategist at D2L.
+Omayeli is a creative technologist building design systems at LinkedIn. She graduated from New York University with a degree she created, titled Art & Code or Creative Computation if you want to be fancy. She thinks a lot about the intersections of technology, art and social good and can tell you the plot of any Law and Order SVU episode.
 </p>
 
 ### Murphy Berzish
@@ -85,6 +65,16 @@ Tina loves being challenged every day to solve new testing, communication, and l
 	Murphy is a graduate student at the University of Waterloo researching formal methods and computer-aided reasoning. Murphy is also the developer of the Z3str3 string solver, which is used by many getwork security, and test generation.
 </p>
 
+### Fatema Boxwala
+
+[Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving](/talks#notworking-with-a-whale-a-tale-of-dockers-networks-and-problem-solving)
+
+![](/assets/img/speakers/fatema.jpg)
+
+<p class="bio">
+Fatema Boxwala is a CS student at the University of Waterloo. At school she's involved with the Women in Computer Science Committee and the Computer Science Club, occasionally teaching people about Python, Git and Systems Administration. At work she's been an intern at Rackspace, Yelp and Facebook.
+</p>
+
 ### Rudi Chen
 
 [How to make a real-time collaborative text editor in 5 easy steps!](/talks#how-to-make-a-real-time-collaborative-text-editor-in-5-easy-steps)
@@ -95,14 +85,14 @@ Tina loves being challenged every day to solve new testing, communication, and l
 Rudi is a big fan of rock climbing, and pen spinning when he's not on a wall. He is currently working as a software engineer at Figma.
 </p>
 
-### Omayeli Arenyeka
+### Tina Fletcher
 
-[I'm a scientist!](/talks#im-a-scientist)
+[Why I Prefer Good Testing Over Excellent Testing](/talks#why-i-prefer-good-testing-over-excellent-testing)
 
-![](/assets/img/speakers/omayeliarenyeka.jpg)
+![](/assets/img/speakers/tina.jpeg)
 
 <p class="bio">
-Omayeli is a creative technologist building design systems at LinkedIn. She graduated from New York University with a degree she created, titled Art & Code or Creative Computation if you want to be fancy. She thinks a lot about the intersections of technology, art and social good and can tell you the plot of any Law and Order SVU episode.
+Tina loves being challenged every day to solve new testing, communication, and leadership problems. You’re most likely to find her planning test approaches for new features, discovering ways to promote better collaboration between groups, or experimenting with techniques to help enable quality-focused development and decision making. Some of Tina’s favorite projects to date have been helping D2L to go “all-in” on AWS, building Analytics applications in D2L’s Brightspace learning platform, and leading the team responsible for testing BlackBerry Hub. Tina is currently a Senior Test Strategist at D2L.
 </p>
 
 ### Claire Janke
@@ -115,6 +105,16 @@ Omayeli is a creative technologist building design systems at LinkedIn. She grad
 Claire Janke has been a software engineer at Etsy since 2013. She enjoys overanalyzing television shows and starting new craft projects that she occasionally finishes.
 </p>
 
+### Kelly McBride
+
+[Taking the Fun Out of Everything: Automating Neopets](/talks#taking-the-fun-out-of-everything-automating-neopets)
+
+![](/assets/img/speakers/kellymcbride.jpg)
+
+<p class="bio">
+Kelly McBride is a Software Engineering student at the University of Waterloo. She’s interned at Facebook and Akamai as part of the co-op program. Finally realizing that enjoying coding outside of work requires writing code that does fun stuff, she’s begun to write code that incorporates her hobbies like rhythm games or Neopets.
+</p>
+
 ### Alex Rhatushnyak
 
 [Why Lossless Data Compression Is Both Important and Fun](/talks#why-lossless-data-compression-is-both-important-and-fun)
@@ -125,6 +125,16 @@ Claire Janke has been a software engineer at Etsy since 2013. She enjoys overana
 Alexander Rhatushnyak is a native of Siberia. He is studying data compression and related algorithms since 1991. He immigrated to Canada in 2006 soon after obtaining a PhD in Computer Science. After 2011 he lived and worked in various places in the world, including Ontario, Quebec, UK and USA. His current occupation is in software engineering.
 </p>
 
+### Keefer Rourke
+
+[Gloom, Doom, and the Internet](/talks#gloom-doom-and-the-internet)
+
+![](/assets/img/speakers/keeferrourke.svg)
+
+<p class="bio">
+Keefer is a second year computer science student at the University of Guelph. As a total Unix nerd, and a strong advocate for Free Software, he has a passion for computing and ethical, open-source software that respects its users. In 2015, Keefer founded [Tokumei.co](http://Tokumei.co), an alternative, self-host-able social media platform designed to combat anti-patterns of advertisers online.
+</p>
+
 ### Anastasia Santasheva
 
 [Imagining a world with Ethereum](/talks#imagining-a-world-with-ethereum)
@@ -133,16 +143,6 @@ Alexander Rhatushnyak is a native of Siberia. He is studying data compression an
 
 <p class="bio">
 Currently a Systems Design Engineering student at University of Waterloo. Recently building payments at Coinbase. Thinking a lot about privacy. Sometimes DJing (Radio School of Life on [BFF.FM](http://bff.fm/)).
-</p>
-
-### Kelly McBride
-
-[Taking the Fun Out of Everything: Automating Neopets](/talks#taking-the-fun-out-of-everything-automating-neopets)
-
-![](/assets/img/speakers/kellymcbride.jpg)
-
-<p class="bio">
-Kelly McBride is a Software Engineering student at the University of Waterloo. She’s interned at Facebook and Akamai as part of the co-op program. Finally realizing that enjoying coding outside of work requires writing code that does fun stuff, she’s begun to write code that incorporates her hobbies like rhythm games or Neopets.
 </p>
 
 ## Mentorship
