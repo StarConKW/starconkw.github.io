@@ -95,6 +95,56 @@ Tina loves being challenged every day to solve new testing, communication, and l
 Rudi is a big fan of rock climbing, and pen spinning when he's not on a wall. He is currently working as a software engineer at Figma.
 </p>
 
+### Omayeli Arenyeka
+
+[I'm a scientist!](/talks#im-a-scientist)
+
+![](/assets/img/speakers/omayeliarenyeka.jpg)
+
+<p class="bio">
+Omayeli is a creative technologist building design systems at LinkedIn. She graduated from New York University with a degree she created, titled Art & Code or Creative Computation if you want to be fancy. She thinks a lot about the intersections of technology, art and social good and can tell you the plot of any Law and Order SVU episode.
+</p>
+
+### Claire Janke
+
+[Dealing with Bad Architecture Decisions: A Case Study](/talks#dealing-with-bad-architecture-decisions-a-case-study)
+
+![](/assets/img/speakers/claire.jpg)
+
+<p class="bio">
+Claire Janke has been a software engineer at Etsy since 2013. She enjoys overanalyzing television shows and starting new craft projects that she occasionally finishes.
+</p>
+
+### Alex Rhatushnyak
+
+[Why Lossless Data Compression Is Both Important and Fun](/talks#why-lossless-data-compression-is-both-important-and-fun)
+
+![](/assets/img/speakers/alex.png)
+
+<p class="bio">
+Alexander Rhatushnyak is a native of Siberia. He is studying data compression and related algorithms since 1991. He immigrated to Canada in 2006 soon after obtaining a PhD in Computer Science. After 2011 he lived and worked in various places in the world, including Ontario, Quebec, UK and USA. His current occupation is in software engineering.
+</p>
+
+### Anastasia Santasheva
+
+[Imagining a world with Ethereum](/talks#imagining-a-world-with-ethereum)
+
+![](/assets/img/speakers/anastasiasantasheva.JPG)
+
+<p class="bio">
+Currently a Systems Design Engineering student at University of Waterloo. Recently building payments at Coinbase. Thinking a lot about privacy. Sometimes DJing (Radio School of Life on BFF.FM).
+</p>
+
+### Kelly McBride
+
+[Taking the Fun Out of Everything: Automating Neopets](/talks#taking-the-fun-out-of-everything-automating-neopets)
+
+![](/assets/img/speakers/kellymcbride.jpg)
+
+<p class="bio">
+Kelly McBride is a Software Engineering student at the University of Waterloo. She’s interned at Facebook and Akamai as part of the co-op program. Finally realizing that enjoying coding outside of work requires writing code that does fun stuff, she’s begun to write code that incorporates her hobbies like rhythm games or Neopets.
+</p>
+
 ## Mentorship
 
 Would you like to mentor StarCon speakers as they prepare their talks? We are looking for both remote and in-person mentors. [Apply here](https://goo.gl/forms/zRNUjkrAPmgiLMw22) before  November 17, 2017!
