@@ -132,7 +132,7 @@ Alexander Rhatushnyak is a native of Siberia. He is studying data compression an
 ![](/assets/img/speakers/anastasiasantasheva.JPG)
 
 <p class="bio">
-Currently a Systems Design Engineering student at University of Waterloo. Recently building payments at Coinbase. Thinking a lot about privacy. Sometimes DJing (Radio School of Life on BFF.FM).
+Currently a Systems Design Engineering student at University of Waterloo. Recently building payments at Coinbase. Thinking a lot about privacy. Sometimes DJing (Radio School of Life on [BFF.FM](http://bff.fm/)).
 </p>
 
 ### Kelly McBride
