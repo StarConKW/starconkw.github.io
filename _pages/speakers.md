@@ -105,7 +105,7 @@ Information can be found [here](/cfp/). The call for talk proposals for StarCon 
 
 ## Contact
 
-If you have any questions, please email Anna Lorimer: [a.lorimer49@gmail.com](mailto:a.lorimer49@gmail.com)
+If you have any questions, please email Anna Lorimer: [uwstarconcfp@gmail.com](mailto:uwstarconcfp@gmail.com)
 
 </div>
 
