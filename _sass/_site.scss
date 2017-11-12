@@ -318,8 +318,10 @@ html, body, .site-header, .site-footer {
 
 #sponsors {
   ~ p img {
-    height: 100px;
+    max-height: 100px;
+    max-width: 360px;
     margin-left: -15px;
+    margin-top: 30px;
   }
   ~ p a:hover {
   background-image: none;
