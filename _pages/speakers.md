@@ -11,6 +11,8 @@ permalink: /speakers/
 
 ### Julia Evans
 
+[so you want to be a wizard](/talks#so-you-want-to-be-a-wizard)
+
 ![](/assets/img/speakers/julia.jpg)
 
 <p class="bio">
@@ -37,6 +39,8 @@ Dinah Davis is the Director of R&D at Arctic Wolf Networks, responsible for the 
 
 ### Josh Bowman-Matthews
 
+[Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens](/talks#remembering-megazeux-concurrent-assembly-ish-actor-based-programming-for-teens)
+
 ![](/assets/img/speakers/josh.jpg)
 
 <p class="bio">
@@ -44,6 +48,8 @@ Josh Bowman-Matthews builds web browsers and sustainable communities for a livin
 </p>
 
 ## Speakers
+
+There will be 20 total lightning talk speakers - the full list will be available soon.
 
 ### Omayeli Arenyeka
 
@@ -55,6 +61,7 @@ Josh Bowman-Matthews builds web browsers and sustainable communities for a livin
 Omayeli is a creative technologist building design systems at LinkedIn. She graduated from New York University with a degree she created, titled Art & Code or Creative Computation if you want to be fancy. She thinks a lot about the intersections of technology, art and social good and can tell you the plot of any Law and Order SVU episode.
 </p>
 
+
 ### Murphy Berzish
 
 [Formal Methods for Everyone: Practical Tools for Computer-Aided Reasoning](/talks#formal-methods-for-everyone-practical-tools-for-computer-aided-reasoning)
@@ -65,6 +72,18 @@ Omayeli is a creative technologist building design systems at LinkedIn. She grad
 	Murphy is a graduate student at the University of Waterloo researching formal methods and computer-aided reasoning. Murphy is also the developer of the Z3str3 string solver, which is used by many getwork security, and test generation.
 </p>
 
+
+### Breanne Boland
+
+[Of Tracked Changes and Diffs: Moving from Editorial to Engineering](/talks#of-tracked-changes-and-diffs-moving-from-editorial-to-engineering)
+
+![](/assets/img/speakers/breanneboland.jpg)
+
+<p class="bio">
+Breanne Boland is a software engineer with Truss, a San Francisco-based infrastructure consultancy. In the last two years, she has supported the first standardized CI for a US government agency, been the voice of UX in an engineering organization, and dove deep into the world of infrastructure as code. Before becoming an engineer, she was a writer, editor, UX researcher, and content strategist, which led her to an enduring passion for awesome, useful documentation.
+</p>
+
+
 ### Fatema Boxwala
 
 [Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving](/talks#notworking-with-a-whale-a-tale-of-dockers-networks-and-problem-solving)
@@ -74,6 +93,7 @@ Omayeli is a creative technologist building design systems at LinkedIn. She grad
 <p class="bio">
 Fatema Boxwala is a CS student at the University of Waterloo. At school she's involved with the Women in Computer Science Committee and the Computer Science Club, occasionally teaching people about Python, Git and Systems Administration. At work she's been an intern at Rackspace, Yelp and Facebook.
 </p>
+
 
 ### Rudi Chen
 
@@ -133,6 +153,16 @@ Alexander Rhatushnyak is a native of Siberia. He is studying data compression an
 
 <p class="bio">
 Keefer is a second year computer science student at the University of Guelph. As a total Unix nerd, and a strong advocate for Free Software, he has a passion for computing and ethical, open-source software that respects its users. In 2015, Keefer founded [Tokumei.co](http://Tokumei.co), an alternative, self-host-able social media platform designed to combat anti-patterns of advertisers online.
+</p>
+
+### Siddhartha Sahu
+
+[Managing Connections with Graphs: Uses and Challenges](/talks#managing-connections-with-graphs-uses-and-challenges)
+
+![](/assets/img/speakers/siddharthasahu.jpg)
+
+<p class="bio">
+Siddhartha is a Computer Science PhD student at the University of Waterloo, where he explores real world connections that can be modelled as graphs.When not thinking about research, he spends his time reading, travelling, cooking, and taking a lot of pictures.
 </p>
 
 ### Anastasia Santasheva

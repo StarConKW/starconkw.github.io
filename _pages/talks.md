@@ -8,7 +8,40 @@ permalink: /talks/
 
 # StarCon Talk Lineup
 
-The schedule will be announced soon.
+There will be 2 keynotes and 20 lightning talks at StarCon. The full lineup and order/schedule will be announced soon!
+
+## Keynotes
+
+### so you want to be a wizard
+
+[Julia Evans](/speakers#julia-evans)
+
+<p class="abstract">
+I don't always feel like a wizard. I'm not the most experienced member on my team, like most people I sometimes find my work difficult, and I still have a TON TO LEARN.
+</p>
+
+<p class="abstract">
+But along the way, I have learned a few ways to debug tricky problems, get the information I need from my colleagues, and get my job done. We're going to talk about
+</p>
+
+- how asking dumb questions is actually a superpower
+- how you can read the source code to programs when all other avenues fail
+- debugging tools that make you FEEL like a wizard
+- and how understanding what your _organization_ needs can make you amazing
+
+<p class="abstract">
+At the end, we'll have a better understanding of how you can get a lot of awesome stuff done even when you're not the highest level wizard on your team.
+</p>
+
+## Lightning talks
+
+### Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens
+
+[Josh Bowman-Matthews](/speakers#josh-bowman-matthews)
+
+<p class="abstract">
+Investigating programming languages that never went mainstream can help us better appreciate the subtle trade-offs that are required when designing a programming language. In "Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens", we will focus on one such language in particular. In 1994, a small community of teenagers started using Robotic: an unusual, forward-thinking programming language intended for creating computer games inside the game creation system MegaZeux. We’ll examine the design of Robotic and how it compared to academic research and industrial practice at the time, as well as how it reflects current trends and practices. We’ll contemplate the unorthodox choices that Robotic made and how these helped position it as a viable introduction to programming for so many aspiring game developers. Through these examples and comparisons we will better appreciate the broad scope in programming language design that exists outside of the languages that we most commonly experience.
+</p>
 
 ### Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving
 
@@ -105,4 +138,23 @@ This will set up the grounds to discuss the impact of three key ideas: 1) Ethere
 
 <p class="abstract">
 Neopets is probably one of the Web 1.0’s greatest achievements. The fact that it was created during that time means that its original features rely on older technology that’s more commonly understood now, making it a prime target for automation at the hands of junior programmers. Neopets is a browser game about taking care of virtual pets. Fortunately, it’s comprised of php activities that you interact with by making HTTP requests - something that scripts are great at doing as well as browsers. In my talk, “Taking the Fun Out of Everything: Automating Neopets,” I’ll talk about collaborating with the ghosts of people with similar ideas by forking their abandoned repos, building on frameworks with the aim of applying more technical ideas later, and banging your head against the wall when “they could have just made the game do this.” I’ll close by mentioning some similar games that the audience can take the fun out of for themselves.
+</p>
+
+
+### Of Tracked Changes and Diffs: Moving from Editorial to Engineering
+
+[Breanne Boland](/speakers#breanne-boland)
+
+<p class="abstract">
+I worked in online content in varying capacities for more than a decade before I made the shift to software engineering. While my ability to communicate verbally and in writing were early helpers as I completed this transition, the lessons I learned from editorial life were also surprisingly helpful. It turned out that years of workshopping stories, trading edits, laboring over drafts, and seeking buy-in and input are directly applicable to surviving and thriving in code reviews.
+<br/><br/>
+By the time I was writing my own code, I’d long since divorced my ego from the things I wrote, and it prepared me for my first code reviews. I had learned that solo work is typically incomplete until you get input from someone else in the form of edits or feedback, and that collaboration is what usually enables people to do their best work and learning. I also knew that getting feedback at the right time can be almost as important as getting the right feedback and that processes can make or break a project, no matter how talented those involved are. I’ll conclude with ways that people without editorial backgrounds can bring these lessons into their own work life.
+</p>
+
+### Managing Connections with Graphs: Uses and Challenges
+
+[Siddhartha Sahu](/speakers#siddhartha-sahu)
+
+<p class="abstract">
+Connections in social networks, financial transactions, and interactions between proteins are just a few examples of real-world data that can be intuitively represented as graphs. In my talk “Managing Connections with Graphs: Uses and Challenges”, I will examine the rising relevance of graph software in managing highly interconnected data. While graph processing is not a new technology, there has been a recent surge of interest in exploring connections in data as a graph, not only for familiar entities such as social data representing friends and what they like but also for entities that are not naturally thought of as graphs. The audience will develop an appreciation for how thinking in terms of graphs helps develop a better understanding of interconnected data. While there are a plethora of graph software in use, these software do not meet all the feature requirements arising from across a variety of domains. The audience will learn about the primary challenges in graph processing and opportunities for developing new ideas and techniques. Graph processing will become increasingly important in the coming years and it is definitely an exciting time to work on graph technology.
 </p>
