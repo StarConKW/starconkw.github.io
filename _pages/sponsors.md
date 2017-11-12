@@ -7,12 +7,10 @@ permalink: /sponsors/
 
 # Sponsors
 
-<br>
-
 [![](/assets/img/sponsors/stripe.png)](http://grnh.se/4cxbw61)
 
 [Stripe](https://stripe.com/) is a software platform for starting and running internet businesses. Hundreds of thousands of businesses—including Lyft, Kickstarter, Salesforce, Shopify, Facebook, Slack, and UNICEF—rely on Stripe’s software tools to accept payments, expand globally, and create new revenue streams. Stripe has been at the forefront of expanding internet commerce, powering new business models, and supporting the latest platforms, from marketplaces to mobile commerce sites.
-
+<br/><br/>
 We believe that growing the GDP of the internet is a problem rooted in code and design, not finance. Stripe is built for developers, makers, and creators. We work on solving the hard technical problems necessary to build global economic infrastructure—from designing highly reliable systems to developing advanced machine learning algorithms to prevent fraud. Join us!
 
 
@@ -20,6 +18,19 @@ We believe that growing the GDP of the internet is a problem rooted in code and 
 
 [Sortable](https://sortable.com/) helps publishers unify demand partners, data, and tools. Their ultimate goal is to simplify the complexities of publishing operations while generating more revenue for our publisher partners.
 
+![](/assets/img/sponsors/square.png)
+
+We empower business owners to accept payments, help restaurants set up a delivery option and we provide capital to allow businesses to grow. We make the tough choice to give people access to their funds faster.  We built the Cash App to provide a quick and easy solution to participate in the economy. To level the playing field. To make the system more fair. That's how we started and that's why we're here.
+<br/><br/>
+One of the greatest issues facing our civilization is economic inequality, and we have a role in addressing it. We believe everyone should be able to participate and thrive in the economy. So we build accessible tools that shorten the distance between having an idea and making a living from it. Tools that make people feel good and inspire them to do good.
+
+![](/assets/img/sponsors/asana.png)
+
+[Asana](https://asana.com) has a big mission and an even bigger opportunity: to empower all teams to do great things together. It’s free & simple to get started, and powerful enough to run your entire business. Teams in the world’s fastest growing companies track their work and achieve their goals with Asana. And we’re not stopping there. Our team of peers is growing rapidly and we're tackling new challenges daily. We'd ♥️️ your help, join us at [asana.com/careers](https://asana.com/careers).
+
+![](/assets/img/sponsors/Adzerk.png)
+
+[Adzerk](https://adzerk.com/) provides a suite of APIs for building your own customized ad server. While ad servers are a must for publishers, 3rd-party solutions don’t offer flexibility, and building your own could take years and cost millions. Fortunately, with Adzerk's APIs, you have the infrastructure tools to build your own ad server in just weeks. Adzerk customers include innovative and tech-savvy brands such as reddit, Imgur, Cox Media, Entravision, Wattpad, Atom Tickets, and more.
 
 ![](/assets/img/sponsors/MEF.png)
 
@@ -27,10 +38,12 @@ The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about)
 
 <hr>
 
+<hr>
 
-Do you want to sponsor us too? We're currently looking for sponsors!
 
 ## Why You Should Sponsor Us
+
+Do you want to sponsor us too? We're currently looking for sponsors!
 
 By sponsoring StarCon, you will empower diverse perspectives in technology and contribute towards creating a community grounded in learning. You will also have the opportunity to actively interact with a group of people keenly interested in technology. You can leverage this opportunity to market your brand and product, create awareness of your core values and philosophies, share what it’s like to be a part of your organization, talk about your plans for the future, and recruit candidates for open positions.
 
