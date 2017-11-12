@@ -19,7 +19,7 @@ This conference is open to everyone!
 
 ## Registration
 
-Registration opens Mon Nov 13 @ 6pm EST. Tickets are free and first come, first served. We will post the link here when registration opens! Information about all the speakers and talks will be posted by Nov 11.
+Registration opens Mon Nov 13 @ 6pm EST and tickets will be available [here](https://www.eventbrite.ca/e/starcon-tickets-39599756939) (no access code will be needed). Tickets are free and first come, first served. Information about all the speakers and talks is still being gathered will be posted soon.
 
 ## The Venue
 
