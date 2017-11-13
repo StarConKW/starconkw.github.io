@@ -43,6 +43,14 @@ At the end, we'll have a better understanding of how you can get a lot of awesom
 Investigating programming languages that never went mainstream can help us better appreciate the subtle trade-offs that are required when designing a programming language. In "Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens", we will focus on one such language in particular. In 1994, a small community of teenagers started using Robotic: an unusual, forward-thinking programming language intended for creating computer games inside the game creation system MegaZeux. We’ll examine the design of Robotic and how it compared to academic research and industrial practice at the time, as well as how it reflects current trends and practices. We’ll contemplate the unorthodox choices that Robotic made and how these helped position it as a viable introduction to programming for so many aspiring game developers. Through these examples and comparisons we will better appreciate the broad scope in programming language design that exists outside of the languages that we most commonly experience.
 </p>
 
+### The Innerworkings of Ransomware
+
+[Dinah Davis](/speakers#dinah-davis)
+
+<p class="abstract">
+This past year was all about large Ransomware hacks like WannaCry, Petya/NotPetya, and CRYPSHED to name a few. In this talk Dinah will detail how it works, how to avoid it, and what is coming next in the world of Ransomware. She will also demonstrate what happens when ransomware is exploded on a computer from the Arctic Wolf labs.
+</p>
+
 ### Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving
 
 [Fatema Boxwala](/speakers#fatema-boxwala)
@@ -157,4 +165,17 @@ By the time I was writing my own code, I’d long since divorced my ego from the
 
 <p class="abstract">
 Connections in social networks, financial transactions, and interactions between proteins are just a few examples of real-world data that can be intuitively represented as graphs. In my talk “Managing Connections with Graphs: Uses and Challenges”, I will examine the rising relevance of graph software in managing highly interconnected data. While graph processing is not a new technology, there has been a recent surge of interest in exploring connections in data as a graph, not only for familiar entities such as social data representing friends and what they like but also for entities that are not naturally thought of as graphs. The audience will develop an appreciation for how thinking in terms of graphs helps develop a better understanding of interconnected data. While there are a plethora of graph software in use, these software do not meet all the feature requirements arising from across a variety of domains. The audience will learn about the primary challenges in graph processing and opportunities for developing new ideas and techniques. Graph processing will become increasingly important in the coming years and it is definitely an exciting time to work on graph technology.
+</p>
+
+
+### Remote code execution in your text editor!
+
+[Max Veystman](/speakers#max-veystman)
+
+<p class="abstract">
+Text editors do a lot more than just edit characters in a buffer. Whether you use vim, emacs, submile text, atom, or something else, you probably configured your editor to highlight syntax, provide auto-completions, jump to defintions, and maybe even evaluate code. These plugins often spawn processes that evaluate code alongside your editor, and sometimes they even make and receive network connections. What if you could hack them?
+<br/><br/>
+In my talk, I'll describe a vulnerability in the Vim plugin for the Elixir programming language and show an exploit I wrote that allows any website to execute code on your computer if you browse it while editing an Elixir file.
+<br/><br/>
+P.S. if you're reading this abstract and use Elixir and Vim, you should upgrade alchemist.vim as soon as possible!
 </p>

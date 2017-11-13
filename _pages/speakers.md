@@ -31,6 +31,8 @@ Safia is the founder of Zarf, a platform for independent writers who produce pai
 
 ### Dinah Davis
 
+[The Innerworkings of Ransomware](/talks#the-innerworkings-of-ransomware)
+
 ![](/assets/img/speakers/dinah.jpg)
 
 <p class="bio">
@@ -173,6 +175,17 @@ Siddhartha is a Computer Science PhD student at the University of Waterloo, wher
 
 <p class="bio">
 Currently a Systems Design Engineering student at University of Waterloo. Recently building payments at Coinbase. Thinking a lot about privacy. Sometimes DJing (Radio School of Life on [BFF.FM](http://bff.fm/)).
+</p>
+
+
+### Max Veystman
+
+[Remote code execution in your text editor!](/talks#remote-code-execution-in-your-text-editor)
+
+![](/assets/img/speakers/maxveystman.jpg)
+
+<p class="bio">
+Max Veytsman graduated with a degree in Computer Science from UofT and went on to work as a security consultant, software developer, and most recently, startup founder. While most of his work hours are spent running a company, the urge to play with functional programming and break things has never left.
 </p>
 
 ## Mentorship
