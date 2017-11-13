@@ -12,7 +12,7 @@ There will be 2 keynotes and 20 lightning talks at StarCon. The full lineup and 
 
 ## Keynotes
 
-### so you want to be a wizard
+### So you want to be a wizard?
 
 [Julia Evans](/speakers#julia-evans)
 
