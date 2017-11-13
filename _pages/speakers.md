@@ -11,7 +11,7 @@ permalink: /speakers/
 
 ### Julia Evans
 
-[so you want to be a wizard](/talks#so-you-want-to-be-a-wizard)
+[So you want to be a wizard?](/talks#so-you-want-to-be-a-wizard)
 
 ![](/assets/img/speakers/julia.jpg)
 
