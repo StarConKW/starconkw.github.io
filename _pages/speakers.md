@@ -137,6 +137,16 @@ Claire Janke has been a software engineer at Etsy since 2013. She enjoys overana
 Kelly McBride is a Software Engineering student at the University of Waterloo. She’s interned at Facebook and Akamai as part of the co-op program. Finally realizing that enjoying coding outside of work requires writing code that does fun stuff, she’s begun to write code that incorporates her hobbies like rhythm games or Neopets.
 </p>
 
+### Tim McLean
+
+[Protecting cryptography code from timing vulnerabilities](/talks#protecting-cryptography-code-from-timing-vulnerabilities)
+
+![](/assets/img/speakers/tim.jpg)
+
+<p class="bio">
+Tim is a software developer and independent cryptography consultant based in Waterloo. Previously, he helped found a Toronto-based healthcare startup, KoNote, building their engineering team and leading the development of a secure platform for sharing patient information. Now, Tim uses that experience as a consultant to help companies develop robust and performant solutions using cryptography.
+</p>
+
 ### Alex Rhatushnyak
 
 [Why Lossless Data Compression Is Both Important and Fun](/talks#why-lossless-data-compression-is-both-important-and-fun)

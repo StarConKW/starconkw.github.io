@@ -179,3 +179,15 @@ In my talk, I'll describe a vulnerability in the Vim plugin for the Elixir progr
 <br/><br/>
 P.S. if you're reading this abstract and use Elixir and Vim, you should upgrade alchemist.vim as soon as possible!
 </p>
+
+### Protecting cryptography code from timing vulnerabilities
+
+[Tim McLean](/speakers#tim-mclean)
+
+<p class="abstract">
+It's well-known that cryptography code is hard to get right.  Small mistakes often have disproportionately large consequences, like handing an attacker your encryption keys.
+<br/><br/>
+One key category of pitfalls that cryptography engineers face are timing leaks.  When a program runs on a computer, it subtly but measurably interferes with the performance of other processes.  Cryptography code must ensure that these interference patterns do not reveal sensitive information to attackers.
+<br/><br/>
+This talk is about the challenges of protecting code from timing leaks.  We will start with an example timing vulnerability and show how to exploit it, then proceed to look at how the obvious ways of fixing the problem are not good enough.  Finally, we will look at a particular style of coding that, as far as we know, prevents all timing leaks on x86 processors... except when your compiler "optimizes" your code by adding vulnerabilities.
+</p>
