@@ -127,6 +127,16 @@ Tina loves being challenged every day to solve new testing, communication, and l
 Claire Janke has been a software engineer at Etsy since 2013. She enjoys overanalyzing television shows and starting new craft projects that she occasionally finishes.
 </p>
 
+### Andrew Louis
+
+[How giant human-powered calculators became the internet](/talks#how-giant-human-powered-calculators-became-the-internet)
+
+![](/assets/img/speakers/andrew.jpeg)
+
+<p class="bio">
+Andrew is a software developer from Toronto. After learning about the Memex and finding out that it was never built in 1945, he decided to try to build one of his own. Previously, he was the co-founder and CTO of ShopLocket, an ecommerce startup acquired in 2014.
+</p>
+
 ### Kelly McBride
 
 [Taking the Fun Out of Everything: Automating Neopets](/talks#taking-the-fun-out-of-everything-automating-neopets)
@@ -135,6 +145,37 @@ Claire Janke has been a software engineer at Etsy since 2013. She enjoys overana
 
 <p class="bio">
 Kelly McBride is a Software Engineering student at the University of Waterloo. She’s interned at Facebook and Akamai as part of the co-op program. Finally realizing that enjoying coding outside of work requires writing code that does fun stuff, she’s begun to write code that incorporates her hobbies like rhythm games or Neopets.
+</p>
+
+### Tim McLean
+
+[Protecting cryptography code from timing vulnerabilities](/talks#protecting-cryptography-code-from-timing-vulnerabilities)
+
+![](/assets/img/speakers/tim.jpg)
+
+<p class="bio">
+Tim is a software developer and independent cryptography consultant based in Waterloo. Previously, he helped found a Toronto-based healthcare startup, KoNote, building their engineering team and leading the development of a secure platform for sharing patient information. Now, Tim uses that experience as a consultant to help companies develop robust and performant solutions using cryptography.
+</p>
+
+### Erika Pierre
+
+[Undoing the Chatbot](/talks#undoing-the-chatbot)
+
+![](/assets/img/speakers/erika.jpg)
+
+<p class="bio">
+Erika Pierre is a front-end web developer working with vanilla JavaScript/ES6, AngularJS, and responsive design on major web applications. Outside of web development, she enjoys Beyoncé, summers in Montréal, and cats.
+</p>
+
+### Jordan Pryde
+
+[Introduction to Software Defined Radios](/talks#introduction-to-software-defined-radios)
+
+<p class="bio">
+Jordan Pryde is a fourth year University of Waterloo CS student and a Product Security Analyst at BlackBerry.
+Jordan is a licensed Amateur Radio Operator (VA3PRX), executive member of the UW Amateur Radio Club and long time member of UW
+Computer Science Club's Systems Committee. Jordan came to Waterloo from British Columbia and wishes there were more mountains in Ontario.
+He can be found on the #csc IRC channel on https://freenode.net/.
 </p>
 
 ### Alex Rhatushnyak
