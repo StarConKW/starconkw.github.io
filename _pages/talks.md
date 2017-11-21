@@ -191,3 +191,41 @@ One key category of pitfalls that cryptography engineers face are timing leaks. 
 <br/><br/>
 This talk is about the challenges of protecting code from timing leaks.  We will start with an example timing vulnerability and show how to exploit it, then proceed to look at how the obvious ways of fixing the problem are not good enough.  Finally, we will look at a particular style of coding that, as far as we know, prevents all timing leaks on x86 processors... except when your compiler "optimizes" your code by adding vulnerabilities.
 </p>
+
+
+### Undoing the Chatbot
+
+[Erika Pierre](/speakers#erika-pierre)
+
+<p class="abstract">
+In this talk, we’ll be taking a look at the history and present of chatbots and digital personal assistants in English-speaking North America from a technological and social perspective. Whether we're looking at virtual assistant bots, Facebook Messenger bots, or Slackbots, what do we expect from our bots, and why? What else can we imagine for and with our bots?
+<br/><br/>
+One of the benefits of open web technologies is that rather than waiting for Siri and Alexa to come around, we can work through these issues ourselves!
+<br/><br/>
+First, we’ll learn a little bit about the Speech Recognition and Speech Synthesis Web APIs. Then, we’ll walk through a small project, relying only on front-end web technologies, that lets us explore the underutilized possibilities of chatbots. Whether they're talking back in unexpected ways or using the user’s expected emotional responses against them, we'll unravel understandings of what a chatbot is, who it's for, and the assumptions it relies on in order to function undetected.
+</p>
+
+### How giant human-powered calculators became the internet
+
+[Andrew Louis](/speakers#andrew-louis)
+
+<p class="abstract">
+Once upon a time, a "computer" was literally a large room filled with hundreds of workers hunched over desks doing math. Almost a century later, we’ve arrived at the internet but what we have now was by no means inevitable.
+<br/><br/>
+Our story begins in a time in a time when newly-created digital computers were thought of as mere calculators, useful for analyzing missile trajectories or administrating payroll. Engineer Vannevar Bush, crushed by a deluge of memos and documents arriving on his desk each day, wondered if computers could help. He invented the Memex, most notably recognizing hyperlinks as a way to navigate through complex data.
+<br/><br/>
+Exactly zero of these devices were ever built but a magazine published his idea and this was picked up by a bored soldier stationed in a remote WW2 base. Douglas Engelbart took the ideas of the Memex and used it to guide his work, culminating in an incredible 1968 demo that showcased what computers could be made to do.
+<br/><br/>
+When it came time to get these computers to start talking to each other, he enlisted the help of Elizabeth Feinler. She came up with a lot of the Internet’s first processes, most notably the system which became DNS. She also ensured all discussions and decisions about protocols were carried out in the open.
+<br/><br/>
+These are just three stories in the complicated history of a complicated system but they illustrate how the values, ideas, priorities of individuals can shape the future.
+</p>
+
+
+### Introduction to Software Defined Radios
+
+[Jordan Pryde](/speakers#jordan-pryde)
+
+<p class="abstract">
+Software Defined Radios (SDR) are devices that implement the components of a radio, that have been traditionally implemented in hardware, with more flexible software. These components include mixers, filters, modulators and demodulators. In my talk I will introduce the audience to the concept of SDRs and other basic radio concepts, describe some cool projects that are only made possible with SDRs (with possible demo videos; time permitting), and finally how easy it is to purchase and get started playing with SDRs. I will also introduce the audience to Amateur Radio which provides both some spectrum they would be licenced to play around with and access to a group of likeminded hobbyists. SDRs can be used to better understand the consumer devices that we use everyday and that sometimes can seem like magic. SDRs can also be used to inexpensively (for around $30) monitor and record the emergency response (i.e. fire, paramedics and police) and airplane traffic. Concluding my presentation, I will walk though today’s SDR market and make suggestions of what to buy for those both new and experienced with SDRs. I believe this technology is so cool because it both allows us to demystify the radio-controlled electronics we use everyday and can enable us to be better connected to our communities.
+</p>
