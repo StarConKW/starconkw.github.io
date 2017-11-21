@@ -32,6 +32,11 @@ One of the greatest issues facing our civilization is economic inequality, and w
 
 [Adzerk](https://adzerk.com/) provides a suite of APIs for building your own customized ad server. While ad servers are a must for publishers, 3rd-party solutions don’t offer flexibility, and building your own could take years and cost millions. Fortunately, with Adzerk's APIs, you have the infrastructure tools to build your own ad server in just weeks. Adzerk customers include innovative and tech-savvy brands such as reddit, Imgur, Cox Media, Entravision, Wattpad, Atom Tickets, and more.
 
+![](/assets/img/sponsors/funnelcake.png)
+
+[FunnelCake](https://getfunnelcake.com/) is a RevOps platform that tells you how to beat your growth targets. Connect Salesforce and FunnelCake to drive your RevOps engine. FunnelCake identifies gaps between your pipeline and your growth goals, then guides Marketing, Sales, and Customer Success with actionable insights – like how many leads you need to create, when you need to hire Sales reps to hit growth targets, and red flag alerts on pipeline.
+
+
 ![](/assets/img/sponsors/MEF.png)
 
 The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about) (MEF) is an income-generating fund that finances projects for the academic betterment of mathematics undergraduate students at the University of Waterloo. Members of the StarCon organizing committee have used MEF funding for previous projects on the Women in CS committee and for attending conferences. We're very grateful for their support. If you are a Waterloo math student and not in town for StarCon, we recommend reaching out to them for travel funding!
