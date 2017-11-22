@@ -37,6 +37,11 @@ One of the greatest issues facing our civilization is economic inequality, and w
 [FunnelCake](https://getfunnelcake.com/) is a RevOps platform that tells you how to beat your growth targets. Connect Salesforce and FunnelCake to drive your RevOps engine. FunnelCake identifies gaps between your pipeline and your growth goals, then guides Marketing, Sales, and Customer Success with actionable insights – like how many leads you need to create, when you need to hire Sales reps to hit growth targets, and red flag alerts on pipeline.
 
 
+![](/assets/img/sponsors/scs.png)
+
+The David R. Cheriton School of Computer Science brings together over 80 faculty, 40 staff and 2000 students at the undergraduate and graduate levels. The School has its origin in the Department of Applied Analysis and Computer Science, founded in 1967, and has grown to become the largest academic computer science research centre in Canada, ranking 10th in North America and 24th in the world.
+
+
 ![](/assets/img/sponsors/MEF.png)
 
 The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about) (MEF) is an income-generating fund that finances projects for the academic betterment of mathematics undergraduate students at the University of Waterloo. Members of the StarCon organizing committee have used MEF funding for previous projects on the Women in CS committee and for attending conferences. We're very grateful for their support. If you are a Waterloo math student and not in town for StarCon, we recommend reaching out to them for travel funding!
