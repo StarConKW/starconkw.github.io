@@ -130,13 +130,7 @@ Data compression is highly important for reducing storage costs and transmission
 [Anastasia Santasheva](/speakers#anastasia-santasheva)
 
 <p class="abstract">
-Cryptocurrencies such as Bitcoin, Ethereum, and others have recently gotten a lot of attention in the tech community and in news! This is a fascinating technology with a lot of potential, but many are just starting to see why! With this talk, I will get you excited and empowered by an understanding of cryptocurrency, particularly Ethereum.
-<br/><br/>
-To do this, first I will explore the motivations of cryptocurrency, or why people are interested in decentralized money and networks. I will briefly talk about the first 'fair' peer-to-peer decentralized network, Bitcoin, and what ideas it contributed to the cryptocurrency world. Then I will talk about how Ethereum differs from Bitcoin - I find that comparing the two helps understanding. I will highlight that:
-- Bitcoin can be described as digital money
-- Ethereum is different from Bitcoin because it allows for smart contracts, that is, highly programmable digital money.
-<br/><br/>
-This will set up the grounds to discuss the impact of three key ideas: 1) Ethereum smart contracts - money with logic, imagine automatically sending money from one person to another but only when a certain set of conditions are met. 2) Ethereum tokens - allow decentralized protocols to capture the value of the network. 3) Initial coin offerings (ICOs) for Ethereum tokens - like an IPO for a startup, with some differences. Then I will discuss how these concepts come together to form a new way to allocate and get compensated for the work people do and the resources they have, and why this decentralized system is very exciting to me!
+Cryptocurrencies such as Bitcoin, Ethereum, and others have recently become (in)famous in the news. In my talk, "Imagining a world with Ethereum", I will explore Ethereum's fundamentals by contrasting it with Bitcoin. Then I will show why this technology is powerful and what projects have been established in this space. I'll discuss their impact and lessons learned (especially surrounding hacks and governance), and explore what comes next. Ultimately, I will show you that we need everyone to understand and be involved in cryptocurrency to build a financial system 2.0 (or else someone else will build it for us)!
 </p>
 
 

@@ -212,10 +212,10 @@ Siddhartha is a Computer Science PhD student at the University of Waterloo, wher
 
 [Imagining a world with Ethereum](/talks#imagining-a-world-with-ethereum)
 
-![](/assets/img/speakers/anastasiasantasheva.JPG)
+![](/assets/img/speakers/anastasiasantasheva.jpg)
 
 <p class="bio">
-Currently a Systems Design Engineering student at University of Waterloo. Recently building payments at Coinbase. Thinking a lot about privacy. Sometimes DJing (Radio School of Life on [BFF.FM](http://bff.fm/)).
+Anastasia is a Systems Design Engineering student at University of Waterloo. She was recently building payment and accounting systems at Coinbase, and will continue this after finishing her last four months of school. She spends her free time thinking a lot about internet privacy. Occasionally, you can find her DJing Radio School of Life on [BFF.FM](http://bff.fm/) or watching the Great British Bake Show.
 </p>
 
 
