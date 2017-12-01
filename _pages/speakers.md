@@ -222,10 +222,11 @@ Anastasia is a Systems Design Engineering student at University of Waterloo. She
 
 [How Rust Makes Advanced Type Systems Accessible to the Masses](/talks#how-rust-makes-advanced-type-systems-accessible-to-the-masses)
 
+![](/assets/img/speakers/sunjayvarma.png)
+
 <p class="bio">
 Sunjay Varma has been learning and teaching programming ever since he started to learn about it over a decade ago. His depth of understanding comes from having explored a variety of different languages including Rust, Python, JavaScript, Haskell, C, C++ and more. Sunjay refined his skills by building an extensive open source portfolio and working in advanced positions in many different areas. He has worked on projects ranging from game AI to the compiler for the Rust programming language.
 </p>
-
 
 ### Max Veystman
 
