@@ -218,6 +218,14 @@ Siddhartha is a Computer Science PhD student at the University of Waterloo, wher
 Anastasia is a Systems Design Engineering student at University of Waterloo. She was recently building payment and accounting systems at Coinbase, and will continue this after finishing her last four months of school. She spends her free time thinking a lot about internet privacy. Occasionally, you can find her DJing Radio School of Life on [BFF.FM](http://bff.fm/) or watching the Great British Bake Show.
 </p>
 
+### Sunjay Varma
+
+[How Rust Makes Advanced Type Systems Accessible to the Masses](/talks#how-rust-makes-advanced-type-systems-accessible-to-the-masses)
+
+<p class="bio">
+Sunjay Varma has been learning and teaching programming ever since he started to learn about it over a decade ago. His depth of understanding comes from having explored a variety of different languages including Rust, Python, JavaScript, Haskell, C, C++ and more. Sunjay refined his skills by building an extensive open source portfolio and working in advanced positions in many different areas. He has worked on projects ranging from game AI to the compiler for the Rust programming language.
+</p>
+
 
 ### Max Veystman
 
