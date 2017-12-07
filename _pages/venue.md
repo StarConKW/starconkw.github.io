@@ -16,3 +16,17 @@ There are unfortunately no gender neutral restrooms in M3 but there are [some ne
 ## Accessiblity
 
 M3 and the conference rooms are accessible by wheelchair. For more information about campus accessibility check out the "Finding Your Way" section of [Waterloo's "Campus Accessibility" page](https://uwaterloo.ca/human-resources/accessibility/campus-accessibility).
+
+## Parking
+
+If you are going to drive to campus, the closest parking lot to M3 is either Lot N or Lot M, both outlined in the brown square below.
+
+Parking costs:
+
+- Lot N: $5 per day
+- Lot M: 6$ per day
+- Lot X: free on the weekends (outlined in green below)
+
+![](/assets/img/parking_lot.png)
+
+For reference, you can check out UWaterloo's [parking lot map](https://uwaterloo.ca/map/pdf/map_colour.pdf)

@@ -23,7 +23,7 @@ Registration opens Mon Nov 13 @ 6pm EST and tickets will be available [here](htt
 
 ## The Venue
 
-StarCon will be held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo. You can read about the accessibility of our venue [here](/venue).
+StarCon will be held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo. You can read about our venue (including parking and accessibility) [here](/venue).
 
 ## Policies
 
