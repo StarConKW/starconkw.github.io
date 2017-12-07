@@ -53,17 +53,6 @@ Josh Bowman-Matthews builds web browsers and sustainable communities for a livin
 
 There will be 20 total lightning talk speakers - the full list will be available soon.
 
-### Omayeli Arenyeka
-
-[I'm a scientist!](/talks#im-a-scientist)
-
-![](/assets/img/speakers/omayeliarenyeka.jpg)
-
-<p class="bio">
-Omayeli is a creative technologist building design systems at LinkedIn. She graduated from New York University with a degree she created, titled Art & Code or Creative Computation if you want to be fancy. She thinks a lot about the intersections of technology, art and social good and can tell you the plot of any Law and Order SVU episode.
-</p>
-
-
 ### Murphy Berzish
 
 [Formal Methods for Everyone: Practical Tools for Computer-Aided Reasoning](/talks#formal-methods-for-everyone-practical-tools-for-computer-aided-reasoning)

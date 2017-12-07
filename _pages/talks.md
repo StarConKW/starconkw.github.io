@@ -97,15 +97,6 @@ With the rise of cloud applications, more and more software is becoming collabor
 </p>
 
 
-### I'm a scientist!
-
-[Omayeli Arenyeka](/speakers#omayeli-arenyeka)
-
-<p class="abstract">
-In the 6th grade we were taught the Scientific method. We would ask a question, form a hypothesis, conduct an experiment and then analyze the results and come up with a conclusion. The results, if unambiguous, proved us right or wrong. After I took my last science class in high school, I stopped conducting experiments. If I got curious about something or had a question, I would do research. However, some of the questions I had couldn’t be answered by googling or buying a book. 2 years ago I discovered how I could be a “scientist” without literally being one. In my talk, “I’m a scientist!” I’m going to talk about answering our own questions through data exploration and visualization. I will take the audience through one of my visualization projects at each step of the scientific method. They will be introduced to methods of obtaining data, techniques for data analysis and a brief introduction to data visualization. I believe that everyone should be able to analyze and do basic visualizations of data so we don’t always rely on outside sources (which often are biased) to make conclusions about the world we live in.
-</p>
-
-
 ### Dealing with Bad Architecture Decisions: A Case Study
 
 [Claire Janke](/speakers#claire-janke)
