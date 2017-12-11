@@ -29,6 +29,9 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
+  - title: Schedule
+    url: /schedule/
+    desc: Schedule
   - title: Speakers
     url: /speakers/
     desc: See who's speaking
