@@ -36,6 +36,9 @@ One of the greatest issues facing our civilization is economic inequality, and w
 
 [FunnelCake](https://getfunnelcake.com/) is a RevOps platform that tells you how to beat your growth targets. Connect Salesforce and FunnelCake to drive your RevOps engine. FunnelCake identifies gaps between your pipeline and your growth goals, then guides Marketing, Sales, and Customer Success with actionable insights – like how many leads you need to create, when you need to hire Sales reps to hit growth targets, and red flag alerts on pipeline.
 
+![](/assets/img/sponsors/shopify.png)
+
+[Shopify](https://www.shopify.com/) is a leading cloud-based, multichannel commerce platform designed for small and medium-sized businesses. Merchants can use the software to design, set up, and manage their stores across multiple sales channels, including web, mobile, social media, marketplaces, brick-and-mortar locations, and pop-up shops. The Shopify platform was engineered for reliability and scale.
 
 ![](/assets/img/sponsors/scs.png)
 
