@@ -8,7 +8,9 @@ permalink: /talks/
 
 # StarCon Talk Lineup
 
-There will be 2 keynotes and 20 lightning talks at StarCon. The full lineup and order/schedule will be announced soon!
+<br/>
+
+Check out the full schedule [here](/schedule) and learn more about our amazing speakers [here!](/speakers)
 
 ## Keynotes
 
