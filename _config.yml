@@ -32,9 +32,6 @@ navigation:
   - title: Schedule
     url: /schedule/
     desc: Schedule
-  - title: Speakers
-    url: /speakers/
-    desc: See who's speaking
   - title: Sponsors
     url: /sponsors/
     desc: Sponsor us!

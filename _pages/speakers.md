@@ -7,6 +7,8 @@ permalink: /speakers/
 
 <div class="pretty-links">
 
+Check out the full schedule [here](/schedule) and learn more about our great talks [here!](/talks)
+
 ## Keynotes
 
 ### Julia Evans
