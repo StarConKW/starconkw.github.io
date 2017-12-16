@@ -23,10 +23,12 @@ Julia Evans is a software engineer at Stripe. In her spare time, she runs a prog
 
 ### Safia Abdalla
 
+[Open Lessons from Open Source](/talks#open-lessons-from-open-source)
+
 ![](/assets/img/speakers/safia.jpg)
 
 <p class="bio">
-Safia is the founder of Zarf, a platform for independent writers who produce paid subscription content for their readers.
+Safia is the founder of [Zarf](https://zarf.co/), a platform for independent writers who produce paid subscription content for their readers.
 </p>
 
 ## Invited Speakers
@@ -50,6 +52,18 @@ Dinah Davis is the Director of R&D at Arctic Wolf Networks, responsible for the 
 <p class="bio">
 Josh Bowman-Matthews builds web browsers and sustainable communities for a living. He gets excited about demolishing barriers to participating in open source projects. He also sings in a barbershop quartet.
 </p>
+<br/>
+
+### Christina Truong
+
+[Why You Should be Building Design Systems and CSS Architectures](/talks#why-you-should-be-building-design-systems-and-css-architectures)
+
+![](/assets/img/speakers/christina.jpg)
+
+<p class="bio">
+Christina is an independent developer, focusing on inclusive tech education and technical consulting services. She has over 10 years of experience as a front-end developer. As an educator, she has taught 1000+ students in college programs, coding bootcamps, workshops and many more with her online courses.
+</p>
+
 
 ## Speakers
 

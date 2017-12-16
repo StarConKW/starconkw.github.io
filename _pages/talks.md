@@ -35,6 +35,14 @@ But along the way, I have learned a few ways to debug tricky problems, get the i
 At the end, we'll have a better understanding of how you can get a lot of awesome stuff done even when you're not the highest level wizard on your team.
 </p>
 
+### Open Lessons from Open Source
+
+[Safia Abdalla](/speakers#safia-abdalla)
+
+<p class="abstract">
+Working in open source provides interesting insights on technology and people culture. In this keynote, Safia shares the lessons learned and ideas gather from her experience as an open source contributor and maintainer.
+</p>
+
 ## Lightning talks
 
 ### Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens
@@ -52,6 +60,23 @@ Investigating programming languages that never went mainstream can help us bette
 <p class="abstract">
 This past year was all about large Ransomware hacks like WannaCry, Petya/NotPetya, and CRYPSHED to name a few. In this talk Dinah will detail how it works, how to avoid it, and what is coming next in the world of Ransomware. She will also demonstrate what happens when ransomware is exploded on a computer from the Arctic Wolf labs.
 </p>
+
+### Why You Should be Building Design Systems and CSS Architectures
+
+[Christina Truong](/speakers#christina-truong)
+
+<p class="abstract">
+CSS is sometimes undervalued and misinterpreted as being “easy” because it is not a programming language. So planning and writing efficient, scalable and maintainable CSS sometimes falls by the wayside. But it shouldn’t! From small projects to large projects, creating and planning the CSS architecture right from the beginning will help make it easier to maintain the project and onboard new team members.
+</p>
+<p class="abstract">
+In this talk, I’ll go over the advantages of writing more thoughtful CSS and the process of creating a design system such as:
+</p>
+
+- Establishing design rules and coding standards
+- Taking inventory of the design components
+- Examples of scalable and modular CSS
+- Writing documentation
+
 
 ### Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving
 
