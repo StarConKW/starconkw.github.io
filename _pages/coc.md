@@ -84,7 +84,7 @@ You have several options for contacting us:
 
 - send a private Slack message to Evy Kassirer (trained incident responder) or any other conference organizer
 - direct message [Evy](https://twitter.com/EvyKassirer) on Twitter
-- find a conference organizer (wearing navy blue StarCon shirts) and talk to us in person
+- find a conference organizer (wearing navy blue StarCon shirts) or volunteer (wearing dark grey StarCon shirts) and talk to us in person
 - Send an email to the conference organizers with the anonymous form below
 
 We won't share your contact information or the contents of your message with anyone other than trained incident responders (if you email us, only the 6 [conference executives](/#whos-running-this) will see the email).
