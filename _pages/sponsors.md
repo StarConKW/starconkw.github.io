@@ -40,6 +40,10 @@ One of the greatest issues facing our civilization is economic inequality, and w
 
 [Shopify](https://www.shopify.com/) is a leading cloud-based, multichannel commerce platform designed for small and medium-sized businesses. Merchants can use the software to design, set up, and manage their stores across multiple sales channels, including web, mobile, social media, marketplaces, brick-and-mortar locations, and pop-up shops. The Shopify platform was engineered for reliability and scale.
 
+![](/assets/img/sponsors/no_starch_press.jpg)
+
+The finest in geek entertainment. Thank you [No Starch Press](https://www.nostarch.com/) for sending us a collection of popular technical books, vouchers for free ebooks, and miscellaneous No Starch merch to hand out at StarCon!
+
 ![](/assets/img/sponsors/scs.png)
 
 The David R. Cheriton School of Computer Science brings together over 80 faculty, 40 staff and 2000 students at the undergraduate and graduate levels. The School has its origin in the Department of Applied Analysis and Computer Science, founded in 1967, and has grown to become the largest academic computer science research centre in Canada, ranking 10th in North America and 24th in the world.
