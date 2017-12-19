@@ -80,11 +80,13 @@ communications pertaining to community business.
 
 ## Contact Us ##
 
+Note that Evy Kassirer and Arshia Mufti are StarCon's official incident responders, and Evy has participated in a Code of Conduct enforcement training with [Sage Sharp](http://sage.thesharps.us/). You are welcome to reach out to them or to any other conference organizers or volunteers.
+
 You have several options for contacting us:
 
-- send a private Slack message to Evy Kassirer (trained incident responder) or any other conference organizer
-- direct message [Evy](https://twitter.com/EvyKassirer) on Twitter
-- find a conference organizer (wearing navy blue StarCon shirts) or volunteer (wearing dark grey StarCon shirts) and talk to us in person
+- Send a private Slack message to any [conference organizer](/#whos-running-this)
+- Direct message [Evy](https://twitter.com/EvyKassirer) or [Arshia](https://twitter.com/arshia__) on Twitter
+- Find a conference organizer (wearing navy blue StarCon shirts) or volunteer (wearing dark grey StarCon shirts) and talk to us in person
 - Send an email to the conference organizers with the anonymous form below
 
 We won't share your contact information or the contents of your message with anyone other than trained incident responders (if you email us, only the 6 [conference executives](/#whos-running-this) will see the email).
@@ -102,11 +104,11 @@ We won't share your contact information or the contents of your message with any
 
 When you report a Code of Conduct violation, the following will happen:
 
-- Only the people you talk to and trained incident responders (Evy and TODO) will recieve information about the incident.
+- Only the people you talk to and the incident responders (Evy and Arshia) will recieve information about the incident.
 - We will ask what you would like to be done in response to the incident and will evaluate if we will follow through with that.
 - Usually we will not respond in any way more than the reporter wishes (we are often happy to simply record an incident and not respond if that is what the reporter wishes). However, if we believe the incident is especially harmful (e.g. people's lives are in danger) or has done harm to a lot of people (e.g. something in a talk that affected all attendees)  we may choose to remove a person from the event or address the issue to our attendees more publicly.
-- The timeframe in which we respond to erports  will vary incident to incident and we'll respond in the timeframe we believe necessary. However, we commit to responding to all incidents within two weeks of the conference
-- Incident details including date, time, and location will be recorded in a document in a Google Drive folder with link sharing turned off. Only Evy and [TODO second person] will have access to this document - but we may add extra people if the issue feels serious and urgent, or if the reporter of the incident would like more organizers to be involved
+- The timeframe in which we respond to erports  will vary incident to incident and we'll respond in the timeframe we believe necessary. However, we commit to responding to all incidents within two weeks of the conference.
+- Incident details including date, time, and location will be recorded in a document in a Google Drive folder with link sharing turned off. Only Evy and Arshia will have access to this document - but we may add extra people if the issue feels serious and urgent, or if the reporter of the incident would like more organizers to be involved.
 
 
 ## Addressing Grievances ##
