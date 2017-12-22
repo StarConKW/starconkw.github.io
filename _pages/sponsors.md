@@ -48,6 +48,10 @@ One of the greatest issues facing our civilization is economic inequality, and w
 
 The finest in geek entertainment. Thank you [No Starch Press](https://www.nostarch.com/) for sending us a collection of popular technical books, vouchers for free ebooks, and miscellaneous No Starch merch to hand out at StarCon!
 
+[![](/assets/img/sponsors/microsoft.png)](https://www.microsoft.com/en-us/about/default.aspx)
+
+We believe in what people make possible. Our mission is to empower every person and every organization on the planet to achieve more.
+
 ![](/assets/img/sponsors/scs.png)
 
 The David R. Cheriton School of Computer Science brings together over 80 faculty, 40 staff and 2000 students at the undergraduate and graduate levels. The School has its origin in the Department of Applied Analysis and Computer Science, founded in 1967, and has grown to become the largest academic computer science research centre in Canada, ranking 10th in North America and 24th in the world.
