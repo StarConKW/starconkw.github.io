@@ -86,6 +86,7 @@ You have several options for contacting us:
 
 - Send a private Slack message to any [conference organizer](/#whos-running-this)
 - Direct message [Evy](https://twitter.com/EvyKassirer) or [Arshia](https://twitter.com/arshia__) on Twitter
+- Message Evy securely on [Keybase](https://keybase.io/evyk/)
 - Find a conference organizer (wearing navy blue StarCon shirts) or volunteer (wearing dark grey StarCon shirts) and talk to us in person
 - Send an email to the conference organizers with the anonymous form below
 
