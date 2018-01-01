@@ -327,3 +327,9 @@ html, body, .site-header, .site-footer {
   background-image: none;
   }
 }
+
+#code-of-conduct {
+  ~ p, ~ ul {
+    font-size: 16px;
+  }
+}

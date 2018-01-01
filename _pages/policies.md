@@ -19,7 +19,12 @@ If no badge is visible, photographers will ask permission before taking pictures
 
 *adapted from [Strange Loop's Photography Policy](https://www.thestrangeloop.com/policies.html)*
 
+## No Weapons Policy
+
+No weapons will be allowed at StarCon events, community spaces, or in other spaces related to the conference. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all provincial and local laws on this matter.
+
+*adapted from the [Citizen Code of Conduct](http://citizencodeofconduct.org/)*
+
 ## No Alcohol Policy
 
-StarCon is an **alcohol-free** event. This means that we will not be serving alcohol during the conference, and
-do not allow its consumption in our event spaces.
+StarCon is an **alcohol-free** event. This means that we will not be serving alcohol during the conference, and do not allow its consumption in our event spaces.
