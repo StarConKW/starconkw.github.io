@@ -127,7 +127,7 @@ Conduct](http://opensourcebridge.org/about/code-of-conduct/), the [JSConf
 Code of Conduct](http://jsconf.com/codeofconduct.html), and the
 [Citizen Code of Conduct](http://citizencodeofconduct.org/).
 
-*Version 1.1, adopted by StarCon on TODO, 2017.*
+*Version 2.0, adopted by StarCon on Jan 1, 2018.*
 
 Version history [here](https://github.com/StarConUW/starconuw.github.io/commits/master/_pages/coc.md)
 
