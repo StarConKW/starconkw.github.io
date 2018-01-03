@@ -1,7 +1,7 @@
 ---
 layout: page
-title: wifi
-subtitle: wifi
+title: WiFi
+subtitle: WiFi
 permalink: /wifi/
 ---
 
