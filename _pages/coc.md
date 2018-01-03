@@ -108,7 +108,7 @@ When you report a Code of Conduct violation, the following will happen:
 - Only the people you talk to and the incident responders (Evy and Arshia) will recieve information about the incident.
 - We will ask what you would like to be done in response to the incident and will evaluate if we will follow through with that.
 - Usually we will not respond in any way more than the reporter wishes (we are often happy to simply record an incident and not respond if that is what the reporter wishes). However, if we believe the incident is especially harmful (e.g. people's lives are in danger) or has done harm to a lot of people (e.g. something in a talk that affected all attendees)  we may choose to remove a person from the event or address the issue to our attendees more publicly.
-- The timeframe in which we respond to erports  will vary incident to incident and we'll respond in the timeframe we believe necessary. However, we commit to responding to all incidents within two weeks of the conference.
+- The timeframe in which we respond to reports  will vary incident to incident and we'll respond in the timeframe we believe necessary. However, we commit to responding to all incidents within two weeks of the conference.
 - Incident details including date, time, and location will be recorded in a document in a Google Drive folder with link sharing turned off. Only Evy and Arshia will have access to this document - but we may add extra people if the issue feels serious and urgent, or if the reporter of the incident would like more organizers to be involved.
 
 
