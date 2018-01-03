@@ -20,7 +20,7 @@ We believe that growing the GDP of the internet is a problem rooted in code and 
 
 ![](/assets/img/sponsors/square.png)
 
-We empower business owners to accept payments, help restaurants set up a delivery option and we provide capital to allow businesses to grow. We make the tough choice to give people access to their funds faster.  We built the Cash App to provide a quick and easy solution to participate in the economy. To level the playing field. To make the system more fair. That's how we started and that's why we're here.
+[Square](https://squareup.com/) empowers business owners to accept payments, help restaurants set up a delivery option, and provide capital to allow businesses to grow. We make the tough choice to give people access to their funds faster.  We built the Cash App to provide a quick and easy solution to participate in the economy. To level the playing field. To make the system more fair. That's how we started and that's why we're here.
 <br/><br/>
 One of the greatest issues facing our civilization is economic inequality, and we have a role in addressing it. We believe everyone should be able to participate and thrive in the economy. So we build accessible tools that shorten the distance between having an idea and making a living from it. Tools that make people feel good and inspire them to do good.
 
