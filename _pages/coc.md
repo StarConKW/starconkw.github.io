@@ -17,7 +17,7 @@ StarCon is dedicated to providing an oppression-free conference experience for e
 
 Please note that our [photography policy](/policies/#photography-policy), [no alcohol policy](/policies/#no-alcohol-policy), and [no weapons policy](/policies/#no-weapons-policy) are all expected to be followed and breaking these policies are also code of conduct violations.
 
-## Expected Bheaviour
+## Expected Behaviour
 
 The following behaviors are expected and requested of all community members:
 
