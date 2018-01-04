@@ -13,7 +13,7 @@ Information on how to connect to wifi is [here](/wifi).
 
 ## Amenities
 
-There will be a quiet room available for those that need a break from the conference at any time.
+There will be a quiet room (M3 3127) available for those that need a break from the conference at any time.
 
 There are unfortunately no gender neutral restrooms in M3 but there are [some nearby](https://uwaterloo.ca/equity/equity-initiatives/inclusive-washrooms/inclusive-washroom-list) (the closest are 4 restrooms in the Davis Center).
 
