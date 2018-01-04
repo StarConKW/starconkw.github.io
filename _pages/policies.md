@@ -28,3 +28,7 @@ No weapons will be allowed at StarCon events, community spaces, or in other spac
 ## No Alcohol Policy
 
 StarCon is an **alcohol-free** event. This means that we will not be serving alcohol during the conference, and do not allow its consumption in our event spaces.
+
+## Social Rules
+
+We love the Recurse Center's four [social rules](https://www.recurse.com/manual#sub-sec-social-rules) and encourage our attendees to follow them.
