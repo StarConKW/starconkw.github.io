@@ -45,7 +45,7 @@ slides); deliberate intimidation, stalking or following; harassing photography
 or recording; sustained disruption of talks or other events; inappropriate
 physical contact, and unwelcome sexual attention.
 
-The most common form of Code of Conduct incident is often microagressions, which are statements that reinforce the status quo, and may make minorities in tech feel uncomfortable, alone, or unsupported. Even a small microagression is still a Code of Conduct violation and we welcome reports of them.
+The most common form of Code of Conduct incident is often microaggressions, which are statements that reinforce the status quo, and may make minorities in tech feel uncomfortable, alone, or unsupported. Even a small microaggression is still a Code of Conduct violation and we welcome reports of them.
 
 ## Consequences of Unacceptable Behavior ##
 
