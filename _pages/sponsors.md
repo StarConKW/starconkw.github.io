@@ -61,6 +61,10 @@ The David R. Cheriton School of Computer Science brings together over 80 faculty
 
 The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about) (MEF) is an income-generating fund that finances projects for the academic betterment of mathematics undergraduate students at the University of Waterloo. Members of the StarCon organizing committee have used MEF funding for previous projects on the Women in CS committee and for attending conferences. We're very grateful for their support. If you are a Waterloo math student and not in town for StarCon, we recommend reaching out to them for travel funding!
 
+![](/assets/img/sponsors/wics.png)
+
+[Women in Computer Science](https://cs.uwaterloo.ca/wics) (WICS) is dedicated to promoting women who are interested in studying computer science and who seek to pursue careers in computing.
+
 <hr>
 
 <hr>
