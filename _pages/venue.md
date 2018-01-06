@@ -17,7 +17,7 @@ There will be a quiet room (M3 3127) available for those that need a break from 
 
 There are unfortunately no gender neutral restrooms in M3 but there are [some nearby](https://uwaterloo.ca/equity/equity-initiatives/inclusive-washrooms/inclusive-washroom-list) (the closest are 4 restrooms in the Davis Center).
 
-## Accessiblity
+## Accessibility
 
 M3 and the conference rooms are accessible by wheelchair. For more information about campus accessibility check out the "Finding Your Way" section of [Waterloo's "Campus Accessibility" page](https://uwaterloo.ca/human-resources/accessibility/campus-accessibility).
 
