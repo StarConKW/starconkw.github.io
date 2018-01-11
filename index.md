@@ -5,9 +5,22 @@ layout: default
 <div class="lead pretty-links">
 StarCon is a two-day software engineering conference held in Waterloo, Ontario with two days of lightning talks about technology, computer science, programming, and the joy of learning about them!
 
+{::nomarkdown}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My love of this conference format CANNOT be overstated. The speakers at <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a> are rocking it. Congrats on a badass morning. <a href="https://twitter.com/hashtag/KWawesome?src=hash&amp;ref_src=twsrc%5Etfw">#KWawesome</a></p>&mdash; Sam Campbell (@MsSammieRose) <a href="https://twitter.com/MsSammieRose/status/949706977516466176?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m enjoying the consistent theme across talks that people are awesome, learning is the best, and we&#39;ve had good experiences with communities around our tech of choice. There&#39;s a lot of nice excitement in this room. <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a></p>&mdash; Breanne Boland (@breanneboland) <a href="https://twitter.com/breanneboland/status/949737637954269184?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today at <a href="https://twitter.com/hashtag/starcon?src=hash&amp;ref_src=twsrc%5Etfw">#starcon</a> I learned so much, all interesting things that I would never have thought to google</p>&mdash; Tristan (@DrTeePot) <a href="https://twitter.com/DrTeePot/status/949754079999270912?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
+
+<br/>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{:/}
+
 ## Where and When
 
-StarCon was held at University of Waterloo on January 6th and 7th, 2018. Information about a potential StarCon 2019 will be announced soon.
+StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Information about a potential StarCon 2019 will be announced soon.
 
 ## Who's speaking? Can I apply to speak?
 
