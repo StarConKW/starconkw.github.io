@@ -5,7 +5,7 @@ subtitle: Venue
 permalink: /venue/
 ---
 
-StarCon will be held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo.
+StarCon was held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo.
 
 ## WiFi
 

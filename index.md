@@ -3,15 +3,15 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-StarCon is a two-day software engineering conference held in Waterloo, Ontario. Join us for two days of lightning talks about technology, computer science, programming, and the joy of learning about them!
-
-## Who's speaking? Can I apply to speak?
-
-Check out our [invited keynotes and speakers](speakers/#keynotes)! Learn about how you can speak at StarCon [here](/cfp/).
+StarCon is a two-day software engineering conference held in Waterloo, Ontario with two days of lightning talks about technology, computer science, programming, and the joy of learning about them!
 
 ## Where and When
 
-StarCon will be held at University of Waterloo on January 6th and 7th, 2018.
+StarCon was held at University of Waterloo on January 6th and 7th, 2018. Information about a potential StarCon 2019 will be announced soon.
+
+## Who's speaking? Can I apply to speak?
+
+Check out our [2018 invited keynotes and speakers](speakers/#keynotes)! Our call for proposals to speak at StarCon has closed but you can learn more about it [here](/cfp/).
 
 ## Who Can Attend
 
@@ -19,11 +19,11 @@ This conference is open to everyone!
 
 ## Registration
 
-Registration is available [here](https://www.eventbrite.ca/e/starcon-tickets-39599756939). Tickets are free and are first come, first served. If tickets are sold out, we encourage you to join the waitlist.
+Registration is closed for StarCon 2018.
 
 ## The Venue
 
-StarCon will be held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo. You can read about our venue (including parking and accessibility) [here](/venue).
+StarCon was held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo. You can read about our venue (including parking and accessibility) [here](/venue).
 
 ## Policies
 
