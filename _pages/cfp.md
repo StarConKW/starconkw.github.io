@@ -7,10 +7,6 @@ permalink: /cfp/
 
 **The call for talk proposals for StarCon 2018 is now closed.**
 
-Decisions were sent out Tue Oct 31.
-
-Conference registration opened in November.
-
 ## Original call for proposals (for posterity)
 
 We’re excited to announce that StarCon is having its first Call for Proposals (CFP)! We’re looking for folks who have a passion for technology, learning and sharing to submit talks about their favourite piece(s) of technology.
