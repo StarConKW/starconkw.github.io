@@ -6,7 +6,7 @@ permalink: /talks/
 
 <div class="pretty-links">
 
-# StarCon Talk Lineup
+# StarCon 2018 Talk Lineup
 
 <br/>
 

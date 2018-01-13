@@ -5,7 +5,7 @@ permalink: /sponsors/
 
 <div class="pretty-links">
 
-# Sponsors
+# 2018 Sponsors
 
 [![](/assets/img/sponsors/stripe.png)](http://grnh.se/4cxbw61)
 

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Speakers
-subtitle: Speakers
+subtitle: 2018 Speakers
 permalink: /speakers/
 ---
 
 <div class="pretty-links">
 
-Check out the full schedule [here](/schedule) and learn more about our great talks [here!](/talks)
+Check out the full 2018 schedule [here](/schedule) and learn more about our great talks [here!](/talks)
 
 ## Keynotes
 
