@@ -7,7 +7,7 @@ StarCon is a two-day software engineering conference held in Waterloo, Ontario w
 
 ## Where and When
 
-StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Talks were recorded and will be posted once they have been sent to us. Information about a potential StarCon 2019 will be announced soon.
+StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Pictures taken by [Neha](https://www.instagram.com/ravellaaa) have been posted [here](flickr.com/photos/155812015@N03/sets/72157692529678365). Talks were recorded and videos will be posted once they have been sent to us. Information about a potential StarCon 2019 will be announced soon.
 
 {::nomarkdown}
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My love of this conference format CANNOT be overstated. The speakers at <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a> are rocking it. Congrats on a badass morning. <a href="https://twitter.com/hashtag/KWawesome?src=hash&amp;ref_src=twsrc%5Etfw">#KWawesome</a></p>&mdash; Sam Campbell (@MsSammieRose) <a href="https://twitter.com/MsSammieRose/status/949706977516466176?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
