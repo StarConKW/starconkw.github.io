@@ -12,8 +12,8 @@ permalink: /:year/:title/   # how should we display posts url
 # Meta settings
 email: uwstarcon@gmail.com
 author: StarCon
-twitter_username: starconuw
-github_username: StarConUW
+twitter_username: starconkw
+github_username: StarConKW
 
 # Put your ga tracking code below
 google_analytics: 'UA-104945288-1'
