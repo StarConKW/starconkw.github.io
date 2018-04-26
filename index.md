@@ -41,7 +41,7 @@ Learn about our photography, alcohol, and other policies [here](/policies)!
 
 ## Where can I get updates?
 
-Follow us on [Twitter](https://twitter.com/starconuw) or [Facebook](https://www.facebook.com/starconuw/). You can also sign up for our mailing list for updates:
+Follow us on [Twitter](https://twitter.com/starconkw) or [Facebook](https://www.facebook.com/starconkw/). You can also sign up for our mailing list for updates:
 
 {::nomarkdown}
 <!-- Begin MailChimp Signup Form -->
