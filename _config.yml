@@ -10,7 +10,7 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: uwstarcon@gmail.com
+email: kwstarcon@gmail.com
 author: StarCon
 twitter_username: starconkw
 github_username: StarConKW

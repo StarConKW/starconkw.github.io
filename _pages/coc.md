@@ -92,7 +92,7 @@ You have several options for contacting us:
 
 We won't share your contact information or the contents of your message with anyone other than trained incident responders (if you email us, only the 6 [conference executives](/#whos-running-this) will see the email).
 
-<form action="https://formspree.io/uwstarcon@gmail.com" method="POST">
+<form action="https://formspree.io/kwstarcon@gmail.com" method="POST">
 
 <textarea type="text" name="code of conduct violation" rows="5" cols="60"></textarea>
 <label for="_replyto">Your email (optional) </label>
@@ -129,6 +129,6 @@ Code of Conduct](http://jsconf.com/codeofconduct.html), and the
 
 *Version 2.0, adopted by StarCon on Jan 1, 2018.*
 
-Version history [here](https://github.com/StarConUW/starconuw.github.io/commits/master/_pages/coc.md)
+Version history [here](https://github.com/StarConKW/starconuw.github.io/commits/master/_pages/coc.md)
 
 </div>
