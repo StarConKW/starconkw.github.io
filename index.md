@@ -15,7 +15,7 @@ Is your company interested in sponsoring us? Learn more [here](https://starcon.i
 
 ## StarCon 2018
 
-StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Pictures taken by [Neha](https://www.instagram.com/ravellaaa) have been posted [here](https://www.flickr.com/photos/155812015@N03/sets/72157692529678365). Talks were recorded and videos will be posted once they have been sent to us.
+StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Pictures taken by [Neha](https://www.instagram.com/ravellaaa) have been posted [here](https://www.flickr.com/photos/155812015@N03/sets/72157692529678365). Videos of recorded talks can be found [here](https://www.youtube.com/watch?v=W3odFBq59zI&list=PL66LdfYKVsiikB7G8px8tiU6hzd46PR0P).
 
 {::nomarkdown}
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My love of this conference format CANNOT be overstated. The speakers at <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a> are rocking it. Congrats on a badass morning. <a href="https://twitter.com/hashtag/KWawesome?src=hash&amp;ref_src=twsrc%5Etfw">#KWawesome</a></p>&mdash; Sam Campbell (@MsSammieRose) <a href="https://twitter.com/MsSammieRose/status/949706977516466176?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
