@@ -185,7 +185,7 @@ He can be found on the #csc IRC channel on https://freenode.net/.
 
 ### Alex Rhatushnyak
 
-[Why Lossless Data Compression Is Both Important and Fun](/talks#why-lossless-data-compression-is-both-important-and-fun)
+[Why Lossless Data Compression Is Important and Fun](/talks#why-lossless-data-compression-is-both-important-and-fun)
 
 ![](/assets/img/speakers/alex.png)
 

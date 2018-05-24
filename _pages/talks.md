@@ -134,7 +134,7 @@ Have you ever worked on a project for several months, only to realize right befo
 
 
 
-### Why Lossless Data Compression Is Both Important and Fun
+### Why Lossless Data Compression Is Important and Fun
 
 [Alex Rhatushnyak](/speakers#alex-rhatushnyak)
 
