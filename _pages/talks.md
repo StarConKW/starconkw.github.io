@@ -10,13 +10,13 @@ permalink: /talks/
 
 <br/>
 
-Check out the full schedule [here](/schedule) and learn more about our amazing speakers [here!](/speakers)
+Check out the full schedule [here](/schedule) and learn more about our amazing speakers [here!](/2018/speakers)
 
 ## Keynotes
 
 ### So you want to be a wizard?
 
-[Julia Evans](/speakers#julia-evans)
+[Julia Evans](/2018/speakers#julia-evans)
 
 <p class="abstract">
 I don't always feel like a wizard. I'm not the most experienced member on my team, like most people I sometimes find my work difficult, and I still have a TON TO LEARN.
@@ -37,7 +37,7 @@ At the end, we'll have a better understanding of how you can get a lot of awesom
 
 ### Open Lessons from Open Source
 
-[Safia Abdalla](/speakers#safia-abdalla)
+[Safia Abdalla](/2018/speakers#safia-abdalla)
 
 <p class="abstract">
 Working in open source provides interesting insights on technology and people culture. In this keynote, Safia shares the lessons learned and ideas gather from her experience as an open source contributor and maintainer.
@@ -47,7 +47,7 @@ Working in open source provides interesting insights on technology and people cu
 
 ### Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens
 
-[Josh Bowman-Matthews](/speakers#josh-bowman-matthews)
+[Josh Bowman-Matthews](/2018/speakers#josh-bowman-matthews)
 
 <p class="abstract">
 Investigating programming languages that never went mainstream can help us better appreciate the subtle trade-offs that are required when designing a programming language. In "Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens", we will focus on one such language in particular. In 1994, a small community of teenagers started using Robotic: an unusual, forward-thinking programming language intended for creating computer games inside the game creation system MegaZeux. We’ll examine the design of Robotic and how it compared to academic research and industrial practice at the time, as well as how it reflects current trends and practices. We’ll contemplate the unorthodox choices that Robotic made and how these helped position it as a viable introduction to programming for so many aspiring game developers. Through these examples and comparisons we will better appreciate the broad scope in programming language design that exists outside of the languages that we most commonly experience.
@@ -55,7 +55,7 @@ Investigating programming languages that never went mainstream can help us bette
 
 ### The Innerworkings of Ransomware
 
-[Dinah Davis](/speakers#dinah-davis)
+[Dinah Davis](/2018/speakers#dinah-davis)
 
 <p class="abstract">
 This past year was all about large Ransomware hacks like WannaCry, Petya/NotPetya, and CRYPSHED to name a few. In this talk Dinah will detail how it works, how to avoid it, and what is coming next in the world of Ransomware. She will also demonstrate what happens when ransomware is exploded on a computer from the Arctic Wolf labs.
@@ -63,7 +63,7 @@ This past year was all about large Ransomware hacks like WannaCry, Petya/NotPety
 
 ### Why You Should be Building Design Systems and CSS Architectures
 
-[Christina Truong](/speakers#christina-truong)
+[Christina Truong](/2018/speakers#christina-truong)
 
 <p class="abstract">
 CSS is sometimes undervalued and misinterpreted as being “easy” because it is not a programming language. So planning and writing efficient, scalable and maintainable CSS sometimes falls by the wayside. But it shouldn’t! From small projects to large projects, creating and planning the CSS architecture right from the beginning will help make it easier to maintain the project and onboard new team members.
@@ -80,7 +80,7 @@ In this talk, I’ll go over the advantages of writing more thoughtful CSS and t
 
 ### Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving
 
-[Fatema Boxwala](/speakers#fatema-boxwala)
+[Fatema Boxwala](/2018/speakers#fatema-boxwala)
 
 <p class="abstract">
 Docker has become an extremely popular tool in the tech industry. Docker containers can be found playing a hugely important role in the infrastructure of companies from the tiniest startup to the giantest of the giants. Despite it's ubiquity, much of the inner-workings of Docker remain shrouded in mystery for developers, even for some people that work with the application regularly.  And a lot of the times, the only way to figure out what's going on is by experimenting and testing yourself. One particularly confusing aspect of Docker, and linux containers in general, is how exactly the networking inside the container works. In my talk: Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving, I will be giving a short but practical introduction to networking inside Docker and linux containers. The audience will first be introduced to the idea of network namespaces inside linux systems, and how these apply to containers and Docker. They will then be exposed to tools that can be used to interact with and troubleshoot networking issues inside a container. I will introduce these tools by sharing my own, very frustrating, experience with networking and Docker, in a problem-strategy-solution narrative. My talk will present information that will teach listeners information about linux containers, and offer some personal strategies and tools that have worked well for me.
@@ -89,7 +89,7 @@ Docker has become an extremely popular tool in the tech industry. Docker contain
 
 ### Gloom, Doom, and the Internet
 
-[Keefer Rourke](/speakers#keefer-rourke)
+[Keefer Rourke](/2018/speakers#keefer-rourke)
 
 <p class="abstract">
 Since the advent of the internet, technology has undergone a revolution like no other. It has enabled connectivity on a scale that has never been seen before, enabling free distribution of information, ideas, and independent content. However, in recent years we've seen a turn of events. What was once primarily a mechanism for free expression has given way to multitudes of surveillance machines designed to track your every move. In my talk "Gloom, Doom, and the Internet," I will discuss some of the privacy and security issues with technology today, and explain how you can defend the users of your Next Big Thing(tm). Attendees will be encouraged to rethink how they view internet-enabled technology, with a focus on the importance of privacy, accessibility, and security oriented designs from day one, and they will be shown how new platforms can be made successful simply by respecting their users.
@@ -97,7 +97,7 @@ Since the advent of the internet, technology has undergone a revolution like no 
 
 ### Why I Prefer Good Testing Over Excellent Testing
 
-[Tina Fletcher](/speakers#tina-fletcher)
+[Tina Fletcher](/2018/speakers#tina-fletcher)
 
 <p class="abstract">
 I often used to feel that if we only had more time for testing, we’d find all the bugs and everything would be awesome. But the longer I’ve been working on software projects, the more times I’ve seen that this might not be true. Most of the escaped defects in my recent memory were hiding in the areas I didn’t even know to ask about, in the small differences between our test and production environments, and in the things we depend on but don’t have full control over. So lately, while I will always value doing good testing, it doesn’t feel as useful to spend a lot of time striving for truly excellent coverage. Instead, I prefer to invest in planning for phased roll outs, and gaining confidence in our ability to quickly detect and resolve problems in production. I’d like to share a few stories about defects I missed that I wouldn’t have found with all the time in the world, and about times I have been saved by solid monitoring and roll-back strategies.
@@ -105,7 +105,7 @@ I often used to feel that if we only had more time for testing, we’d find all 
 
 ### Formal Methods for Everyone: Practical Tools for Computer-Aided Reasoning
 
-[Murphy Berzish](/speakers#murphy-berzish)
+[Murphy Berzish](/2018/speakers#murphy-berzish)
 
 <p class="abstract">
 Do you want to write code you can be confident in, and test your programs thoroughly? Formal methods is a powerful discipline of software engineering that uses logic and automated reasoning to prove correctness of programs or find counterexamples to assertions.
@@ -117,7 +117,7 @@ This talk will be very applied, with an emphasis on the practical rather than th
 
 ### How to make a real-time collaborative text editor in 5 easy steps!
 
-[Rudi Chen](/speakers#rudi-chen)
+[Rudi Chen](/2018/speakers#rudi-chen)
 
 <p class="abstract">
 With the rise of cloud applications, more and more software is becoming collaborative. That is, multiple people can be viewing and editing the same document or information at the same time. This can lead to tricky issues figuring out what the end result should be when two users simultaneously do conflicting operations (e.g. in Google Docs, two users typing in the same place). The conflict-resolution algorithms so solve these problems are increasingly important, but selfdom mentioned in any curriculum. This talk will present a newer approach to build a collaborative text editor easier to understand than common techniques found on the Internet. The technique will be presented one small layer of complexity at the time, such that at every step, the audience can get an intuition for the nature of the solution and be easily be convinced that it works. I’ll also make sure to un-dry the technical aspects talk by using humor and analogies to kiwis and water buffalos.
@@ -126,7 +126,7 @@ With the rise of cloud applications, more and more software is becoming collabor
 
 ### Dealing with Bad Architecture Decisions: A Case Study
 
-[Claire Janke](/speakers#claire-janke)
+[Claire Janke](/2018/speakers#claire-janke)
 
 <p class="abstract">
 Have you ever worked on a project for several months, only to realize right before the end date that there’s a fundamental flaw in your approach? In this talk I’ll tell the story of how our team built a new data management system which started as a fairly straightforward Elasticsearch index but then at the last minute evolved into a Frankenstein-esque database + search index hybrid that is still in use today. I'll also point out where it all went wrong to hopefully help others avoid the same mistakes in the future.
@@ -136,7 +136,7 @@ Have you ever worked on a project for several months, only to realize right befo
 
 ### Why Lossless Data Compression Is Important and Fun
 
-[Alex Rhatushnyak](/speakers#alex-rhatushnyak)
+[Alex Rhatushnyak](/2018/speakers#alex-rhatushnyak)
 
 <p class="abstract">
 Data compression is highly important for reducing storage costs and transmission times. More than 70% of global Internet traffic is video, and it's compressed video as a rule. Similarly, audio and images more often travel in compressed form. Lossless data compression (LDC) is an important part of a data compression system. Advanced LDC is an application of Data Science and Machine Learning, but basic LDC methods are so simple that you can implement them with zero or little knowledge of ML, DS and even Computer Science. The audience of my talk "Why Lossless Data Compression Is Both Important and Fun" will be introduced to the topic and learn several of the most vital principles. LDC competitions and benchmarks will be pictured as well, with practical advices on how to win thousands of dollars in such competitions. LDC is closely related to the notions of descriptive complexity and entropy. LDC methods can be applied for estimating descriptive complexity, for measuring similarity between files, and so on. In the second half of the talk a couple of next big things (supposedly related to descriptive complexity and LDC) will be briefly discussed.
@@ -145,7 +145,7 @@ Data compression is highly important for reducing storage costs and transmission
 
 ### Imagining a world with Ethereum
 
-[Anastasia Santasheva](/speakers#anastasia-santasheva)
+[Anastasia Santasheva](/2018/speakers#anastasia-santasheva)
 
 <p class="abstract">
 Cryptocurrencies such as Bitcoin, Ethereum, and others have recently become (in)famous in the news. In my talk, "Imagining a world with Ethereum", I will explore Ethereum's fundamentals by contrasting it with Bitcoin. Then I will show why this technology is powerful and what projects have been established in this space. I'll discuss their impact and lessons learned (especially surrounding hacks and governance), and explore what comes next. Ultimately, I will show you that we need everyone to understand and be involved in cryptocurrency to build a financial system 2.0 (or else someone else will build it for us)!
@@ -154,7 +154,7 @@ Cryptocurrencies such as Bitcoin, Ethereum, and others have recently become (in)
 
 ### Taking the Fun Out of Everything: Automating Neopets
 
-[Kelly McBride](/speakers#kelly-mcbride)
+[Kelly McBride](/2018/speakers#kelly-mcbride)
 
 <p class="abstract">
 Neopets is probably one of the Web 1.0’s greatest achievements. The fact that it was created during that time means that its original features rely on older technology that’s more commonly understood now, making it a prime target for automation at the hands of junior programmers. Neopets is a browser game about taking care of virtual pets. Fortunately, it’s comprised of php activities that you interact with by making HTTP requests - something that scripts are great at doing as well as browsers. In my talk, “Taking the Fun Out of Everything: Automating Neopets,” I’ll talk about collaborating with the ghosts of people with similar ideas by forking their abandoned repos, building on frameworks with the aim of applying more technical ideas later, and banging your head against the wall when “they could have just made the game do this.” I’ll close by mentioning some similar games that the audience can take the fun out of for themselves.
@@ -163,7 +163,7 @@ Neopets is probably one of the Web 1.0’s greatest achievements. The fact that 
 
 ### Of Tracked Changes and Diffs: Moving from Editorial to Engineering
 
-[Breanne Boland](/speakers#breanne-boland)
+[Breanne Boland](/2018/speakers#breanne-boland)
 
 <p class="abstract">
 I worked in online content in varying capacities for more than a decade before I made the shift to software engineering. While my ability to communicate verbally and in writing were early helpers as I completed this transition, the lessons I learned from editorial life were also surprisingly helpful. It turned out that years of workshopping stories, trading edits, laboring over drafts, and seeking buy-in and input are directly applicable to surviving and thriving in code reviews.
@@ -173,7 +173,7 @@ By the time I was writing my own code, I’d long since divorced my ego from the
 
 ### Managing Connections with Graphs: Uses and Challenges
 
-[Siddhartha Sahu](/speakers#siddhartha-sahu)
+[Siddhartha Sahu](/2018/speakers#siddhartha-sahu)
 
 <p class="abstract">
 Connections in social networks, financial transactions, and interactions between proteins are just a few examples of real-world data that can be intuitively represented as graphs. In my talk “Managing Connections with Graphs: Uses and Challenges”, I will examine the rising relevance of graph software in managing highly interconnected data. While graph processing is not a new technology, there has been a recent surge of interest in exploring connections in data as a graph, not only for familiar entities such as social data representing friends and what they like but also for entities that are not naturally thought of as graphs. The audience will develop an appreciation for how thinking in terms of graphs helps develop a better understanding of interconnected data. While there are a plethora of graph software in use, these software do not meet all the feature requirements arising from across a variety of domains. The audience will learn about the primary challenges in graph processing and opportunities for developing new ideas and techniques. Graph processing will become increasingly important in the coming years and it is definitely an exciting time to work on graph technology.
@@ -182,7 +182,7 @@ Connections in social networks, financial transactions, and interactions between
 
 ### Remote code execution in your text editor!
 
-[Max Veystman](/speakers#max-veystman)
+[Max Veystman](/2018/speakers#max-veystman)
 
 <p class="abstract">
 Text editors do a lot more than just edit characters in a buffer. Whether you use vim, emacs, submile text, atom, or something else, you probably configured your editor to highlight syntax, provide auto-completions, jump to defintions, and maybe even evaluate code. These plugins often spawn processes that evaluate code alongside your editor, and sometimes they even make and receive network connections. What if you could hack them?
@@ -194,7 +194,7 @@ P.S. if you're reading this abstract and use Elixir and Vim, you should upgrade 
 
 ### Protecting cryptography code from timing vulnerabilities
 
-[Tim McLean](/speakers#tim-mclean)
+[Tim McLean](/2018/speakers#tim-mclean)
 
 <p class="abstract">
 It's well-known that cryptography code is hard to get right.  Small mistakes often have disproportionately large consequences, like handing an attacker your encryption keys.
@@ -207,7 +207,7 @@ This talk is about the challenges of protecting code from timing leaks.  We will
 
 ### Undoing the Chatbot
 
-[Erika Pierre](/speakers#erika-pierre)
+[Erika Pierre](/2018/speakers#erika-pierre)
 
 <p class="abstract">
 In this talk, we’ll be taking a look at the history and present of chatbots and digital personal assistants in English-speaking North America from a technological and social perspective. Whether we're looking at virtual assistant bots, Facebook Messenger bots, or Slackbots, what do we expect from our bots, and why? What else can we imagine for and with our bots?
@@ -219,7 +219,7 @@ First, we’ll learn a little bit about the Speech Recognition and Speech Synthe
 
 ### How giant human-powered calculators became the internet
 
-[Andrew Louis](/speakers#andrew-louis)
+[Andrew Louis](/2018/speakers#andrew-louis)
 
 <p class="abstract">
 Once upon a time, a "computer" was literally a large room filled with hundreds of workers hunched over desks doing math. Almost a century later, we’ve arrived at the internet but what we have now was by no means inevitable.
@@ -236,7 +236,7 @@ These are just three stories in the complicated history of a complicated system 
 
 ### Introduction to Software Defined Radios
 
-[Jordan Pryde](/speakers#jordan-pryde)
+[Jordan Pryde](/2018/speakers#jordan-pryde)
 
 <p class="abstract">
 Software Defined Radios (SDR) are devices that implement the components of a radio, that have been traditionally implemented in hardware, with more flexible software. These components include mixers, filters, modulators and demodulators. In my talk I will introduce the audience to the concept of SDRs and other basic radio concepts, describe some cool projects that are only made possible with SDRs (with possible demo videos; time permitting), and finally how easy it is to purchase and get started playing with SDRs. I will also introduce the audience to Amateur Radio which provides both some spectrum they would be licenced to play around with and access to a group of likeminded hobbyists. SDRs can be used to better understand the consumer devices that we use everyday and that sometimes can seem like magic. SDRs can also be used to inexpensively (for around $30) monitor and record the emergency response (i.e. fire, paramedics and police) and airplane traffic. Concluding my presentation, I will walk though today’s SDR market and make suggestions of what to buy for those both new and experienced with SDRs. I believe this technology is so cool because it both allows us to demystify the radio-controlled electronics we use everyday and can enable us to be better connected to our communities.
@@ -245,7 +245,7 @@ Software Defined Radios (SDR) are devices that implement the components of a rad
 
 ### How Rust Makes Advanced Type Systems Accessible to the Masses
 
-[Sunjay Varma](/speakers#sunjay-varma)
+[Sunjay Varma](/2018/speakers#sunjay-varma)
 
 <p class="abstract">
 In the past it was accepted that only experts and highly experienced programmers could work on really large codebases. Those people all had the "special" capacity to keep all the different parts and considerations in their mind so that they could avoid a whole host of issues that a less experienced person might make. Nowadays, that convention isn't sufficient. There's too much software and too few "experts" to work on it all. Everyone has their limits and we need something more to make sure our software is correct. Why not let our computers do most of this checking for us? Type systems are a way to annotate our programs so that computers can do a lot of the work we used to rely on experts for. Advanced type systems have been around for a while, but they haven't seen much adoption until recently. In my talk, I will cover this transition and talk about what makes Rust so different. From individuals to large organizations, people are all of a sudden jumping to adopt Rust everywhere. Rust has been the most loved programming language in the StackOverflow Developer Survey for two years straight. It's type system allows any developer regardless of experience to modify a codebase with confidence. They know that they can lean on the compiler to tell them their mistakes. It's not a perfect way to eliminate all errors, but this exciting transition towards types will give us a route towards software that is extremely maintainable and even fun to write for years to come.
