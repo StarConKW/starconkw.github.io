@@ -29,10 +29,7 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
-  - title: Schedule
-    url: /schedule/
-    desc: Schedule
-  - title: Sponsors
+  - title: Sponsor us!
     url: /sponsors/
     desc: Sponsor us!
   - title: Code of Conduct
