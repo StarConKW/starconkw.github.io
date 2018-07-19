@@ -80,7 +80,7 @@ Follow us on [Twitter](https://twitter.com/starconkw) or [Facebook](https://www.
 ## Who's running this?
 
 [Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), and [Evy](http://evykassirer.com)
-founded StarCon in 2017 after being inspired by conferences such as [!!con](http://bangbangcon.com) and [HelloCon](http://hellocon.net). Since then the team has grown to include [Erin](https://www.linkedin.com/in/erin-edward/), [Fatima](https://www.linkedin.com/in/fatima-taj-37363a109/), [Kanan](TODO), [Chirag](https://cgada.me), [Karishma](https://twitter.com/karishmadagaa), and [Alicia](TODO).
+founded StarCon in 2017 after being inspired by conferences such as [!!con](http://bangbangcon.com) and [HelloCon](http://hellocon.net). Since then the team has grown to include [Erin](https://www.linkedin.com/in/erin-edward/), [Fatima](https://www.linkedin.com/in/fatima-taj-37363a109/), [Kanan](https://www.linkedin.com/in/kanan-sharma-08029a94/), [Chirag](https://cgada.me), [Karishma](https://twitter.com/karishmadagaa), and [Alicia](TODO).
 
 You can learn more about our team in [our prospectus](https://starcon.io/prospectus/).
 
