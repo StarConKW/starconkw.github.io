@@ -79,7 +79,10 @@ Follow us on [Twitter](https://twitter.com/starconkw) or [Facebook](https://www.
 
 ## Who's running this?
 
-[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), [Evy](http://evykassirer.com), [Erin](https://www.linkedin.com/in/erin-edward/), [Fatima](https://www.linkedin.com/in/fatima-taj-37363a109/), and [Shivangi](https://www.linkedin.com/in/spatwardhan2018/) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](http://wics.uwaterloo.ca).
+[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), and [Evy](http://evykassirer.com)
+founded StarCon in 2017 after being inspired by conferences such as [!!con](http://bangbangcon.com) and [HelloCon](http://hellocon.net). Since then the team has grown to include [Erin](https://www.linkedin.com/in/erin-edward/), [Fatima](https://www.linkedin.com/in/fatima-taj-37363a109/), [Kanan](https://www.linkedin.com/in/kanan-sharma-08029a94/), [Chirag](https://cgada.me), [Karishma](https://twitter.com/karishmadagaa), and [Alicia](https://www.behance.net/aliciayoosdeb0).
+
+You can learn more about our team in [our prospectus](https://starcon.io/prospectus/).
 
 ---
 
