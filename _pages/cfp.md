@@ -17,7 +17,9 @@ We **really** want to hear from you if:
 - You are a member of an underrepresented group in technology.
 - You’ve hesitated to apply to speak at conferences  in the past because you think that you have nothing to contribute or you feel less qualified than your peers.
 
-**[Submit Your Talk Here](https://easychair.org/conferences/?conf=starcon2019)**
+**Before submitting your talk, make sure you've read the guidelines below.**
+
+**[Submit Your Talk Here](https://easychair.org/conferences/?conf=starcon2019)** (The form will open on August 1st)
 
 ## Basic Information
 
@@ -35,7 +37,7 @@ Acceptances/Rejections Sent: October 1 2018
 
 ## How To Submit Your Talk
 
-This year we're using EasyChair to manage our CFP process. If you do not already have an EasyChair account, you need to [create an account](https://easychair.org/account/signup.cgi?conf=starcon2019). During account creation, EasyChair will ask for personal information including your organization, country, and personal web page. If you are a student, you can use your school in place of organization. Use the personal web page section to let us know where we can find you on the internet. This could be a personal web site, twitter, linkedin, etc (whatever you're comfortable sharing). _Note that this information will be anonymized during the review process._
+This year we're using EasyChair to manage our CFP process. If you do not already have an EasyChair account, you need to [create an account](https://easychair.org/account/signup.cgi?conf=starcon2019). During account creation, EasyChair will ask for personal information including your organization, country, and personal web page. If you are a student, you can use your school in place of organization. Use the personal web page section to let us know where we can find you on the internet. This could be a personal web site, twitter, linkedin, etc (whatever you're comfortable sharing). _Note that this information will be anonymized and not visible to the program committee during the review process._
 
 You can view EasyChair's Terms of Service and Privacy Policy [here](https://www.easychair.org/terms.cgi).
 
@@ -50,6 +52,8 @@ We ask for three things other than your basic information: An abstract, a timeli
 - **Where you work/go to school**
 - **Any relation to the StarCon organizers or members of the StarCon Program Committee**
 - **Your gender, ethnicity, sexual orientation, religion (or lack of) etc**
+
+**Including personally identifiable information in your submission may result in disqualification if the Speakers Team is unable to anonymize is sufficiently**
 
 #### Abstract
 
@@ -145,7 +149,7 @@ Unfortunately, we will not be able to offer this. We simply don’t have the res
 
 **I have other questions! Who do I talk to?**
 
-Plese send any and all CFP-related questions to our Speakers Team at [starcon-speakers@googlegroups.com](mailto:starcon-speakers@@googlegroups.com).
+Plese send any and all CFP-related questions to our Speakers Team at [starcon-speakers@googlegroups.com](mailto:starcon-speakers@googlegroups.com).
 
 
 
