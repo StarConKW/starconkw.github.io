@@ -29,6 +29,9 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
+  - title: CFP
+    url: /cfp/
+    desc: CFP
   - title: Sponsor us!
     url: /sponsors/
     desc: Sponsor us!
