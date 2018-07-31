@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CFP
-subtitle: StarCon 2018 Call for Proposals
+subtitle: StarCon 2019 Call for Proposals
 permalink: /cfp/
 ---
 
