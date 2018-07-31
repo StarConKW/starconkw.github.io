@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CFP
-subtitle: StarCon 2018 Call for Proposals
+subtitle: StarCon 2019 Call for Proposals
 permalink: /cfp/
 ---
 
@@ -29,7 +29,7 @@ We **really** want to hear from you if:
 
 ## Important Dates
 
-CFP Opens: August 1 2018, 10:00AM EST
+CFP Opens: August 1 201, 10:00AM EST
 
 CFP Closes: September 1 2018, 11:59PM EST
 
