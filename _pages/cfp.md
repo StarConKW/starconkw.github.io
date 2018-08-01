@@ -19,7 +19,7 @@ We **really** want to hear from you if:
 
 **Before submitting your talk, make sure you've read the guidelines below.**
 
-**[Submit Your Talk Here](https://easychair.org/conferences/?conf=starcon2019)** (The form will open on August 1st)
+**[Submit Your Talk Here](https://easychair.org/conferences/?conf=starcon2019)**
 
 ## Basic Information
 
@@ -33,7 +33,7 @@ CFP Opens: August 1 2018, 10:00AM EST
 
 CFP Closes: September 1 2018, 11:59PM EST
 
-Acceptances/Rejections Sent: October 1 2018 
+Acceptances/Rejections Sent: October 1 2018
 
 ## How To Submit Your Talk
 
