@@ -9,9 +9,23 @@ StarCon is a two-day software engineering conference held in Waterloo, Ontario w
 
 StarCon will be returning to Waterloo on January 19-20, 2019!
 
-**Our Call for Proposals opens on August 1, 2018.** Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
+**Our Call for Proposals is open and closes on September 1, 2018.** Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
 
 Is your company interested in sponsoring us? Learn more [here](https://starcon.io/sponsors/#why-you-should-sponsor-us).
+
+You can read about our venue (including parking and accessibility) [here](/venue).
+
+## Speakers
+
+We're excited to announce that Vaidehi Joshi will be one of our 2019 keynote speakers! The rest of our 2019 speakers will be announced [here](speakers) after our [CFP](/cfp) closes. If you'd like to join this list, [apply to speak at StarCon](/cfp)!
+
+## Who Can Attend
+
+This conference is open to everyone!
+
+## Policies
+
+Learn about our photography, alcohol, and other policies [here](/policies)!
 
 ## StarCon 2018
 
@@ -32,23 +46,6 @@ StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Pi
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {:/}
-
-
-## Speakers
-
-Check out our [2018 invited keynotes and speakers](speakers/#keynotes)! Our call for proposals to speak at StarCon has closed but you can learn more about it [here](/cfp/).
-
-## Who Can Attend
-
-This conference is open to everyone!
-
-## The Venue
-
-StarCon was held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo. You can read about our venue (including parking and accessibility) [here](/venue).
-
-## Policies
-
-Learn about our photography, alcohol, and other policies [here](/policies)!
 
 ## Where can I get updates?
 
