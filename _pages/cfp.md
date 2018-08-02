@@ -64,7 +64,7 @@ Your abstract should:
 - Include:
 	- The title of your talk.
 	- What the audience can expect to learn from your talk.
- 	- Why you think the topic of the talk is interesting, important, cool etc.
+	- Why you think the topic of the talk is interesting, important, cool etc.
 
 Example:
 
