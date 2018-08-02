@@ -53,7 +53,7 @@ We ask for three things other than your basic information: An abstract, a timeli
 - **Any relation to the StarCon organizers or members of the StarCon Program Committee**
 - **Your gender, ethnicity, sexual orientation, religion (or lack of) etc**
 
-**Including personally identifiable information in your submission may result in disqualification if the Speakers Team is unable to anonymize is sufficiently**
+**Including personally identifiable information in your submission may result in disqualification if the Speakers Team is unable to anonymize it sufficiently**
 
 #### Abstract
 
