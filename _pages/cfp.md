@@ -5,6 +5,7 @@ subtitle: StarCon 2019 Call for Proposals
 permalink: /cfp/
 ---
 
+**Note: the deadline to submit your talk has been extended to Sept 4 11:55pm EST!**
 
 We’re excited to announce that StarCon is having its second Call for Proposals (CFP)! We’re looking for folks who have a passion for technology, learning and sharing to submit talks about their favourite piece(s) of technology.
 
@@ -31,7 +32,7 @@ We **really** want to hear from you if:
 
 CFP Opens: August 1 2018, 10:00AM EST
 
-CFP Closes: September 1 2018, 11:59PM EST
+CFP Closes: September **4** 2018, 11:55PM EST (we have extended the deadline!)
 
 Acceptances/Rejections Sent: October 1 2018
 
