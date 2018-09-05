@@ -29,6 +29,14 @@ Vaidehi is an engineer at Tilde, in Portland, Oregon, where she works on Skyligh
 Melissa Tedesco is a fourth year Electrical Engineering student at the University of Waterloo. She loves tinkering with electronics, and has an interest in systems integration and RF communications. When she needs a break from engineering, you can usually find her baking; she’s also doing an English minor so she can pretend to be an English student sometimes.
 </p>
 
+### Aashni Shah
+
+![](/assets/img/speakers/aashni.PNG)
+
+<p class="bio">
+Aashni Shah is a Software Engineer at Square by day and a CEO of Elixir Labs by night. At Square, Aashni works on delivering an innovative experience for Cash at Square. She has also found a way to mix her two largest passions, technology and philanthropy with her work at Elixir Labs, a non profit startup that empowers other non profits by building products for social good.
+</p>
+
 ---
 
 More speakers will be announced soon!
