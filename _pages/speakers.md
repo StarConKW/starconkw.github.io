@@ -31,7 +31,7 @@ Melissa Tedesco is a fourth year Electrical Engineering student at the Universit
 
 ### Aashni Shah
 
-![](/assets/img/speakers/aashni.PNG)
+![](/assets/img/speakers/aashni.png)
 
 <p class="bio">
 Aashni Shah is a Software Engineer at Square by day and a CEO of Elixir Labs by night. At Square, Aashni works on delivering an innovative experience for Cash at Square. She has also found a way to mix her two largest passions, technology and philanthropy with her work at Elixir Labs, a non profit startup that empowers other non profits by building products for social good.
