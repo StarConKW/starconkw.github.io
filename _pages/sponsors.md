@@ -7,18 +7,19 @@ permalink: /sponsors/
 
 # 2019 Sponsors
 
-<br/>
+![](/assets/img/sponsors/scs.png)
 
-We'll start announcing our 2019 sponsors soon.
+The David R. Cheriton School of Computer Science brings together over 80 faculty, 40 staff and 2000 students at the undergraduate and graduate levels. The School has its origin in the Department of Applied Analysis and Computer Science, founded in 1967, and has grown to become the largest academic computer science research centre in Canada, ranking 10th in North America and 24th in the world.
 
-Want to join the list? Read more below!
+![](/assets/img/sponsors/MEF.png)
 
-Learn more about our 2018 sponsors [here](/2018/sponsors).
+The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about) (MEF) is an income-generating fund that finances projects for the academic betterment of mathematics undergraduate students at the University of Waterloo. Members of the StarCon organizing committee have used MEF funding for previous projects on the Women in CS committee and for attending conferences. We're very grateful for their support. If you are a Waterloo math student and not in town for StarCon, we recommend reaching out to them for travel funding!
+
+![](/assets/img/sponsors/wics.png)
+
+[Women in Computer Science](https://cs.uwaterloo.ca/wics) (WICS) is dedicated to promoting women who are interested in studying computer science and who seek to pursue careers in computing.
 
 <hr>
-
-<hr>
-
 
 ## Why You Should Sponsor Us
 
