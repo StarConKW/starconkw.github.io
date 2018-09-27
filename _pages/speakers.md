@@ -19,6 +19,17 @@ Our 2018 speakers can be found [here](/2018/speakers)!
 Vaidehi is an engineer at Tilde, in Portland, Oregon, where she works on Skylight. She enjoys building and breaking code, but loves creating empathetic engineering teams a whole lot more. In her spare time, she runs basecs, a weekly writing series that explores the fundamentals of computer science, and is co-host of the Base.cs Podcast, as well as a producer of the BaseCS video series.
 </p>
 
+### Nasma Ahmed
+
+<p class="bio">
+Nasma Ahmed is a technologist and community organizer that works  within the
+intersections of social justice, technology and policy. She is currently
+Director of the Digital Justice Lab, an organization that focuses on building a
+more just and equitable digital future. Nasma was the Ford-Mozilla Open Web
+Fellow in 2017-2018 focusing on organizational digital security and building
+better literacy around privacy with youth.
+</p>
+
 ## Invited Speakers
 
 ### Melissa Tedesco
