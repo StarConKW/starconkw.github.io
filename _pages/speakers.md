@@ -21,6 +21,8 @@ Vaidehi is an engineer at Tilde, in Portland, Oregon, where she works on Skyligh
 
 ### Nasma Ahmed
 
+![](/assets/img/speakers/nasma.png)
+
 <p class="bio">
 Nasma Ahmed is a technologist and community organizer that works  within the
 intersections of social justice, technology and policy. She is currently
