@@ -1,9 +1,14 @@
 ---
 layout: page
 title: CFP
-subtitle: StarCon 2019 Call for Proposals
+subtitle: StarCon Call for Proposals
 permalink: /cfp/
 ---
+**The call for proposals for StarCon 2019 is now closed.**
+
+---
+
+## Original Call for Proposals (for posterity)
 
 **Note: the deadline to submit your talk has been extended to Sept 4 11:55pm EST!**
 
