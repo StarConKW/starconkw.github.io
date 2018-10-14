@@ -5,15 +5,11 @@ layout: default
 <div class="lead pretty-links">
 StarCon is a two-day software engineering conference held in Waterloo, Ontario with two days of lightning talks about technology, computer science, programming, and the joy of learning about them!
 
+**Is your company interested in sponsoring us? Learn more [here](https://starcon.io/sponsors/#why-you-should-sponsor-us).**
+
 ## Where and When
 
-StarCon will be returning to Waterloo on January 19-20, 2019!
-
-**Our Call for Proposals is open and closes on September 1, 2018.** Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
-
-Is your company interested in sponsoring us? Learn more [here](https://starcon.io/sponsors/#why-you-should-sponsor-us).
-
-You can read about our venue (including parking and accessibility) [here](/venue).
+StarCon will be returning to Waterloo on January 19-20, 2019! Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
 
 ## Speakers
 
