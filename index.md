@@ -11,9 +11,11 @@ StarCon is a two-day software engineering conference held in Waterloo, Ontario w
 
 StarCon will be returning to Waterloo on January 19-20, 2019! Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
 
+You can read about our venue (including parking and accessibility) [here](/venue).
+
 ## Speakers
 
-We're excited to announce that Vaidehi Joshi will be one of our 2019 keynote speakers! The rest of our 2019 speakers will be announced [here](speakers) after our [CFP](/cfp) closes. If you'd like to join this list, [apply to speak at StarCon](/cfp)!
+Our 2019 speakers can be found [here](speakers).
 
 ## Who Can Attend
 
