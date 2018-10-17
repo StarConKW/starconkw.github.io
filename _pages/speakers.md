@@ -70,7 +70,7 @@ Falah Shazib is a third year Computer Science student at the University of Water
 
 [Creative Coding: Making Art on a 3D Printer](/talks#creative-coding-making-art-on-a-3d-printer)
 
-![](/assets/img/speakers/Doug2018.jpeg)
+![](/assets/img/speakers/Doug.jpeg)
 
 <p class="bio">
 Doug Moen is a computer programmer, maker, and aspiring digital artist
@@ -137,7 +137,7 @@ Wesley likes asking surprising questions, ranting about computers, and attemptin
 
 [Conjure ye File System, transmorgifier!](/talks#conjure-ye-file-system-transmorgifier)
 
-![](/assets/img/speakers/aaronlevin.jpg)
+![](/assets/img/speakers/aaron.jpg)
 
 <p class="bio">
 Aaron Levin is a mathematician excited about programming and using it to empower creative expression.

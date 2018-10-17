@@ -10,10 +10,6 @@ permalink: /talks/
 
 <br/>
 
-## Keynotes
-
-### Keynote abstracts TBA
-
 ## Lightning talks
 
 ### How Not To Build A Virtual Escape Room
