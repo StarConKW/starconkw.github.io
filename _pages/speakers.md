@@ -7,7 +7,7 @@ permalink: /speakers/
 
 <div class="pretty-links">
 
-Our 2018 speakers can be found [here](/2018/speakers)!
+Check our our awesome 2019 talk abstracts [here](/talks)!
 
 ## Keynotes
 
@@ -211,3 +211,9 @@ Mixologist, shiba onwer, and player of video games, Vincent works as a professio
 <p class="bio">
 I am a Computer Science student at University of Waterloo. I write software to pay my bills and for fun. I have too many interests to list them all, but I like reading, running, martial arts, philosophy, science et al. I like learning about things, and I strive for polymathy.
 </p>
+
+<br/>
+
+---
+
+Last year's speakers can be found [here](/2018/speakers).

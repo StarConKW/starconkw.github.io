@@ -10,7 +10,7 @@ permalink: /2018/talks/
 
 <br/>
 
-StarCon 2019 talks will be announced in the fall.
+StarCon 2019 talks can be found [here](/talks).
 
 Check out the full 2018 schedule [here](/schedule) and learn more about our amazing 2018 speakers [here!](/2018/speakers)
 

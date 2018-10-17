@@ -286,6 +286,10 @@ html, body, .site-header, .site-footer {
 
   ~ p {
     margin-bottom: 0.5rem;
+
+    @media (min-width: 768px) {
+      font-size: 17px;
+    }
   }
 
   ~ p img {
@@ -295,6 +299,24 @@ html, body, .site-header, .site-footer {
       margin-left: 10px;
       float: right;
     }
+  }
+}
+
+@media (min-width: 768px) {
+  #starcon-2019-talk-lineup {
+    ~ .abstract {
+      font-size: 17px;
+    }
+    ~ ul {
+      font-size: 17px;
+    }
+  }
+  ~ h3 {
+    margin-bottom: 0.3rem;
+  }
+
+  ~ p {
+    margin-bottom: 0.5rem;
   }
 }
 
