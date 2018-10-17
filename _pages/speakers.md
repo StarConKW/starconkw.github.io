@@ -44,6 +44,7 @@ Melissa Tedesco is a fourth year Electrical Engineering student at the Universit
 
 ### Aashni Shah
 
+
 ![](/assets/img/speakers/aashni.png)
 
 <p class="bio">
@@ -56,6 +57,8 @@ There will be 20 total lightning talk speakers - the full list will be available
 
 ### Falah Shazib
 
+[How Not To Build A Virtual Escape Room](/talks#how-not-to-build-a-virtual-escape-room)
+
 ![](/assets/img/speakers/falah.jpg)
 
 <p class="bio">
@@ -64,6 +67,8 @@ Falah Shazib is a third year Computer Science student at the University of Water
 
 
 ### Doug Moen
+
+[Creative Coding: Making Art on a 3D Printer](/talks#creative-coding-making-art-on-a-3d-printer)
 
 ![](/assets/img/speakers/Doug2018.jpeg)
 
@@ -77,6 +82,8 @@ Awesome Foundation, which funds awesome community projects.
 
 ### Vaibhav Sagar
 
+[Tarjan's Algorithm: Now You're Cooking with DAGs!](/talks#tarjans-algorithm-now-youre-cooking-with-dags)
+
 ![](/assets/img/speakers/vaibhav.jpeg)
 
 <p class="bio">
@@ -84,6 +91,8 @@ Vaibhav likes writing software without bugs. He also likes barbells, disco, hugs
 </p>
 
 ### Kayleen Hamelin
+
+[Web Accessibility is More then Colour Contrast](/talks#web-accessibility-is-more-then-colour-contrast)
 
 ![](/assets/img/speakers/kayleen.jpg)
 
@@ -94,6 +103,8 @@ When not working Kayleen is reading, working on jigsaw puzzles, and collecting r
 </p>
 
 ### Manish Goregaokar
+
+[Ghost in the Compiler: Backdooring Rust](/talks#ghost-in-the-compiler-backdooring-rust)
 
 ![](/assets/img/speakers/manish.png)
 
@@ -106,6 +117,8 @@ In his spare time he likes learning about languages and walking up hills.
 
 ### Toria Gibbs
 
+[Search Engines: How They Work and Why You Need Them](/talks#search-engines-how-they-work-and-why-you-need-them)
+
 ![](/assets/img/speakers/toria.jpg)
 
 <p class="bio">
@@ -114,11 +127,15 @@ Toria Gibbs is a Senior Software Engineer on the Search Platform team at Shopify
 
 ### Wesley Aptekar-Cassels
 
+[Ping at the speed of light](/talks#ping-at-the-speed-of-light)
+
 <p class="bio">
 Wesley likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
 </p>
 
 ### Aaron Levin
+
+[Conjure ye File System, transmorgifier!](/talks#conjure-ye-file-system-transmorgifier)
 
 ![](/assets/img/speakers/aaronlevin.jpg)
 
@@ -128,6 +145,8 @@ Aaron Levin is a mathematician excited about programming and using it to empower
 
 ### Holly Oegama
 
+[WTF is Big Data?](/talks#wtf-is-big-data)
+
 ![](/assets/img/speakers/holly.jpg)
 
 <p class="bio">
@@ -135,6 +154,8 @@ Holly Oegema is a Software Engineering Student at the University of Waterloo. He
 </p>
 
 ### Bradley Dettmer
+
+[Unlock your ROM Sniffing Superpower](/talks#unlock-your-rom-sniffing-superpower)
 
 ![](/assets/img/speakers/brad.jpg)
 
@@ -144,6 +165,8 @@ Brad is a creative, collaborative and outspoken hacker and Software Engineer at 
 
 ### Cory Dominguez
 
+[or, the whale](/talks#or-the-whale)
+
 ![](/assets/img/speakers/cory.jpg)
 
 <p class="bio">
@@ -152,11 +175,15 @@ software, sailboats, sandwiches
 
 ### Nadine Lessio
 
+[Building Fortune Tasker](/talks#building-fortune-tasker)
+
 <p class="bio">
 Nadine Lessio is a designer and technologist based out of Toronto, Canada. She has a background making standalone and networked alt-controllers, alternative games, and physical installations. Her work has been shown at Indicade, GDC, and The Art Gallery of Ontario. She also helps organize the Stupid Shit Nobody Needs and Bad Ideas Hackathon. Currently she spends her time exploring the internet of things through personal assistants, and working as a research assistant at OCADU where she works with different kinds of networked devices. By mixing development, humour, and criticism, Nadine’s practice considers the sometimes bizarre and unexpected intersections between technology and life. She’s very into bots, memes, and bikes, but not necessarily in that order.
 </p>
 
 ### Chris H-C
+
+[Collecting User Data Responsibly and at Scale](/talks#collecting-user-data-responsibly-and-at-scale)
 
 ![](/assets/img/speakers/chris.jpg)
 
@@ -167,13 +194,17 @@ Hi, I'm :chutten. I work at Mozilla as a Firefox Telemetry Engineer and Data Ste
 
 ### Vincent Castaneda
 
-![](/assets/img/speakers/vicent.jpg)
+[AWK-nowledge the power! Conquering text in a single line of code](/talks#awk-nowledge-the-power-conquering-text-in-a-single-line-of-code)
+
+![](/assets/img/speakers/vincent.jpg)
 
 <p class="bio">
 Mixologist, shiba onwer, and player of video games, Vincent works as a professional programmer at FLYR in San Francisco.
 </p>
 
 ### Vibhanshu Bhardwaj
+
+[Functional Programming on the Web](/talks#functional-programming-on-the-web)
 
 ![](/assets/img/speakers/vibhanshu.jpg)
 

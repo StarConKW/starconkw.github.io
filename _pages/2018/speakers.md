@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speakers
+title: 2018 Speakers
 subtitle: 2018 Speakers
 permalink: /2018/speakers/
 ---
