@@ -126,11 +126,57 @@ Wesley likes asking surprising questions, ranting about computers, and attemptin
 Aaron Levin is a mathematician excited about programming and using it to empower creative expression.
 </p>
 
+### Holly Oegama
 
-
-### Name
-
-![](/assets/img/speakers/)
+![](/assets/img/speakers/holly.jpg)
 
 <p class="bio">
+Holly Oegema is a Software Engineering Student at the University of Waterloo. Her current passions lie in everything data related, with a soft spot for Big Data. In the past, she has worked as a Data Engineer at 360insights and Braintree. When she is not obsessing over data, she enjoys visual novels, bullet journaling, pettings dogs and laughing at bad jokes.
+</p>
+
+### Bradley Dettmer
+
+![](/assets/img/speakers/brad.jpg)
+
+<p class="bio">
+Brad is a creative, collaborative and outspoken hacker and Software Engineer at Peloton with experience working at Google, Apple, NASA and Fairchild (now OnSemi). He recently completed three months at the Recurse Center where he paired with dozens of amazing engineers, co-led study groups and a coding bee, built a weather reporter using LEDs, hacked a SNES game cartridge, and built an ASL translator app to help him learn his favorite language. Brad likes hiking, yoga, and spending time with his friends in Brooklyn. Brad likes it when folks speak up if someone gets his pronouns wrong. He also appreciates technical feedback that is both actionable and kind.
+</p>
+
+### Cory Dominguez
+
+![](/assets/img/speakers/cory.jpg)
+
+<p class="bio">
+software, sailboats, sandwiches
+</p>
+
+### Nadine Lessio
+
+<p class="bio">
+Nadine Lessio is a designer and technologist based out of Toronto, Canada. She has a background making standalone and networked alt-controllers, alternative games, and physical installations. Her work has been shown at Indicade, GDC, and The Art Gallery of Ontario. She also helps organize the Stupid Shit Nobody Needs and Bad Ideas Hackathon. Currently she spends her time exploring the internet of things through personal assistants, and working as a research assistant at OCADU where she works with different kinds of networked devices. By mixing development, humour, and criticism, Nadine’s practice considers the sometimes bizarre and unexpected intersections between technology and life. She’s very into bots, memes, and bikes, but not necessarily in that order.
+</p>
+
+### Chris H-C
+
+![](/assets/img/speakers/chris.jpg)
+
+<p class="bio">
+Hi, I'm :chutten. I work at Mozilla as a Firefox Telemetry Engineer and Data Steward ensuring we collect anonymous user statistics responsibly and efficiently. I know things about data collection, data analysis, consumer application development, web development, data visualization, working on a distributed team, and making waffles. I have opinions about responsible data practices, public transit, active transit, public education, and squirrels who eat my tomatoes.
+</p>
+
+
+### Vincent Castaneda
+
+![](/assets/img/speakers/vicent.jpg)
+
+<p class="bio">
+Mixologist, shiba onwer, and player of video games, Vincent works as a professional programmer at FLYR in San Francisco.
+</p>
+
+### Vibhanshu Bhardwaj
+
+![](/assets/img/speakers/vibhanshu.jpg)
+
+<p class="bio">
+I am a Computer Science student at University of Waterloo. I write software to pay my bills and for fun. I have too many interests to list them all, but I like reading, running, martial arts, philosophy, science et al. I like learning about things, and I strive for polymathy.
 </p>
