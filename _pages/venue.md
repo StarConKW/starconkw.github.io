@@ -19,7 +19,7 @@ There are unfortunately no gender neutral restrooms in OPT but there are [some n
 
 ## Accessibility
 
-OPT and the conference rooms are accessible by wheelchair. For more information about campus accessibility check out the "Finding Your Way" section of [Waterloo's "Campus Accessibility" page](https://uwaterloo.ca/human-resources/accessibility/campus-accessibility).
+The building and the conference rooms are accessible by wheelchair. For more information about campus accessibility check out the "Finding Your Way" section of [Waterloo's "Campus Accessibility" page](https://uwaterloo.ca/human-resources/accessibility/campus-accessibility).
 
 ## Parking
 
