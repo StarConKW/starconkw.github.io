@@ -70,7 +70,7 @@ Falah Shazib is a third year Computer Science student at the University of Water
 
 [Creative Coding: Making Art on a 3D Printer](/talks#creative-coding-making-art-on-a-3d-printer)
 
-![](/assets/img/speakers/Doug.jpeg)
+![](/assets/img/speakers/doug.jpeg)
 
 <p class="bio">
 Doug Moen is a computer programmer, maker, and aspiring digital artist
