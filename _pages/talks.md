@@ -143,7 +143,7 @@ People will hopefully leave this talk being super inspired to create their own f
 
 ### WTF is Big Data?
 
-[Holly Oegama](/speakers#holly-oegama)
+[Holly Oegema](/speakers#holly-oegema)
 
 <p class="abstract">
 Hadoop what? MapReduce who? It’s very easy to get intimidated by Big Data, especially when Hadoop and its friends seem less than welcoming.
