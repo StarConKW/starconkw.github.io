@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Speakers
+title: 2018 Speakers
 subtitle: 2018 Speakers
 permalink: /2018/speakers/
 ---
 
 <div class="pretty-links">
 
-Learn more about our 2018 talks [here!](/talks)
+Learn more about our 2018 talks [here!](/2018/talks)
 
 ## Keynotes
 
 ### Julia Evans
 
-[So you want to be a wizard?](/talks#so-you-want-to-be-a-wizard)
+[So you want to be a wizard?](/2018/talks#so-you-want-to-be-a-wizard)
 
 ![](/assets/img/speakers/julia.jpg)
 
@@ -23,7 +23,7 @@ Julia Evans is a software engineer at Stripe. In her spare time, she runs a prog
 
 ### Safia Abdalla
 
-[Open Lessons from Open Source](/talks#open-lessons-from-open-source)
+[Open Lessons from Open Source](/2018/talks#open-lessons-from-open-source)
 
 ![](/assets/img/speakers/safia.jpg)
 
@@ -35,7 +35,7 @@ Safia is the founder of [Zarf](https://zarf.co/), a platform for independent wri
 
 ### Dinah Davis
 
-[The Innerworkings of Ransomware](/talks#the-innerworkings-of-ransomware)
+[The Innerworkings of Ransomware](/2018/talks#the-innerworkings-of-ransomware)
 
 ![](/assets/img/speakers/dinah.jpg)
 
@@ -45,7 +45,7 @@ Dinah Davis is the Director of R&D at Arctic Wolf Networks, responsible for the 
 
 ### Josh Bowman-Matthews
 
-[Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens](/talks#remembering-megazeux-concurrent-assembly-ish-actor-based-programming-for-teens)
+[Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens](/2018/talks#remembering-megazeux-concurrent-assembly-ish-actor-based-programming-for-teens)
 
 ![](/assets/img/speakers/josh.jpg)
 
@@ -56,7 +56,7 @@ Josh Bowman-Matthews builds web browsers and sustainable communities for a livin
 
 ### Christina Truong
 
-[Why You Should be Building Design Systems and CSS Architectures](/talks#why-you-should-be-building-design-systems-and-css-architectures)
+[Why You Should be Building Design Systems and CSS Architectures](/2018/talks#why-you-should-be-building-design-systems-and-css-architectures)
 
 ![](/assets/img/speakers/christina.jpg)
 
@@ -71,7 +71,7 @@ There will be 20 total lightning talk speakers - the full list will be available
 
 ### Murphy Berzish
 
-[Formal Methods for Everyone: Practical Tools for Computer-Aided Reasoning](/talks#formal-methods-for-everyone-practical-tools-for-computer-aided-reasoning)
+[Formal Methods for Everyone: Practical Tools for Computer-Aided Reasoning](/2018/talks#formal-methods-for-everyone-practical-tools-for-computer-aided-reasoning)
 
 ![](/assets/img/speakers/murphy.jpg)
 
@@ -82,7 +82,7 @@ There will be 20 total lightning talk speakers - the full list will be available
 
 ### Breanne Boland
 
-[Of Tracked Changes and Diffs: Moving from Editorial to Engineering](/talks#of-tracked-changes-and-diffs-moving-from-editorial-to-engineering)
+[Of Tracked Changes and Diffs: Moving from Editorial to Engineering](/2018/talks#of-tracked-changes-and-diffs-moving-from-editorial-to-engineering)
 
 ![](/assets/img/speakers/breanneboland.jpg)
 
@@ -93,7 +93,7 @@ Breanne Boland is a software engineer with Truss, a San Francisco-based infrastr
 
 ### Fatema Boxwala
 
-[Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving](/talks#notworking-with-a-whale-a-tale-of-dockers-networks-and-problem-solving)
+[Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving](/2018/talks#notworking-with-a-whale-a-tale-of-dockers-networks-and-problem-solving)
 
 ![](/assets/img/speakers/fatema.jpg)
 
@@ -104,7 +104,7 @@ Fatema Boxwala is a CS student at the University of Waterloo. At school she's in
 
 ### Rudi Chen
 
-[How to make a real-time collaborative text editor in 5 easy steps!](/talks#how-to-make-a-real-time-collaborative-text-editor-in-5-easy-steps)
+[How to make a real-time collaborative text editor in 5 easy steps!](/2018/talks#how-to-make-a-real-time-collaborative-text-editor-in-5-easy-steps)
 
 ![](/assets/img/speakers/rudi.jpg)
 
@@ -114,7 +114,7 @@ Rudi is a big fan of rock climbing, and pen spinning when he's not on a wall. He
 
 ### Tina Fletcher
 
-[Why I Prefer Good Testing Over Excellent Testing](/talks#why-i-prefer-good-testing-over-excellent-testing)
+[Why I Prefer Good Testing Over Excellent Testing](/2018/talks#why-i-prefer-good-testing-over-excellent-testing)
 
 ![](/assets/img/speakers/tina.jpeg)
 
@@ -124,7 +124,7 @@ Tina loves being challenged every day to solve new testing, communication, and l
 
 ### Claire Janke
 
-[Dealing with Bad Architecture Decisions: A Case Study](/talks#dealing-with-bad-architecture-decisions-a-case-study)
+[Dealing with Bad Architecture Decisions: A Case Study](/2018/talks#dealing-with-bad-architecture-decisions-a-case-study)
 
 ![](/assets/img/speakers/claire.jpg)
 
@@ -134,7 +134,7 @@ Claire Janke has been a software engineer at Etsy since 2013. She enjoys overana
 
 ### Andrew Louis
 
-[How giant human-powered calculators became the internet](/talks#how-giant-human-powered-calculators-became-the-internet)
+[How giant human-powered calculators became the internet](/2018/talks#how-giant-human-powered-calculators-became-the-internet)
 
 ![](/assets/img/speakers/andrew.jpeg)
 
@@ -144,7 +144,7 @@ Andrew is a software developer from Toronto. After learning about the Memex and 
 
 ### Kelly McBride
 
-[Taking the Fun Out of Everything: Automating Neopets](/talks#taking-the-fun-out-of-everything-automating-neopets)
+[Taking the Fun Out of Everything: Automating Neopets](/2018/talks#taking-the-fun-out-of-everything-automating-neopets)
 
 ![](/assets/img/speakers/kellymcbride.jpg)
 
@@ -154,7 +154,7 @@ Kelly McBride is a Software Engineering student at the University of Waterloo. S
 
 ### Tim McLean
 
-[Protecting cryptography code from timing vulnerabilities](/talks#protecting-cryptography-code-from-timing-vulnerabilities)
+[Protecting cryptography code from timing vulnerabilities](/2018/talks#protecting-cryptography-code-from-timing-vulnerabilities)
 
 ![](/assets/img/speakers/tim.jpg)
 
@@ -164,7 +164,7 @@ Tim is a software developer and independent cryptography consultant based in Wat
 
 ### Erika Pierre
 
-[Undoing the Chatbot](/talks#undoing-the-chatbot)
+[Undoing the Chatbot](/2018/talks#undoing-the-chatbot)
 
 ![](/assets/img/speakers/erika.jpg)
 
@@ -174,7 +174,7 @@ Erika Pierre is a front-end web developer working with vanilla JavaScript/ES6, A
 
 ### Jordan Pryde
 
-[Introduction to Software Defined Radios](/talks#introduction-to-software-defined-radios)
+[Introduction to Software Defined Radios](/2018/talks#introduction-to-software-defined-radios)
 
 <p class="bio">
 Jordan Pryde is a fourth year University of Waterloo CS student and a Product Security Analyst at BlackBerry.
@@ -185,7 +185,7 @@ He can be found on the #csc IRC channel on https://freenode.net/.
 
 ### Alex Rhatushnyak
 
-[Why Lossless Data Compression Is Important and Fun](/talks#why-lossless-data-compression-is-both-important-and-fun)
+[Why Lossless Data Compression Is Important and Fun](/2018/talks#why-lossless-data-compression-is-both-important-and-fun)
 
 ![](/assets/img/speakers/alex.png)
 
@@ -195,7 +195,7 @@ Alexander Rhatushnyak is a native of Siberia. He is studying data compression an
 
 ### Keefer Rourke
 
-[Gloom, Doom, and the Internet](/talks#gloom-doom-and-the-internet)
+[Gloom, Doom, and the Internet](/2018/talks#gloom-doom-and-the-internet)
 
 ![](/assets/img/speakers/keeferrourke.svg)
 
@@ -205,7 +205,7 @@ Keefer is a second year computer science student at the University of Guelph. As
 
 ### Siddhartha Sahu
 
-[Managing Connections with Graphs: Uses and Challenges](/talks#managing-connections-with-graphs-uses-and-challenges)
+[Managing Connections with Graphs: Uses and Challenges](/2018/talks#managing-connections-with-graphs-uses-and-challenges)
 
 ![](/assets/img/speakers/siddharthasahu.jpg)
 
@@ -215,7 +215,7 @@ Siddhartha is a Computer Science PhD student at the University of Waterloo, wher
 
 ### Anastasia Santasheva
 
-[Imagining a world with Ethereum](/talks#imagining-a-world-with-ethereum)
+[Imagining a world with Ethereum](/2018/talks#imagining-a-world-with-ethereum)
 
 ![](/assets/img/speakers/anastasiasantasheva.JPG)
 
@@ -225,7 +225,7 @@ Anastasia is a Systems Design Engineering student at University of Waterloo. She
 
 ### Sunjay Varma
 
-[How Rust Makes Advanced Type Systems Accessible to the Masses](/talks#how-rust-makes-advanced-type-systems-accessible-to-the-masses)
+[How Rust Makes Advanced Type Systems Accessible to the Masses](/2018/talks#how-rust-makes-advanced-type-systems-accessible-to-the-masses)
 
 ![](/assets/img/speakers/sunjayvarma.png)
 
@@ -235,7 +235,7 @@ Sunjay Varma has been learning and teaching programming ever since he started to
 
 ### Max Veystman
 
-[Remote code execution in your text editor!](/talks#remote-code-execution-in-your-text-editor)
+[Remote code execution in your text editor!](/2018/talks#remote-code-execution-in-your-text-editor)
 
 ![](/assets/img/speakers/maxveystman.jpg)
 

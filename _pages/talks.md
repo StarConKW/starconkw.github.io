@@ -6,249 +6,218 @@ permalink: /talks/
 
 <div class="pretty-links">
 
-# StarCon 2018 Talk Lineup
+# StarCon 2019 Talk Lineup
 
 <br/>
 
-StarCon 2019 talks will be announced in the fall.
-
-Check out the full 2018 schedule [here](/schedule) and learn more about our amazing 2018 speakers [here!](/2018/speakers)
-
-## Keynotes
-
-### So you want to be a wizard?
-
-[Julia Evans](/2018/speakers#julia-evans)
-
-<p class="abstract">
-I don't always feel like a wizard. I'm not the most experienced member on my team, like most people I sometimes find my work difficult, and I still have a TON TO LEARN.
-</p>
-
-<p class="abstract">
-But along the way, I have learned a few ways to debug tricky problems, get the information I need from my colleagues, and get my job done. We're going to talk about
-</p>
-
-- how asking dumb questions is actually a superpower
-- how you can read the source code to programs when all other avenues fail
-- debugging tools that make you FEEL like a wizard
-- and how understanding what your _organization_ needs can make you amazing
-
-<p class="abstract">
-At the end, we'll have a better understanding of how you can get a lot of awesome stuff done even when you're not the highest level wizard on your team.
-</p>
-
-### Open Lessons from Open Source
-
-[Safia Abdalla](/2018/speakers#safia-abdalla)
-
-<p class="abstract">
-Working in open source provides interesting insights on technology and people culture. In this keynote, Safia shares the lessons learned and ideas gather from her experience as an open source contributor and maintainer.
-</p>
-
 ## Lightning talks
 
-### Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens
+### How Not To Build A Virtual Escape Room
 
-[Josh Bowman-Matthews](/2018/speakers#josh-bowman-matthews)
+[Falah Shazib](/speakers#falah-shazib)
 
 <p class="abstract">
-Investigating programming languages that never went mainstream can help us better appreciate the subtle trade-offs that are required when designing a programming language. In "Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens", we will focus on one such language in particular. In 1994, a small community of teenagers started using Robotic: an unusual, forward-thinking programming language intended for creating computer games inside the game creation system MegaZeux. We’ll examine the design of Robotic and how it compared to academic research and industrial practice at the time, as well as how it reflects current trends and practices. We’ll contemplate the unorthodox choices that Robotic made and how these helped position it as a viable introduction to programming for so many aspiring game developers. Through these examples and comparisons we will better appreciate the broad scope in programming language design that exists outside of the languages that we most commonly experience.
+Virtual Reality (VR) is on the rise and figuring out how to develop for it will be useful when we all inevitably start living in the matrix. In my talk “How Not To Build A Virtual Escape Room”, I will be talking about my disastrous attempts to build a VR escape room and how I finally got it right. Requiring no previous knowledge of VR, we will go step-by-step through building a basic escape room and the tools needed. The talk will include an introduction to the unity engine, attempts to unravel my thought process, the different obstacles I faced, and the resources and tools available. The VR industry has just found its legs and it has quite a while to go. Developing for it can be both annoying and amazing and we have a chance to really shape the industry’s future and flex our creative muscles. This talk serves to be a fun introduction to VR and the many projects that one can develop.
 </p>
 
-### The Innerworkings of Ransomware
+### Creative Coding: Making Art on a 3D Printer
 
-[Dinah Davis](/2018/speakers#dinah-davis)
-
-<p class="abstract">
-This past year was all about large Ransomware hacks like WannaCry, Petya/NotPetya, and CRYPSHED to name a few. In this talk Dinah will detail how it works, how to avoid it, and what is coming next in the world of Ransomware. She will also demonstrate what happens when ransomware is exploded on a computer from the Arctic Wolf labs.
-</p>
-
-### Why You Should be Building Design Systems and CSS Architectures
-
-[Christina Truong](/2018/speakers#christina-truong)
+[Doug Moen](/speakers#doug-moen)
 
 <p class="abstract">
-CSS is sometimes undervalued and misinterpreted as being “easy” because it is not a programming language. So planning and writing efficient, scalable and maintainable CSS sometimes falls by the wayside. But it shouldn’t! From small projects to large projects, creating and planning the CSS architecture right from the beginning will help make it easier to maintain the project and onboard new team members.
-</p>
-<p class="abstract">
-In this talk, I’ll go over the advantages of writing more thoughtful CSS and the process of creating a design system such as:
-</p>
-
-- Establishing design rules and coding standards
-- Taking inventory of the design components
-- Examples of scalable and modular CSS
-- Writing documentation
-
-
-### Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving
-
-[Fatema Boxwala](/2018/speakers#fatema-boxwala)
-
-<p class="abstract">
-Docker has become an extremely popular tool in the tech industry. Docker containers can be found playing a hugely important role in the infrastructure of companies from the tiniest startup to the giantest of the giants. Despite it's ubiquity, much of the inner-workings of Docker remain shrouded in mystery for developers, even for some people that work with the application regularly.  And a lot of the times, the only way to figure out what's going on is by experimenting and testing yourself. One particularly confusing aspect of Docker, and linux containers in general, is how exactly the networking inside the container works. In my talk: Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving, I will be giving a short but practical introduction to networking inside Docker and linux containers. The audience will first be introduced to the idea of network namespaces inside linux systems, and how these apply to containers and Docker. They will then be exposed to tools that can be used to interact with and troubleshoot networking issues inside a container. I will introduce these tools by sharing my own, very frustrating, experience with networking and Docker, in a problem-strategy-solution narrative. My talk will present information that will teach listeners information about linux containers, and offer some personal strategies and tools that have worked well for me.
-</p>
-
-
-### Gloom, Doom, and the Internet
-
-[Keefer Rourke](/2018/speakers#keefer-rourke)
-
-<p class="abstract">
-Since the advent of the internet, technology has undergone a revolution like no other. It has enabled connectivity on a scale that has never been seen before, enabling free distribution of information, ideas, and independent content. However, in recent years we've seen a turn of events. What was once primarily a mechanism for free expression has given way to multitudes of surveillance machines designed to track your every move. In my talk "Gloom, Doom, and the Internet," I will discuss some of the privacy and security issues with technology today, and explain how you can defend the users of your Next Big Thing(tm). Attendees will be encouraged to rethink how they view internet-enabled technology, with a focus on the importance of privacy, accessibility, and security oriented designs from day one, and they will be shown how new platforms can be made successful simply by respecting their users.
-</p>
-
-### Why I Prefer Good Testing Over Excellent Testing
-
-[Tina Fletcher](/2018/speakers#tina-fletcher)
-
-<p class="abstract">
-I often used to feel that if we only had more time for testing, we’d find all the bugs and everything would be awesome. But the longer I’ve been working on software projects, the more times I’ve seen that this might not be true. Most of the escaped defects in my recent memory were hiding in the areas I didn’t even know to ask about, in the small differences between our test and production environments, and in the things we depend on but don’t have full control over. So lately, while I will always value doing good testing, it doesn’t feel as useful to spend a lot of time striving for truly excellent coverage. Instead, I prefer to invest in planning for phased roll outs, and gaining confidence in our ability to quickly detect and resolve problems in production. I’d like to share a few stories about defects I missed that I wouldn’t have found with all the time in the world, and about times I have been saved by solid monitoring and roll-back strategies.
-</p>
-
-### Formal Methods for Everyone: Practical Tools for Computer-Aided Reasoning
-
-[Murphy Berzish](/2018/speakers#murphy-berzish)
-
-<p class="abstract">
-Do you want to write code you can be confident in, and test your programs thoroughly? Formal methods is a powerful discipline of software engineering that uses logic and automated reasoning to prove correctness of programs or find counterexamples to assertions.
+"Creative Coding" is the act of writing a computer program to create art.
+It can be a fun and rewarding way to engage in computer programming.
 <br/><br/>
-In this talk, I will describe two useful open source tools that you can start using to help you write better code and find more bugs in your software. I will teach you about the Z3 theorem prover, from Microsoft Research, which can assist you in reasoning about logical formulas and finding test cases to catch bugs. Then, I will talk about the KLEE symbolic execution engine, which is an automated software testing tool that uses principles from formal methods to explore the effects that different inputs have on the flow of your program.
+I use Creative Coding to generate abstract, 3D printed geometric art.
+This is called "Generative Art".
+It's also called "Parametric Design", because you define
+numeric parameters that control what gets generated. By tweaking the parameters,
+you can explore a design space and find the one that best expresses your
+artistic goals.
 <br/><br/>
-This talk will be very applied, with an emphasis on the practical rather than the theoretical. I want this talk, as well as these tools, to be accessible to anyone, even with no background in formal logic.
-</p>
-
-### How to make a real-time collaborative text editor in 5 easy steps!
-
-[Rudi Chen](/2018/speakers#rudi-chen)
-
-<p class="abstract">
-With the rise of cloud applications, more and more software is becoming collaborative. That is, multiple people can be viewing and editing the same document or information at the same time. This can lead to tricky issues figuring out what the end result should be when two users simultaneously do conflicting operations (e.g. in Google Docs, two users typing in the same place). The conflict-resolution algorithms so solve these problems are increasingly important, but selfdom mentioned in any curriculum. This talk will present a newer approach to build a collaborative text editor easier to understand than common techniques found on the Internet. The technique will be presented one small layer of complexity at the time, such that at every step, the audience can get an intuition for the nature of the solution and be easily be convinced that it works. I’ll also make sure to un-dry the technical aspects talk by using humor and analogies to kiwis and water buffalos.
-</p>
-
-
-### Dealing with Bad Architecture Decisions: A Case Study
-
-[Claire Janke](/2018/speakers#claire-janke)
-
-<p class="abstract">
-Have you ever worked on a project for several months, only to realize right before the end date that there’s a fundamental flaw in your approach? In this talk I’ll tell the story of how our team built a new data management system which started as a fairly straightforward Elasticsearch index but then at the last minute evolved into a Frankenstein-esque database + search index hybrid that is still in use today. I'll also point out where it all went wrong to hopefully help others avoid the same mistakes in the future.
-</p>
-
-
-
-### Why Lossless Data Compression Is Important and Fun
-
-[Alex Rhatushnyak](/2018/speakers#alex-rhatushnyak)
-
-<p class="abstract">
-Data compression is highly important for reducing storage costs and transmission times. More than 70% of global Internet traffic is video, and it's compressed video as a rule. Similarly, audio and images more often travel in compressed form. Lossless data compression (LDC) is an important part of a data compression system. Advanced LDC is an application of Data Science and Machine Learning, but basic LDC methods are so simple that you can implement them with zero or little knowledge of ML, DS and even Computer Science. The audience of my talk "Why Lossless Data Compression Is Both Important and Fun" will be introduced to the topic and learn several of the most vital principles. LDC competitions and benchmarks will be pictured as well, with practical advices on how to win thousands of dollars in such competitions. LDC is closely related to the notions of descriptive complexity and entropy. LDC methods can be applied for estimating descriptive complexity, for measuring similarity between files, and so on. In the second half of the talk a couple of next big things (supposedly related to descriptive complexity and LDC) will be briefly discussed.
-</p>
-
-
-### Imagining a world with Ethereum
-
-[Anastasia Santasheva](/2018/speakers#anastasia-santasheva)
-
-<p class="abstract">
-Cryptocurrencies such as Bitcoin, Ethereum, and others have recently become (in)famous in the news. In my talk, "Imagining a world with Ethereum", I will explore Ethereum's fundamentals by contrasting it with Bitcoin. Then I will show why this technology is powerful and what projects have been established in this space. I'll discuss their impact and lessons learned (especially surrounding hacks and governance), and explore what comes next. Ultimately, I will show you that we need everyone to understand and be involved in cryptocurrency to build a financial system 2.0 (or else someone else will build it for us)!
-</p>
-
-
-### Taking the Fun Out of Everything: Automating Neopets
-
-[Kelly McBride](/2018/speakers#kelly-mcbride)
-
-<p class="abstract">
-Neopets is probably one of the Web 1.0’s greatest achievements. The fact that it was created during that time means that its original features rely on older technology that’s more commonly understood now, making it a prime target for automation at the hands of junior programmers. Neopets is a browser game about taking care of virtual pets. Fortunately, it’s comprised of php activities that you interact with by making HTTP requests - something that scripts are great at doing as well as browsers. In my talk, “Taking the Fun Out of Everything: Automating Neopets,” I’ll talk about collaborating with the ghosts of people with similar ideas by forking their abandoned repos, building on frameworks with the aim of applying more technical ideas later, and banging your head against the wall when “they could have just made the game do this.” I’ll close by mentioning some similar games that the audience can take the fun out of for themselves.
-</p>
-
-
-### Of Tracked Changes and Diffs: Moving from Editorial to Engineering
-
-[Breanne Boland](/2018/speakers#breanne-boland)
-
-<p class="abstract">
-I worked in online content in varying capacities for more than a decade before I made the shift to software engineering. While my ability to communicate verbally and in writing were early helpers as I completed this transition, the lessons I learned from editorial life were also surprisingly helpful. It turned out that years of workshopping stories, trading edits, laboring over drafts, and seeking buy-in and input are directly applicable to surviving and thriving in code reviews.
+For my work, I created an open source tool and language called Curv.
+It lets me write short, beautiful programs that I share with other
+people (because the source code is part of the art work).
+And it supports a wide range of 3D modelling techniques,
+which I will demo during this talk.
 <br/><br/>
-By the time I was writing my own code, I’d long since divorced my ego from the things I wrote, and it prepared me for my first code reviews. I had learned that solo work is typically incomplete until you get input from someone else in the form of edits or feedback, and that collaboration is what usually enables people to do their best work and learning. I also knew that getting feedback at the right time can be almost as important as getting the right feedback and that processes can make or break a project, no matter how talented those involved are. I’ll conclude with ways that people without editorial backgrounds can bring these lessons into their own work life.
-</p>
-
-### Managing Connections with Graphs: Uses and Challenges
-
-[Siddhartha Sahu](/2018/speakers#siddhartha-sahu)
-
-<p class="abstract">
-Connections in social networks, financial transactions, and interactions between proteins are just a few examples of real-world data that can be intuitively represented as graphs. In my talk “Managing Connections with Graphs: Uses and Challenges”, I will examine the rising relevance of graph software in managing highly interconnected data. While graph processing is not a new technology, there has been a recent surge of interest in exploring connections in data as a graph, not only for familiar entities such as social data representing friends and what they like but also for entities that are not naturally thought of as graphs. The audience will develop an appreciation for how thinking in terms of graphs helps develop a better understanding of interconnected data. While there are a plethora of graph software in use, these software do not meet all the feature requirements arising from across a variety of domains. The audience will learn about the primary challenges in graph processing and opportunities for developing new ideas and techniques. Graph processing will become increasingly important in the coming years and it is definitely an exciting time to work on graph technology.
+I will also describe the underlying technology, "signed distance fields".
+I'll explain why it is better suited for parametric design and 3D printing
+than the conventional technology used in most 3D CAD and sculpturing programs,
+and why recent advances in GPUs have made the technology more practical.
 </p>
 
 
-### Remote code execution in your text editor!
+### Tarjan's Algorithm: Now You're Cooking with DAGs!
 
-[Max Veystman](/2018/speakers#max-veystman)
-
-<p class="abstract">
-Text editors do a lot more than just edit characters in a buffer. Whether you use vim, emacs, submile text, atom, or something else, you probably configured your editor to highlight syntax, provide auto-completions, jump to defintions, and maybe even evaluate code. These plugins often spawn processes that evaluate code alongside your editor, and sometimes they even make and receive network connections. What if you could hack them?
-<br/><br/>
-In my talk, I'll describe a vulnerability in the Vim plugin for the Elixir programming language and show an exploit I wrote that allows any website to execute code on your computer if you browse it while editing an Elixir file.
-<br/><br/>
-P.S. if you're reading this abstract and use Elixir and Vim, you should upgrade alchemist.vim as soon as possible!
-</p>
-
-### Protecting cryptography code from timing vulnerabilities
-
-[Tim McLean](/2018/speakers#tim-mclean)
+[Vaibhav Sagar](/speakers#vaibhav-sagar)
 
 <p class="abstract">
-It's well-known that cryptography code is hard to get right.  Small mistakes often have disproportionately large consequences, like handing an attacker your encryption keys.
+Tarjan's Strongly Connected Components algorithm is my favourite, and one of
+Knuth's too! In one fell swoop, it cleaves graphs into smaller parts for
+processing and puts these parts in the most convenient order. Most
+intriguingly, it manages to do all this in linear time!
 <br/><br/>
-One key category of pitfalls that cryptography engineers face are timing leaks.  When a program runs on a computer, it subtly but measurably interferes with the performance of other processes.  Cryptography code must ensure that these interference patterns do not reveal sensitive information to attackers.
+In this talk, I'll talk about how this algorithm works and when you might want
+to use it, as well as demonstrate its utility by thwacking problems with Git,
+build tools, and boolean satisfiability into submission.
 <br/><br/>
-This talk is about the challenges of protecting code from timing leaks.  We will start with an example timing vulnerability and show how to exploit it, then proceed to look at how the obvious ways of fixing the problem are not good enough.  Finally, we will look at a particular style of coding that, as far as we know, prevents all timing leaks on x86 processors... except when your compiler "optimizes" your code by adding vulnerabilities.
+I like this algorithm because it's relatively obscure, easy to understand and implement, and yet widely applicable
 </p>
 
 
-### Undoing the Chatbot
+### Web Accessibility is More then Colour Contrast
 
-[Erika Pierre](/2018/speakers#erika-pierre)
+[Kayleen Hamelin](/speakers#kayleen-hamelin)
 
 <p class="abstract">
-In this talk, we’ll be taking a look at the history and present of chatbots and digital personal assistants in English-speaking North America from a technological and social perspective. Whether we're looking at virtual assistant bots, Facebook Messenger bots, or Slackbots, what do we expect from our bots, and why? What else can we imagine for and with our bots?
-<br/><br/>
-One of the benefits of open web technologies is that rather than waiting for Siri and Alexa to come around, we can work through these issues ourselves!
-<br/><br/>
-First, we’ll learn a little bit about the Speech Recognition and Speech Synthesis Web APIs. Then, we’ll walk through a small project, relying only on front-end web technologies, that lets us explore the underutilized possibilities of chatbots. Whether they're talking back in unexpected ways or using the user’s expected emotional responses against them, we'll unravel understandings of what a chatbot is, who it's for, and the assumptions it relies on in order to function undetected.
+Web development seems to focus its accessibility concerns are around colour contrast for fonts. Making a site accessible for all individuals is so much more. In this talk you'll hear the following accessibility items:
 </p>
 
-### How giant human-powered calculators became the internet
-
-[Andrew Louis](/2018/speakers#andrew-louis)
+* POUR (perceivable, operable, understandable, and robust.)
+* Keyboard navigable
+* Screen Reader friendly using semantic HTML
+* Structures for all learning types
+* Some helpful tools and sites
 
 <p class="abstract">
-Once upon a time, a "computer" was literally a large room filled with hundreds of workers hunched over desks doing math. Almost a century later, we’ve arrived at the internet but what we have now was by no means inevitable.
+This talk is of interest because in Ontario by Jan 1 2021 it is required for sites to be WCAG AA compliant.
 <br/><br/>
-Our story begins in a time in a time when newly-created digital computers were thought of as mere calculators, useful for analyzing missile trajectories or administrating payroll. Engineer Vannevar Bush, crushed by a deluge of memos and documents arriving on his desk each day, wondered if computers could help. He invented the Memex, most notably recognizing hyperlinks as a way to navigate through complex data.
-<br/><br/>
-Exactly zero of these devices were ever built but a magazine published his idea and this was picked up by a bored soldier stationed in a remote WW2 base. Douglas Engelbart took the ideas of the Memex and used it to guide his work, culminating in an incredible 1968 demo that showcased what computers could be made to do.
-<br/><br/>
-When it came time to get these computers to start talking to each other, he enlisted the help of Elizabeth Feinler. She came up with a lot of the Internet’s first processes, most notably the system which became DNS. She also ensured all discussions and decisions about protocols were carried out in the open.
-<br/><br/>
-These are just three stories in the complicated history of a complicated system but they illustrate how the values, ideas, priorities of individuals can shape the future.
+*Note: This is not an in depth talk on all that's required
 </p>
 
 
-### Introduction to Software Defined Radios
+### Ghost in the Compiler: Backdooring Rust
 
-[Jordan Pryde](/2018/speakers#jordan-pryde)
+[Manish Goregaokar](/speakers#manish-goregaokar)
 
 <p class="abstract">
-Software Defined Radios (SDR) are devices that implement the components of a radio, that have been traditionally implemented in hardware, with more flexible software. These components include mixers, filters, modulators and demodulators. In my talk I will introduce the audience to the concept of SDRs and other basic radio concepts, describe some cool projects that are only made possible with SDRs (with possible demo videos; time permitting), and finally how easy it is to purchase and get started playing with SDRs. I will also introduce the audience to Amateur Radio which provides both some spectrum they would be licenced to play around with and access to a group of likeminded hobbyists. SDRs can be used to better understand the consumer devices that we use everyday and that sometimes can seem like magic. SDRs can also be used to inexpensively (for around $30) monitor and record the emergency response (i.e. fire, paramedics and police) and airplane traffic. Concluding my presentation, I will walk though today’s SDR market and make suggestions of what to buy for those both new and experienced with SDRs. I believe this technology is so cool because it both allows us to demystify the radio-controlled electronics we use everyday and can enable us to be better connected to our communities.
+Compilers are cool! They take our code and turn it into something that runs (sometimes). But who compiles the compiler?
+<br/><br/>
+Turns out that a lot of compilers we use are "self-hosted", which means they're written in the same language they compile and are compiled by ... themselves .. ?
+<br/><br/>
+The way this works is really interesting, and a cool side-effect is the famous "Trusting Trust" attack detailed by Ken Thompson in his 1984 paper. In this attack, one can backdoor a compiler in such a way that the backdoor insers itself into copies of the compiler compiled by itself, even when you remove it from the source code!
+<br/><br/>
+This has always fascinated me and was one of the main reasons I became interested in compilers in the first place. A while ago I decided to try it out myself. I wrote a backdoor for the Rust compiler that was self-propagating and could disappear from the source. It was a very fun exercise and made me appreciate compilers more.
+<br/><br/>
+In this talk, I'll explain how self-hosted compilers work, how the trusting trust attack works, and describe how one can write such an attack on a self-hosted compiler. I hope this will encourage others to try working on compilers and maybe write their own version of this attack!
+</p>
+
+### Search Engines: How They Work and Why You Need Them
+
+[Toria Gibbs](/speakers#toria-gibbs)
+
+<p class="abstract">
+Do you ever wonder what is happening when you click the “Search” button on a website? The search bar is the most important feature of many applications and yet most people don’t know how it really works!
+<br/><br/>
+Databases provide rudimentary search tools, but a truly effective search function will use a custom search engine. In this talk, we will learn about why search engines are important and how they work “under the hood” by utilizing simple data structures to provide fast and meaningful results.
+<br/><br/>
+You should leave this talk knowing when to build a custom search engine and what open source tools are available to help you do so!
+</p>
+
+### Ping at the speed of light
+
+[Wesley Aptekar-Cassels](/speakers#wesley-aptekar-cassels)
+
+<p class="abstract">
+A network of more than a million kilometers of fiber optic cable crisscrosses the earth, carrying our emails and tweets and cat videos at a speed of almost 300,000 kilometers per second. But do they actually go that fast? What is the physical speed of a TCP/IP packet being sent across the internet?
+<br/><br/>
+Trying to answer this question lead me down a fascinating rabbit hole involving packet routing, refraction of light, the undersea fiber optic cable market, GeoIP, and a variety of mediums for data transmission.
+<br/><br/>
+In this talk, I'll tell you how I went about answering this question, talk about the results I got and what they mean, and explain why searching for answers to whimsical questions is important.
 </p>
 
 
-### How Rust Makes Advanced Type Systems Accessible to the Masses
+### Conjure ye File System, transmorgifier!
 
-[Sunjay Varma](/2018/speakers#sunjay-varma)
+[Aaron Levin](/speakers#aaron-levin)
 
 <p class="abstract">
-In the past it was accepted that only experts and highly experienced programmers could work on really large codebases. Those people all had the "special" capacity to keep all the different parts and considerations in their mind so that they could avoid a whole host of issues that a less experienced person might make. Nowadays, that convention isn't sufficient. There's too much software and too few "experts" to work on it all. Everyone has their limits and we need something more to make sure our software is correct. Why not let our computers do most of this checking for us? Type systems are a way to annotate our programs so that computers can do a lot of the work we used to rely on experts for. Advanced type systems have been around for a while, but they haven't seen much adoption until recently. In my talk, I will cover this transition and talk about what makes Rust so different. From individuals to large organizations, people are all of a sudden jumping to adopt Rust everywhere. Rust has been the most loved programming language in the StackOverflow Developer Survey for two years straight. It's type system allows any developer regardless of experience to modify a codebase with confidence. They know that they can lean on the compiler to tell them their mistakes. It's not a perfect way to eliminate all errors, but this exciting transition towards types will give us a route towards software that is extremely maintainable and even fun to write for years to come.
+Filesystem in Userspace (FUSE) is a weird interface that lets you create your own File System. Most importantly, this file system can be fake! How fake? Well, fake enough that I made an entire game played entirely by operating on your file system. The game is called Fushia.
+<br/><br/>
+This talk will go over FUSE, show some practical demos (a filesystem based on a JSON object), demo my game, and demonstrate what is required to implement file systems using FUSE.
+<br/><br/>
+People will hopefully leave this talk being super inspired to create their own file systems!
+</p>
+
+
+### WTF is Big Data?
+
+[Holly Oegama](/speakers#holly-oegama)
+
+<p class="abstract">
+Hadoop what? MapReduce who? It’s very easy to get intimidated by Big Data, especially when Hadoop and its friends seem less than welcoming.
+<br/><br/>
+The amount of data that exists in our world is only growing. In fact, in the past minute 527,760 photos were sent on snapchat, over 4 million youtube videos were streamed, 456 000 tweets were sent out on twitter and 46,740 photos were posted on instagram. As data keeps growing, companies are abandoning their old ways of data processing and storage and adopting an entirely new way of doing things.
+<br/><br/>
+This talk will introduce the concepts of Big Data and how it differs from the traditional data systems we all know and love. We will dive deeper into some of the popular components that exist in the Hadoop ecosystem, such as HDFS (The Hadoop File System), MapReduce, Yarn and Hive, and understand how they all work together to solve the ‘Big Data’ problem.
+<br/><br/>
+By the end of this talk, you will be able to answer the question “WTF is Big Data?”
+</p>
+
+
+### Unlock your ROM Sniffing Superpower
+
+[Bradley Dettmer](/speakers#bradley-dettmer)
+
+<p class="abstract">
+Were you ever curious about how to get data off of a machine without even turning it on? Read only memory (ROM) can contain information needed to boot up a machine, or the source code, music and sprites of your favorite video game. In my talk, “Unlock your ROM Sniffing Superpower”, you will learn how to get the ROM off of any circuit board. I’ll share my personal experience of dumping the ROM off an old gaming console cartridge and I’ll walk you through information you need to look for before beginning to “sniff” data.
+<br/><br/>
+You’ll be introduced to some hardware concepts like ROM, sniffing, parallel bus, serial bus and pins, and will begin to connect some dots between hardware and software. Together, we’ll look at game cartridge hardware, cover C code used to communicate with it to it, as well as some Python code used to parse the sniffed data. We’ll also take a look at the data that was extracted from the ROM.
+</p>
+
+
+### or, the whale
+
+[Cory Dominguez](/speakers#cory-dominguez)
+
+<p class="abstract">
+When I was an 8 year old child I read Herman Melville’s classic Moby Dick. I loved it, especially the pictures! Embarrassingly, I didn’t realize what ‘abridged’ meant until well into my twenties. As an adult I tried and failed to finish the original. Now, as a software engineer, I will use the power of computers and natural language processing to compare the two books and figure out what I have missed.
+</p>
+
+
+### Building Fortune Tasker
+
+[Nadine Lessio](/speakers#nadine-lessio)
+
+<p class="abstract">
+Fortune Tasker is an Alexa bot that gives you cryptic fortune messages and gives you suggestions on tasks you should attempt for the day. It is a critical design piece that uses a disassembled Alexa unit stripped of its defining feature of its voice and regulated to a very specific function. The second version also incorporates real life input through NFC. This is a break down of some of the challenges faced building versions 1, and 2, and some general thoughts on building a personal assistant bots that use aspects of physical computing.
+</p>
+
+### Collecting User Data Responsibly and at Scale
+
+[Chris H-C](/speakers#chris-h-c)
+
+<p class="abstract">
+Accidentally, for technical reasons, or because it fuels their business models, organizations collect user data. With the recent implementation in May 2018 of the General Data Protection Regulation (GDPR) in the European Union there have been a flurry of talks about what it means to collect data, what qualifies as user consent, and how to store and process it.
+<br/><br/>
+When your data is measured in terabytes per day, getting these things right is important. This talk looks at a particular example of how one organization gains user consent, collects user data, and provides a framework to both meet the needs of legislation and to improve the organization's ability to make decisions about their data. It then uses that case study to develop a framework for how any organization might responsibly and effectively collect and process user data.
+</p>
+
+
+### AWK-nowledge the power! Conquering text in a single line of code
+
+[Vincent Castaneda](/speakers#vincent-castaneda)
+
+<p class="abstract">
+Have you ever found yourself dealing with a mountain of text files, searching for relevant information, brooding over lost time? Maybe your solution at the time was to write a couple dozen lines in your favorite language, just to invoke a single regular expression. But a dozen lines? 5 minutes to write a program? You’ll never recover all that wasted time! There’s a better way! What if a single line of code could make all your dreams come true?!
+<br/><br/>
+Introducing AWK, the most powerful text parsing program language that you should be using. With typical, simple programs only a single line long, AWK can be used to validate output, scrape word documents, and defeat entire armies*!
+This talk will be focused on the dos and don’t of the AWK programming language and how it came into existence. I believe that with the relatively simple syntax and powerful capabilities of the language, programmers of all skill can regain control over regular expressions and bend them to their programming will!
+<br/><br/>
+*of text documents
+</p>
+
+### Functional Programming on the Web
+
+[Vibhanshu Bhardwaj](/speakers#vibhanshu-bhardwaj)
+
+<p class="abstract">
+Web Development is huge and growing part of software engineering. However, as it stands today, writing software that runs on browsers is nothing short of painful. JavaScript and the ecosystem around it are somewhat of a mess. Browsers were made to render HTML pages, not run rich applications as we’ve come to expect of them.
+<br/><br/>
+My talk hopes to introduce people to another way of developing web applications. I will cover how Elm (http://elm-lang.org/), a functional language, can be used to write complex software that runs on browsers. Elm is an up-coming language that compiles to JavaScript. It prioritizes simplicity over complex features. It takes into account that Software Engineering is a collaborative process and that software should be maintainable above all.
+<br/><br/>
+The audience will be introduced to how functional programming can be used in non-academic settings, advantages and disadvantages of using Elm on the Web, the growing community around Elm, and its various cool features. I have made games (and other things) with Elm which I would love to demo.
+<br/><br/>
+I have always been a fan of functional programming, and when I found Elm, it made web development much more enjoyable. I would love to share what I’ve gleaned so far and hope it inspires other people to learn more as well!
 </p>
