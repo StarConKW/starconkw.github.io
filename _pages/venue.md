@@ -15,7 +15,7 @@ There will be WiFi provided. Information on how to connect to wifi will be updat
 
 There will be a quiet room (room TBA) available for those that need a break from the conference at any time.
 
-There are unfortunately no gender neutral restrooms in OPT but there are [some nearby](https://uwaterloo.ca/equity/equity-initiatives/inclusive-washrooms/inclusive-washroom-list).
+Gender neutral bathrooms will be available.
 
 ## Accessibility
 
