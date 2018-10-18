@@ -143,7 +143,7 @@ Wesley likes asking surprising questions, ranting about computers, and attemptin
 Aaron Levin is a mathematician excited about programming and using it to empower creative expression.
 </p>
 
-### Holly Oegama
+### Holly Oegema
 
 [WTF is Big Data?](/talks#wtf-is-big-data)
 
