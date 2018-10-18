@@ -53,7 +53,7 @@ Aashni Shah is a Software Engineer at Square by day and a CEO of Elixir Labs by 
 
 ## Speakers
 
-There will be 20 total lightning talk speakers - the full list will be available soon.
+There will be 17 total lightning talk speakers - the full list will be available soon.
 
 ### Falah Shazib
 
