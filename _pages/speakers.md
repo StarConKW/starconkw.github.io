@@ -177,6 +177,8 @@ software, sailboats, sandwiches
 
 [Building Fortune Tasker](/talks#building-fortune-tasker)
 
+![](/assets/img/speakers/nadine.jpg)
+
 <p class="bio">
 Nadine Lessio is a designer and technologist based out of Toronto, Canada. She has a background making standalone and networked alt-controllers, alternative games, and physical installations. Her work has been shown at Indicade, GDC, and The Art Gallery of Ontario. She also helps organize the Stupid Shit Nobody Needs and Bad Ideas Hackathon. Currently she spends her time exploring the internet of things through personal assistants, and working as a research assistant at OCADU where she works with different kinds of networked devices. By mixing development, humour, and criticism, Nadine’s practice considers the sometimes bizarre and unexpected intersections between technology and life. She’s very into bots, memes, and bikes, but not necessarily in that order.
 </p>
@@ -210,6 +212,16 @@ Mixologist, shiba onwer, and player of video games, Vincent works as a professio
 
 <p class="bio">
 I am a Computer Science student at University of Waterloo. I write software to pay my bills and for fun. I have too many interests to list them all, but I like reading, running, martial arts, philosophy, science et al. I like learning about things, and I strive for polymathy.
+</p>
+
+### Patrick Melanson
+
+[How Can One Make A Unicode?](/talks#how-can-one-make-a-unicode)
+
+![](/assets/img/speakers/patrick.jpg)
+
+<p class="bio">
+Patrick is a student at UW, but his days there are now numbered. Some of his favourite 'C' words are Charlemagne, CS Club, Canoe, and uniCode. When not thinking of other 'C' words, Patrick is usually messing with Python or C++ code (C++ is its own reward, and also another 'C' word!).
 </p>
 
 <br/>

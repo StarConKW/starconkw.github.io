@@ -181,7 +181,7 @@ When I was an 8 year old child I read Herman Melville’s classic Moby Dick. I l
 [Nadine Lessio](/speakers#nadine-lessio)
 
 <p class="abstract">
-Fortune Tasker is an Alexa bot that gives you cryptic fortune messages and gives you suggestions on tasks you should attempt for the day. It is a critical design piece that uses a disassembled Alexa unit stripped of its defining feature of its voice and regulated to a very specific function. The second version also incorporates real life input through NFC. This is a break down of some of the challenges faced building versions 1, and 2, and some general thoughts on building a personal assistant bots that use aspects of physical computing.
+Fortune Tasker is an interactive installation using a dissembled Amazon Alexa utilizing a small printer, that gives you absurdist fortunes and suggestions on tasks you should attempt for the day. This talk will break down some of the challenges between version one, and version two, which sees the addition of ambient environmental controls, and using real world input through NFC to affect the device's decision making. It will also include some general thoughts on using personal assistant platforms in unconventional and artistic contexts.
 </p>
 
 ### Collecting User Data Responsibly and at Scale
@@ -220,4 +220,18 @@ My talk hopes to introduce people to another way of developing web applications.
 The audience will be introduced to how functional programming can be used in non-academic settings, advantages and disadvantages of using Elm on the Web, the growing community around Elm, and its various cool features. I have made games (and other things) with Elm which I would love to demo.
 <br/><br/>
 I have always been a fan of functional programming, and when I found Elm, it made web development much more enjoyable. I would love to share what I’ve gleaned so far and hope it inspires other people to learn more as well!
+</p>
+
+### How Can One Make A Unicode?
+
+[Patrick Melanson](/speakers#patrick-melanson)
+
+<p class="abstract">
+Unicode is great! Unicode is the Tiny Technical Detail™ that allows any citizen of the world to communicate in their own writing system. Unicode takes on the ambitious problem of "how can we encode Latin, Arabic kasratan, historic Brahmi script, Egyptian hieroglyphs, ASCII pipe drawings, and a rocketship picture in a way people will actually adopt?"
+<br/><br/>
+This talk will cruise at a high level, giving insight into the (not very) secretive cabal that decides what goes into Unicode and who is in this cabal. Special attention will be given to the most recognizeable part of Unicode: emoji! And also how emoji leads to widespread adoption of Hanifi Rohingya script.
+<br/><br/>
+But this talk will also get into some nitty gritty, giving examples of problems Unicode can bring. This will include the "PayPaI" class of attacks and even hacking Spotify password resets!
+<br/><br/>
+In an ideal world, technical capacity would not limit what script a user can write their own name, username, email, or even variable identifier in without introducing security risks or causing errors. In the real world, this is not the case. This talk aims to bridge this gap, bringing Sumerian Cuneiform markings to usernames around the world.
 </p>
