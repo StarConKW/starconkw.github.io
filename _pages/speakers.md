@@ -127,6 +127,8 @@ Toria Gibbs is a Senior Software Engineer on the Search Platform team at Shopify
 
 ### Wesley Aptekar-Cassels
 
+![](/assets/img/speakers/wesley.jpeg)
+
 [Ping at the speed of light](/talks#ping-at-the-speed-of-light)
 
 <p class="bio">
@@ -223,6 +225,17 @@ I am a Computer Science student at University of Waterloo. I write software to p
 <p class="bio">
 Patrick is a student at UW, but his days there are now numbered. Some of his favourite 'C' words are Charlemagne, CS Club, Canoe, and uniCode. When not thinking of other 'C' words, Patrick is usually messing with Python or C++ code (C++ is its own reward, and also another 'C' word!).
 </p>
+
+### Brandon Reid
+
+[Converting Off-the-Shelf Video Games into Exergames](/talks#converting-off-the-shelf-video-games-into-exergames)
+
+![](/assets/img/speakers/brandon.jpg)
+
+<p class="bio">
+Brandon is a software developer with a background in geophysics. He has years of experience working with mining, as well as oil and gas, companies dealing with different types of data streams and their relevant processing workflows. Currently, he holds a scientific software developer position at Meta Innovation Technologies, while pursuing his MSc in computer science at Queen's University. In his spare time, he enjoys engaging in new projects, playing games, and running.
+</p>
+
 
 <br/>
 

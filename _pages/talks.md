@@ -235,3 +235,15 @@ But this talk will also get into some nitty gritty, giving examples of problems 
 <br/><br/>
 In an ideal world, technical capacity would not limit what script a user can write their own name, username, email, or even variable identifier in without introducing security risks or causing errors. In the real world, this is not the case. This talk aims to bridge this gap, bringing Sumerian Cuneiform markings to usernames around the world.
 </p>
+
+### Converting Off-the-Shelf Video Games into Exergames
+
+[Brandon Reid](/speakers#brandon-reid)
+
+<p class="abstract">
+Video game modification to change the look, feel, or functionality of the game, so called “modding”, is a practice that many game developers enjoy. This talk focuses on modding existing games with the goal of converting them into exergames, video games that take exercise input to cause some functionality in the game.
+<br/><br/>
+In a functional exergame, an exercise-related metric recorded on a sensor is required to be transferred to the game system to affect the game’s output. Step count and heart rate recorded on a pedometer and heart rate monitor, respectively, are some examples of exercise-related metrics. The output from the game system can be increasing a character’s run speed or attack power.
+<br/><br/>
+Converting an off-the-shelf game to an exergame requires modification of the source code or accessing certain contents to enable utilizing recorded data on the sensors. In this talk, through an example, I will discuss this conversion, with some commentary regarding the extent to which playing the game could be considered exercise, playtester’s response to the game, the fun factor, and user engagement.
+</p>
