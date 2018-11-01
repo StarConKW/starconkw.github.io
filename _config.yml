@@ -36,7 +36,7 @@ navigation:
     url: /speakers/
     desc: Speakers
   - title: Talks
-    utl: /talks/
+    url: /talks/
     desc: Talks
   - title: Code of Conduct
     url: /coc/
