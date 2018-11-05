@@ -66,7 +66,7 @@ I like this algorithm because it's relatively obscure, easy to understand and im
 </p>
 
 
-### Web Accessibility is More then Colour Contrast
+### Web Accessibility is More than Colour Contrast
 
 [Kayleen Hamelin](/speakers#kayleen-hamelin)
 
