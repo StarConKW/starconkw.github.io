@@ -92,7 +92,7 @@ Vaibhav likes writing software without bugs. He also likes barbells, disco, hugs
 
 ### Kayleen Hamelin
 
-[Web Accessibility is More then Colour Contrast](/talks#web-accessibility-is-more-then-colour-contrast)
+[Web Accessibility is More than Colour Contrast](/talks#web-accessibility-is-more-then-colour-contrast)
 
 ![](/assets/img/speakers/kayleen.jpg)
 
