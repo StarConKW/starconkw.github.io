@@ -219,6 +219,12 @@ html, body, .site-header, .site-footer {
   }
 }
 
+@media (min-width: 768px) {
+  .site {
+      max-width: 85%;
+  }
+}
+
 .site-content {
   padding: 2em;
   background: $gray-lightest;
