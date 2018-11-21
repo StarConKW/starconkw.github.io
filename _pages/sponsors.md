@@ -31,7 +31,7 @@ These organizations are doing really cool things! One of those cool things is he
 
 Thanks so much to:
 
-- [Girl Geek Dinners Waterloo Region](https://www.meetup.com/Girl-Geek-Dinners-Waterloo-Region/?_cookie-check=bCWkq1imC0ofOyH-)
+- [Girl Geek Dinners Waterloo Region](https://www.meetup.com/Girl-Geek-Dinners-Waterloo-Region)
 - [Women Who Code Waterloo](https://www.womenwhocode.com/waterloo)
 
 <hr>
