@@ -25,7 +25,18 @@ Founded late in the 20th century (1997), the Kitchener Waterloo Software Quality
 
 <hr>
 
-## Why You Should Sponsor Us
+## Community Partners
+
+These organizations are doing really cool things! One of those cool things is helping spread the word about StarCon to their communities.
+
+Thanks so much to:
+
+- [Girl Geek Dinners Waterloo Region](https://www.meetup.com/Girl-Geek-Dinners-Waterloo-Region/?_cookie-check=bCWkq1imC0ofOyH-)
+- [Women Who Code Waterloo](https://www.womenwhocode.com/waterloo)
+
+<hr>
+
+## Sponsor Us!
 
 Do you want to sponsor us too? We're currently looking for sponsors!
 
