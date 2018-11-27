@@ -25,7 +25,7 @@ Founded late in the 20th century (1997), the Kitchener Waterloo Software Quality
 
 ![](/assets/img/sponsors/monadnock.png)
 
-Embedded Systems Consulting; London, ON
+Embedded Systems Consulting
 
 <hr>
 
