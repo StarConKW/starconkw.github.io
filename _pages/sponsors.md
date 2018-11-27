@@ -23,6 +23,10 @@ The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about)
 
 Founded late in the 20th century (1997), the Kitchener Waterloo Software Quality Association is a volunteer-run, not-for-profit, independent organization of software professionals who have an interest in quality and testing. We offer events that enable professional networking, skills development, and learning related to software quality, software testing, technical leadership, and agile development practices. More information about our organization can be found at [kwsqa.org](https://kwsqa.org).
 
+![](/assets/img/sponsors/monadnock.png)
+
+Embedded Systems Consulting
+
 <hr>
 
 ## Community Partners
