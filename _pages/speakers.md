@@ -7,7 +7,7 @@ permalink: /speakers/
 
 <div class="pretty-links">
 
-Check our our awesome 2019 talk abstracts [here](/talks)!
+Check out the full schedule [here](/schedule) and learn more about our great talks [here!](/talks)
 
 ## Keynotes
 
