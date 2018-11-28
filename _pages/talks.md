@@ -8,6 +8,8 @@ permalink: /talks/
 
 # StarCon 2019 Talk Lineup
 
+Check out the full schedule [here](/schedule) and learn more about our amazing speakers [here!](/speakers)
+
 <br/>
 
 ## Lightning talks
