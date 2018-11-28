@@ -25,7 +25,7 @@ Founded late in the 20th century (1997), the Kitchener Waterloo Software Quality
 
 ![](/assets/img/sponsors/monadnock.png)
 
-Embedded Systems Consulting
+Monadnock Systems is a community oriented embedded systems consultancy in London, ON. In addition to exchanging goods and services for money, they organize monthly Fixit-Cafe events to assist people in repairing their technology instead of throwing it away. They organize [Hack London](http://hacklondon.ca/), a group which aims to help introduce London's hackers/makers to each other and provide a space and tools for their projects.
 
 <hr>
 
