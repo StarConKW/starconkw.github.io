@@ -14,4 +14,4 @@ For more detail about our [talks](/talks), check out this awesome list of [talk 
 
 ### Schedule
 
-<iframe src="/schedule.pdf" width="100%" height="2000px">
+<iframe src="/schedule.pdf" width="100%" height="1500px">
