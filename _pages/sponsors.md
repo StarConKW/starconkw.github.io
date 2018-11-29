@@ -7,6 +7,10 @@ permalink: /sponsors/
 
 # 2019 Sponsors
 
+![](/assets/img/sponsors/mozilla.png)
+
+At Mozilla, we’re a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.
+
 ![](/assets/img/sponsors/scs.png)
 
 The David R. Cheriton School of Computer Science brings together over 80 faculty, 40 staff and 2000 students at the undergraduate and graduate levels. The School has its origin in the Department of Applied Analysis and Computer Science, founded in 1967, and has grown to become the largest academic computer science research centre in Canada, ranking 10th in North America and 24th in the world.
