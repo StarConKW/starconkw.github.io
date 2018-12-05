@@ -31,6 +31,10 @@ Founded late in the 20th century (1997), the Kitchener Waterloo Software Quality
 
 Monadnock Systems is a community oriented embedded systems consultancy in London, ON. In addition to exchanging goods and services for money, they organize monthly Fixit-Cafe events to assist people in repairing their technology instead of throwing it away. They organize [Hack London](http://hacklondon.ca/), a group which aims to help introduce London's hackers/makers to each other and provide a space and tools for their projects.
 
+![](/assets/img/sponsors/appnexus.png)
+
+[AppNexus](https://www.appnexus.com) is creating a better solution for advertisers and publishers to find and reach specific audiences at scale in trusted, premium content environments.
+
 <hr>
 
 ## Community Partners
