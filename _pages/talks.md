@@ -12,6 +12,16 @@ Check out the full schedule [here](/schedule) and learn more about our amazing s
 
 <br/>
 
+## Keynotes
+
+### Navigating an Equitable Digital Future
+
+[Nasma Ahmed](/speakers#nasma-ahmed)
+
+<p class="abstract">
+As technology continues to impact our lives, how can we learn from our past to shape a pathway towards a more just and equitable future. We will be exploring the pathway and our role as young people trying survive and thrive in this messy world.
+</p>
+
 ## Lightning talks
 
 ### How Not To Build A Virtual Escape Room

@@ -21,6 +21,8 @@ Vaidehi is an engineer at Tilde, in Portland, Oregon, where she works on Skyligh
 
 ### Nasma Ahmed
 
+[Navigating an Equitable Digital Future](/talks#navigating-an-equitable-digital-future)
+
 ![](/assets/img/speakers/nasma.png)
 
 <p class="bio">
