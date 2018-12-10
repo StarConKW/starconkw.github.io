@@ -19,7 +19,7 @@ Check out the full schedule [here](/schedule) and learn more about our amazing s
 [Vaidehi Joshi](/speakers#vaidehi-joshi)
 
 <p class="abstract">
-A good education can take many different shapes, sizes, forms. Oftentimes, the most profound educations don't even happen in a classroom. And yet, they all seem to have one thing in common: they teach you how to learn. Being able to learn new things is an empowering skills, especially for those of us working in the ever-changing, fast-paced tech industry. But how can we teach ourselves this skill? Together, we’ll explore one of the world’s most well-known and deeply-loved techniques and see how we can each use it to learn many new things--tech-related or not!
+A good education can take many different shapes, sizes, forms. Oftentimes, the most profound educations don't even happen in a classroom. And yet, they all seem to have one thing in common: they teach you how to learn. Being able to learn new things is an empowering skills, especially for those of us working in the ever-changing, fast-paced tech industry. But how can we teach ourselves this skill? Together, we’ll explore one of the world’s most well-known and deeply-loved techniques and see how we can each use it to learn many new things&mdash;tech-related or not!
 </p>
 
 ### Navigating an Equitable Digital Future
