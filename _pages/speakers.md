@@ -13,6 +13,8 @@ Check out the full schedule [here](/schedule) and learn more about our great tal
 
 ### Vaidehi Joshi
 
+[Learning How To Learn](/talks#learning-how-to-learn)
+
 ![](/assets/img/speakers/vaidehi.png)
 
 <p class="bio">
