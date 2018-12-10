@@ -13,6 +13,8 @@ Check out the full schedule [here](/schedule) and learn more about our great tal
 
 ### Vaidehi Joshi
 
+[Learning How To Learn](/talks#learning-how-to-learn)
+
 ![](/assets/img/speakers/vaidehi.png)
 
 <p class="bio">
@@ -20,6 +22,8 @@ Vaidehi is an engineer at Tilde, in Portland, Oregon, where she works on Skyligh
 </p>
 
 ### Nasma Ahmed
+
+[Navigating an Equitable Digital Future](/talks#navigating-an-equitable-digital-future)
 
 ![](/assets/img/speakers/nasma.png)
 
