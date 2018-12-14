@@ -7,6 +7,10 @@ permalink: /sponsors/
 
 # 2019 Sponsors
 
+![](/assets/img/sponsors/mozilla.png)
+
+At Mozilla, we’re a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.
+
 ![](/assets/img/sponsors/scs.png)
 
 The David R. Cheriton School of Computer Science brings together over 80 faculty, 40 staff and 2000 students at the undergraduate and graduate levels. The School has its origin in the Department of Applied Analysis and Computer Science, founded in 1967, and has grown to become the largest academic computer science research centre in Canada, ranking 10th in North America and 24th in the world.
@@ -23,9 +27,32 @@ The [Mathematics Endowment Fund](https://uwaterloo.ca/math-endowment-fund/about)
 
 [Oracle NetSuite](http://www.netsuite.com) transforms how businesses operate, helping them achieve their business vision. We’re a global cloud computing company dedicated to delivering business applications over the interview. We support more than 40,000 companies, organizations and subsidiaries in more than 100 countries. Offering a solution for all businesses, no matter the size or industry.
 
+![](/assets/img/sponsors/kwsqa.png)
+
+Founded late in the 20th century (1997), the Kitchener Waterloo Software Quality Association is a volunteer-run, not-for-profit, independent organization of software professionals who have an interest in quality and testing. We offer events that enable professional networking, skills development, and learning related to software quality, software testing, technical leadership, and agile development practices. More information about our organization can be found at [kwsqa.org](https://kwsqa.org).
+
+![](/assets/img/sponsors/monadnock.png)
+
+Monadnock Systems is a community oriented embedded systems consultancy in London, ON. In addition to exchanging goods and services for money, they organize monthly Fixit-Cafe events to assist people in repairing their technology instead of throwing it away. They organize [Hack London](http://hacklondon.ca/), a group which aims to help introduce London's hackers/makers to each other and provide a space and tools for their projects.
+
+![](/assets/img/sponsors/appnexus.png)
+
+[AppNexus](https://www.appnexus.com) is creating a better solution for advertisers and publishers to find and reach specific audiences at scale in trusted, premium content environments.
+
 <hr>
 
-## Why You Should Sponsor Us
+## Community Partners
+
+These organizations are doing really cool things! One of those cool things is helping spread the word about StarCon to their communities.
+
+Thanks so much to:
+
+- [Girl Geek Dinners Waterloo Region](https://www.meetup.com/Girl-Geek-Dinners-Waterloo-Region)
+- [Women Who Code Waterloo](https://www.womenwhocode.com/waterloo)
+
+<hr>
+
+## Sponsor Us!
 
 Do you want to sponsor us too? We're currently looking for sponsors!
 

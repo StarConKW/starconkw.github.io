@@ -32,9 +32,9 @@ navigation:
   - title: Sponsor us!
     url: /sponsors/
     desc: Sponsor us!
-  - title: Speakers
-    url: /speakers/
-    desc: Speakers
+  - title: Schedule
+    url: /schedule/
+    desc: Schedule
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct

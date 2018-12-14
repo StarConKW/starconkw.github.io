@@ -9,7 +9,7 @@ StarCon is a two-day software engineering conference held in Waterloo, Ontario w
 
 ## Tickets
 
-Tickets are available [here](https://www.eventbrite.ca/e/starcon-2019-tickets-51364393283) and are first come, first served.
+Tickets are available [here](https://www.eventbrite.ca/e/starcon-2019-tickets-51364393283) and are first come, first served. Tickets include breakfast and lunch provided on both days of the conference.
 
 ## Where and When
 
