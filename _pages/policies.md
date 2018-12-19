@@ -12,10 +12,10 @@ All StarCon attendees, speakers, volunteers, and sponsors are required to abide 
 All StarCon attendees, volunteers, speakers, and sponsors will be provided with a badge and a lanyard. Three colours of lanyards are provided.
 
 - A **green** lanyard means that you allow our event photographer to take photographs of you.
-- A **blue** lanyard means that photographers should ask for your permission before taking photographs of you.
+- A **yello** lanyard means that photographers should ask for your permission before taking photographs of you.
 - A **red** lanyard means that photographs should not be taken of you. If any are taken by accident, they will not be published.
 
-If no lanyard is visible, photographers will ask permission before taking a photograph. Photographers will avoid taking any photographs of anyone wearing a red lanyard and ask anyone wearing a blue lanyard. Since it is not possible to always correctly identify lanyards, if photos are taken of red or blue lanyard-wearing attendees, we will not publish identifiable photos of those attendees. Anyone in a published photograph in StarCon media can ask to be made unidentifiable in that published photograph.
+If no lanyard is visible, photographers will ask permission before taking a photograph. Photographers will avoid taking any photographs of anyone wearing a red lanyard and ask anyone wearing a yellow lanyard. Since it is not possible to always correctly identify lanyards, if photos are taken of red or yellow lanyard-wearing attendees, we will not publish identifiable photos of those attendees. Anyone in a published photograph in StarCon media can ask to be made unidentifiable in that published photograph.
 
 All attendees, sponsors, organizers, volunteers, and speakers are also expected to abide by this policy.
 
