@@ -9,13 +9,15 @@ All StarCon attendees, speakers, volunteers, and sponsors are required to abide 
 
 ## Photography Policy
 
-All StarCon attendees, volunteers, speakers, and sponsors will be provided with a badge. Three colours of badges are provided.
+All StarCon attendees, volunteers, speakers, and sponsors will be provided with a badge and a lanyard. Three colours of lanyards are provided.
 
-- Green means it is permitted for photographers to take pictures of you.
-- Blue means photographers are required to ask permission before taking pictures of you.
-- Red means photos should not be taken of you. (If any are taken by accident, they will not be published).
+- A **green** lanyard means that you allow photographs of you to be taken.
+- A **yellow** lanyard means that photographers should ask for your permission before taking photographs of you.
+- A **red** lanyard means that photographs of you should not be taken. If any are taken by accident by our event photographer, they will not be published.
 
-If no badge is visible, photographers will ask permission before taking pictures of you. Photographers will avoid taking any pictures of anyone wearing a red badge and ask anyone wearing a blue badge. Since it is not possible to always correctly identify badges, if photos are taken of red or blue badge-wearing attendees, we will not publish identifiable photos of those attendees. Anyone in a published photograph in StarCon media can ask to be made unidentifiable in that published photograph.
+If no lanyard is visible, our event photographer will ask permission before taking a photograph. Event photographers will avoid taking any photographs of anyone wearing a red lanyard and ask anyone wearing a yellow lanyard. Since it is not possible to always correctly identify lanyards, if photos are taken of red or yellow lanyard-wearing attendees, we will not publish identifiable photos of those attendees. Anyone in a published photograph in StarCon media can ask to be made unidentifiable in that published photograph.
+
+All attendees, sponsors, organizers, volunteers, and speakers are also expected to abide by this policy.
 
 *adapted from [Strange Loop's Photography Policy](https://www.thestrangeloop.com/policies.html)*
 
