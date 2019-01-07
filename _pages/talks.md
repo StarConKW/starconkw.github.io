@@ -91,7 +91,7 @@ I like this algorithm because it's relatively obscure, easy to understand and im
 [Kayleen Hamelin](/speakers#kayleen-hamelin)
 
 <p class="abstract">
-Web development seems to focus its accessibility concerns are around colour contrast for fonts. Making a site accessible for all individuals is so much more. In this talk you'll hear the following accessibility items:
+Web development seems to focus its accessibility concerns around colour contrast for fonts. Making a site accessible for all individuals is so much more. In this talk you'll hear the following accessibility items:
 </p>
 
 * POUR (perceivable, operable, understandable, and robust.)
