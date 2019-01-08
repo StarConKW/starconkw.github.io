@@ -30,6 +30,24 @@ A good education can take many different shapes, sizes, forms. Oftentimes, the m
 As technology continues to impact our lives, how can we learn from our past to shape a pathway towards a more just and equitable future? We will be exploring the pathway and our role as young people trying survive and thrive in this messy world.
 </p>
 
+## Invited lightning talk speakers
+
+### Thomas the Tank Engine and You: The Future of Rail Technologies
+
+[Melissa Tedesco](/speakers#melissa-tedesco)
+
+<p class="abstract">
+Pretty much everyone uses public transit. If you have lived in a major city, that public transit system has likely included some sort of subway, metro or LRT (light rail transit) system. You have probably experienced some sort of delay, or wondered why your trip takes as long as it does.These systems run on technology that is often anywhere from a few decades to a century old. However, modernization is coming. In my talk, I will discuss how modern technology is changing the way subway systems operate. Some of these changes are invisible, others obvious. Some increase the capacity of systems, others improve safety, and others improve accessibility. I will also talk about the challenges facing modernization efforts. Also, trains are cool
+</p>
+
+### Hype Yourself, You're Worth It!
+
+[Aashni Shah](/speakers#aashni-shah)
+
+<p class="abstract">
+At some point in your career, you have to prove your worth, whether it's to get a promotion, a new job or recognition for work you've done in the past. It's extremely hard to talk about your accomplishments without either underselling yourself, or feeling like you're boasting. Through this talk, I'll teach you tricks to accurately keep track of the work that you do using a tried and tested Hype Doc system. You are your best hype person, and you definitely deserve it.
+</p>
+
 ## Lightning talks
 
 ### How Not To Build A Virtual Escape Room

@@ -40,6 +40,8 @@ better literacy around privacy with youth.
 
 ### Melissa Tedesco
 
+[Thomas the Tank Engine and You: The Future of Rail Technologies](/talks#thomas-the-tank-engine-and-you-the-future-of-rail-technologies)
+
 ![](/assets/img/speakers/melissa.jpeg)
 
 <p class="bio">
@@ -48,6 +50,7 @@ Melissa Tedesco is a fourth year Electrical Engineering student at the Universit
 
 ### Aashni Shah
 
+[Hype Yourself, You're Worth It!](/talks#hype-yourself-youre-worth-it)
 
 ![](/assets/img/speakers/aashni.png)
 
