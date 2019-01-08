@@ -48,6 +48,7 @@ Melissa Tedesco is a fourth year Electrical Engineering student at the Universit
 
 ### Aashni Shah
 
+[Hype Yourself, You're Worth It!](/talks#hype-yourself-youre-worth-it)
 
 ![](/assets/img/speakers/aashni.png)
 
