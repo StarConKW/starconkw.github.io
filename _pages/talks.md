@@ -32,7 +32,7 @@ As technology continues to impact our lives, how can we learn from our past to s
 
 ## Invited lightning talk speakers
 
-### Talk title TBA
+### Thomas the Tank Engine and You: The Future of Rail Technologies
 
 [Melissa Tedesco](/speakers#melissa-tedesco)
 
