@@ -39,6 +39,10 @@ Monadnock Systems is a community oriented embedded systems consultancy in London
 
 [AppNexus](https://www.appnexus.com) is creating a better solution for advertisers and publishers to find and reach specific audiences at scale in trusted, premium content environments.
 
+![](/assets/img/sponsors/yelp.png)
+
+[Yelp](https://www.yelp.com) connects people with great local businesses. Since Yelp was founded in San Francisco back in July 2004, they have taken root across 32 countries. Yelp is the leading local guide for real word-of-mouth on everything from boutiques and mechanics to restaurants and dentists. Their engineers come from diverse technical backgrounds and value digital craftsmanship, open-source, and creative problem solving. They have a talented group of extraordinary engineers that help one another grow and succeed.
+
 <hr>
 
 ## Community Partners
