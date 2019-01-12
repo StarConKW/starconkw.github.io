@@ -214,14 +214,6 @@ When I was an 8 year old child I read Herman Melville’s classic Moby Dick. I l
 </p>
 
 
-### Building Fortune Tasker
-
-[Nadine Lessio](/speakers#nadine-lessio)
-
-<p class="abstract">
-Fortune Tasker is an interactive installation using a dissembled Amazon Alexa utilizing a small printer, that gives you absurdist fortunes and suggestions on tasks you should attempt for the day. This talk will break down some of the challenges between version one, and version two, which sees the addition of ambient environmental controls, and using real world input through NFC to affect the device's decision making. It will also include some general thoughts on using personal assistant platforms in unconventional and artistic contexts.
-</p>
-
 ### Collecting User Data Responsibly and at Scale
 
 [Chris H-C](/speakers#chris-h-c)

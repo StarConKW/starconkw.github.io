@@ -182,15 +182,6 @@ Brad is a creative, collaborative and outspoken hacker and Software Engineer at 
 software, sailboats, sandwiches
 </p>
 
-### Nadine Lessio
-
-[Building Fortune Tasker](/talks#building-fortune-tasker)
-
-![](/assets/img/speakers/nadine.jpg)
-
-<p class="bio">
-Nadine Lessio is a designer and technologist based out of Toronto, Canada. She has a background making standalone and networked alt-controllers, alternative games, and physical installations. Her work has been shown at Indicade, GDC, and The Art Gallery of Ontario. She also helps organize the Stupid Shit Nobody Needs and Bad Ideas Hackathon. Currently she spends her time exploring the internet of things through personal assistants, and working as a research assistant at OCADU where she works with different kinds of networked devices. By mixing development, humour, and criticism, Nadine’s practice considers the sometimes bizarre and unexpected intersections between technology and life. She’s very into bots, memes, and bikes, but not necessarily in that order.
-</p>
 
 ### Chris H-C
 
