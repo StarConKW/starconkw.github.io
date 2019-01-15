@@ -5,15 +5,15 @@ subtitle: Venue
 permalink: /venue/
 ---
 
-StarCon will be held in the [University of Waterloo School of Optometry and Vision Science](https://www.google.com/maps/place/School+of+Optometry+and+Vision+Science/@43.4755575,-80.5455983,15z/data=!4m2!3m1!1s0x0:0xb34254f15d15b6b1?sa=X&ved=2ahUKEwjKusuX14zeAhVKFzQIHcRBBWQQ_BIwEXoECAcQCw) (OPT).
+StarCon will be held in the [University of Waterloo School of Optometry and Vision Science](https://www.google.com/maps/place/School+of+Optometry+and+Vision+Science/@43.4755575,-80.5455983,15z/data=!4m2!3m1!1s0x0:0xb34254f15d15b6b1?sa=X&ved=2ahUKEwjKusuX14zeAhVKFzQIHcRBBWQQ_BIwEXoECAcQCw) (OPT). Talks will be in room OPT 347 on the third floor.
 
 ## WiFi
 
-There will be WiFi provided. Information on how to connect to wifi will be updated [here](/wifi) closer to the event.
+There will be WiFi provided. Information on how to connect to wifi is [here](/wifi).
 
 ## Amenities
 
-There will be a quiet room (room TBA) available for those that need a break from the conference at any time.
+There will be a quiet room (OPT 401) available for those that need a break from the conference at any time.
 
 Gender neutral bathrooms will be available.
 
