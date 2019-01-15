@@ -23,6 +23,4 @@ The building and the conference rooms are accessible by wheelchair. For more inf
 
 ## Parking
 
-There is parking available on campus. Closest parking lots and prices will be posted closer to the event.
-
-For reference, you can check out UWaterloo's [parking lot map](https://uwaterloo.ca/map/pdf/map_colour.pdf)
+There is parking available on campus. Lot X located near the Optometry Building (northeast corner of campus) is free on weekends. [Here](https://uwaterloo.ca/map/pdf/map_colour.pdf) is the parking lot map for reference.
