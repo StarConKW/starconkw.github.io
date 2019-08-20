@@ -3,28 +3,30 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-StarCon is a two-day software engineering conference held in Waterloo, Ontario with two days of lightning talks about technology, computer science, programming, and the joy of learning about them!
+StarCon was a two-day software engineering conference held in Waterloo, Ontario with two days of lightning talks about technology, computer science, programming, and the joy of learning about them!
 
-**Is your company interested in sponsoring us? Learn more [here](https://starcon.io/sponsors/#why-you-should-sponsor-us).**
+<!-- **Is your company interested in sponsoring us? Learn more [here](https://starcon.io/sponsors/#why-you-should-sponsor-us).**
 
 ## Tickets
 
-Tickets are available [here](https://www.eventbrite.ca/e/starcon-2019-tickets-51364393283) and are first come, first served. Tickets include breakfast and lunch provided on both days of the conference.
+Tickets are available [here](https://www.eventbrite.ca/e/starcon-2019-tickets-51364393283) and are first come, first served. Tickets include breakfast and lunch provided on both days of the conference. -->
 
 ## Where and When
 
-StarCon will be returning to Waterloo on January 19-20, 2019! Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
+StarCon 2019 was held in Waterloo on January 19-20, 2019! Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
 
 You can read about our venue (including parking and accessibility) [here](/venue).
 
 ## Speakers
 
-Our 2019 speakers can be found [here](speakers).
+Our 2019 speakers can be found [here](speakers) and recorded videos can be found [here](https://www.youtube.com/playlist?list=PL66LdfYKVsijLWaiFCxze6-6xT9bVKqIl).
 
-## Who Can Attend
+Our 2018 speakers can be found [here](2018/speakers) and recorded videos can be found [here](https://www.youtube.com/playlist?list=PL66LdfYKVsiikB7G8px8tiU6hzd46PR0P).
+
+<!-- ## Who Can Attend
 
 This conference is open to everyone!
-
+-->
 ## Policies
 
 Learn about our photography, alcohol, and other policies [here](/policies)!
