@@ -7,49 +7,19 @@ StarCon was a two-day software engineering conference held in Waterloo, Ontario 
 
 <!-- **Is your company interested in sponsoring us? Learn more [here](https://starcon.io/sponsors/#why-you-should-sponsor-us).**
 
-## Tickets
+## StarCon 2020?
 
-Tickets are available [here](https://www.eventbrite.ca/e/starcon-2019-tickets-51364393283) and are first come, first served. Tickets include breakfast and lunch provided on both days of the conference. -->
+Unfortunately, we will not be running StarCon in 2020. Running a conference is an immense joy. Every time we run one, we want to get it right. This means finding the best speakers (and *paying* them), the most comfortable venue, and making sure the event is accessible to everyone. The organizing team was unable to dedicate the time and effort needed for this in 2020. We hope to run StarCon sometime in the future. Stay tuned!
 
 ## Where and When
 
-StarCon 2019 was held in Waterloo on January 19-20, 2019! Subcribe to our [mailing list](https://starcon.us16.list-manage.com/subscribe/post?u=5577d37b5a332e0df8c232920&id=d6a129f1a2) or follow us on [Twitter](https://twitter.com/StarConKW) or [Facebook](https://www.facebook.com/starconkw/) to get updates.
-
-You can read about our venue (including parking and accessibility) [here](/venue).
+StarCon 2019 was held in Waterloo on January 19-20, 2019!
 
 ## Speakers
 
 Our 2019 speakers can be found [here](speakers) and recorded videos can be found [here](https://www.youtube.com/playlist?list=PL66LdfYKVsijLWaiFCxze6-6xT9bVKqIl).
 
 Our 2018 speakers can be found [here](2018/speakers) and recorded videos can be found [here](https://www.youtube.com/playlist?list=PL66LdfYKVsiikB7G8px8tiU6hzd46PR0P).
-
-<!-- ## Who Can Attend
-
-This conference is open to everyone!
--->
-## Policies
-
-Learn about our photography, alcohol, and other policies [here](/policies)!
-
-## StarCon 2018
-
-StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Pictures taken by [Neha](https://www.instagram.com/ravellaaa) have been posted [here](https://www.flickr.com/photos/155812015@N03/sets/72157692529678365). Videos of recorded talks can be found [here](https://www.youtube.com/watch?v=W3odFBq59zI&list=PL66LdfYKVsiikB7G8px8tiU6hzd46PR0P).
-
-{::nomarkdown}
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My love of this conference format CANNOT be overstated. The speakers at <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a> are rocking it. Congrats on a badass morning. <a href="https://twitter.com/hashtag/KWawesome?src=hash&amp;ref_src=twsrc%5Etfw">#KWawesome</a></p>&mdash; Sam Campbell (@MsSammieRose) <a href="https://twitter.com/MsSammieRose/status/949706977516466176?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I went to <a href="https://twitter.com/StarConKW?ref_src=twsrc%5Etfw">@StarConKW</a> this year and it was GREAT, would highly recommend sponsoring so they can make it even more awesome next year <a href="https://t.co/339MMp0Z1P">https://t.co/339MMp0Z1P</a></p>&mdash; 🔎Julia Evans🔍 (@b0rk) <a href="https://twitter.com/b0rk/status/996068396960755713?ref_src=twsrc%5Etfw">May 14, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m enjoying the consistent theme across talks that people are awesome, learning is the best, and we&#39;ve had good experiences with communities around our tech of choice. There&#39;s a lot of nice excitement in this room. <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a></p>&mdash; Breanne Boland (@breanneboland) <a href="https://twitter.com/breanneboland/status/949737637954269184?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today at <a href="https://twitter.com/hashtag/starcon?src=hash&amp;ref_src=twsrc%5Etfw">#starcon</a> I learned so much, all interesting things that I would never have thought to google</p>&mdash; Tristan (@DrTeePot) <a href="https://twitter.com/DrTeePot/status/949754079999270912?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
-
-<br/>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-{:/}
 
 ## Where can I get updates?
 
